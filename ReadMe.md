@@ -109,8 +109,8 @@ id: Canada
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Canada//
-markerFolder: ./Canada/
+geojsonFolder: .//
+markerFolder: ./
 ```
 
 [name-en::Canada] 
