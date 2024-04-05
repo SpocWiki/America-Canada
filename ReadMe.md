@@ -36,6 +36,54 @@ Languages:
 - iu
 ---
 
+# Canada 
+
+[name-en::Canada] 
+[name-de::Kanada] 
+
+[ISO2::CA] 
+[ISO3::CAN] 
+
+#has_/url_for_/code_repository :: https://github.com/SpocWiki/America-Canada 
+
+This Repository/Folder/Wiki/Vault contains freely usable Text and Data 
+covering the Country of [Canada](https://en.wikipedia.org/wiki/Canada).   
+
+This Repository is intended to be shared as a common basis, 
+by including it as a Sub-Repository in local File-Systems, 
+specifically as part of the [\_Standards](https://github.com/SpocWiki/_Standards) Repository. 
+
+Check out this Repository into this Subfolder: 
+\_Standards/geo/Continent/America~North/Canada
+
+
+## #has_/text_of_/abstract  
+
+
+## Maps and Flags 
+
+### #has_/image_for_/coat_of_arms 
+
+
+#has_/image_for_/coat_of_arms :: ![[./Coat_of_arms_of_Canada.svg|250]]<img src="./Coat_of_arms_of_Canada.svg" width=250/> 
+
+![[Anthem-Canada.mp3]] 
+
+### #has_/image_for_/flag
+
+#has_/image_for_/flag :: ![[./Flag_of_Canada.svg|200]] <img src="./Flag_of_Canada.svg" width=200/> 
+
+
+### #has_/map
+
+```leaflet
+id: Canada
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
+geojsonFolder: .//
+markerFolder: ./
+```
 
 [	ISO4217-currency_alphabetic	 :: CAD ] 
 [	ISO4217-currency_name	 :: Canadian Dollar ] 
@@ -100,27 +148,6 @@ Sub-region_Name ::  [[Northern America]]
 
 [	ISO3166-1-numeric	 :: 124 ] 
 
-
-
-[ISO2::CA] 
-[ISO3::CAN] 
-```leaflet
-id: Canada
-zoomFeatures: true 
-minZoom: 2 
-maxZoom: 18
-geojsonFolder: .//
-markerFolder: ./
-```
-
-[name-en::Canada] 
-[name-de::Kanada] 
-
-![[Canada/Coat_of_arms_of_Canada.svg|350]] 
-
-![[Anthem-Canada.mp3]] 
-
-![[Canada/Flag_of_Canada.svg|350]] 
 
 [Area-Total::9958319] 
 [Area-Land::9220970] 
