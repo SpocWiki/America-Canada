@@ -15,8 +15,10 @@ aliases:
 [name-abbr::QUE] 
 Country :: [[../../Canada]]  
 Capital :: [[Quebeck/City/Quebec]]  
-[geo-lon::-72.435] 
-[geo-lat::46.15] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-72.435] 
+[has_place_latitude::46.15] 
 [Population::] 
 
 

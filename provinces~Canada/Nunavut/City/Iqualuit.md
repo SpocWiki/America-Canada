@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::-68.51972] 
-[geo-lat::63.74861] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-68.51972] 
+[has_place_latitude::63.74861] 
 [name::Iqualuit] 
 State ::  
 Country :: [[../../../../Canada]]  

@@ -14,8 +14,10 @@ confidential: public
 [name-abbr::YKT] 
 Country :: [[../../Canada]]  
 Capital :: [[Youkon_Territory/City/Whitehorse]]  
-[geo-lon::-135.05] 
-[geo-lat::60.7167] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-135.05] 
+[has_place_latitude::60.7167] 
 [Population::] 
 
 

@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::-113.5167] 
-[geo-lat::53.56667] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-113.5167] 
+[has_place_latitude::53.56667] 
 [name::Edmonton] 
 State ::  
 Country :: [[../../../../Canada]]  

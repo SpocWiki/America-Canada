@@ -14,8 +14,10 @@ confidential: public
 [name-abbr::ALB] 
 Country :: [[../../Canada]]  
 Capital :: [[Alberta/City/Edmonton]]  
-[geo-lon::-113.517] 
-[geo-lat::53.5667] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-113.517] 
+[has_place_latitude::53.5667] 
 [Population::] 
 
 

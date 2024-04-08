@@ -14,8 +14,10 @@ confidential: public
 [name-abbr::NWB] 
 Country :: [[../../Canada]]  
 Capital :: [[New_Brunswick/City/Fredericton]]  
-[geo-lon::-66.6667] 
-[geo-lat::45.95] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-66.6667] 
+[has_place_latitude::45.95] 
 [Population::] 
 
 

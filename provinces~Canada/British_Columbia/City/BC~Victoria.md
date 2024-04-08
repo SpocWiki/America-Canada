@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::-123.3657] 
-[geo-lat::48.42215] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-123.3657] 
+[has_place_latitude::48.42215] 
 [name::BC~Victoria] 
 State ::  
 Country :: [[../../../../Canada]]  

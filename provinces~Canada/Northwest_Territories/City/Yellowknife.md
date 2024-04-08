@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::-114.3975] 
-[geo-lat::62.44222] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-114.3975] 
+[has_place_latitude::62.44222] 
 [name::Yellowknife] 
 State ::  
 Country :: [[../../../../Canada]]  

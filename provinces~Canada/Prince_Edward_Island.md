@@ -14,8 +14,10 @@ confidential: public
 [name-abbr::PEI] 
 Country :: [[../../Canada]]  
 Capital :: [[../City/Charlottetown]]  
-[geo-lon::-63.1399] 
-[geo-lat::46.24] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-63.1399] 
+[has_place_latitude::46.24] 
 [Population::] 
 
 

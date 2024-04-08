@@ -15,8 +15,10 @@ confidential: public
 [name-abbr::NVS] 
 Country :: [[../../Canada]]  
 Capital :: [[../City/NS~Halifax]]  
-[geo-lon::-63.61] 
-[geo-lat::44.67] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-63.61] 
+[has_place_latitude::44.67] 
 [Population::] 
 
 

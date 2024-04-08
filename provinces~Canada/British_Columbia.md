@@ -14,8 +14,10 @@ confidential: public
 [name-abbr::BRC] 
 Country :: [[../../Canada]]  
 Capital :: [[Victoria]]  
-[geo-lon::-123.243] 
-[geo-lat::48.8461] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-123.243] 
+[has_place_latitude::48.8461] 
 [Population::] 
 
 

@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::-123.12] 
-[geo-lat::49.27] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-123.12] 
+[has_place_latitude::49.27] 
 [name::Vancouver] 
 State ::  
 Country :: [[../../../../Canada]]  

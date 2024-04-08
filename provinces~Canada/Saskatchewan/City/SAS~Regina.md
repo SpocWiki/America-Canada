@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::-105.6814] 
-[geo-lat::54.5] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-105.6814] 
+[has_place_latitude::54.5] 
 [name::SAS~Regina] 
 State ::  
 Country :: [[../../../../Canada]]  

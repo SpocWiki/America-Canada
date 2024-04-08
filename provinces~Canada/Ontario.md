@@ -14,8 +14,10 @@ confidential: public
 [name-abbr::ONT] 
 Country :: [[../../Canada]]  
 Capital :: [[Ontario/City/Toronto]]  
-[geo-lon::-77.535] 
-[geo-lat::44.37] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-77.535] 
+[has_place_latitude::44.37] 
 [Population::] 
 
 

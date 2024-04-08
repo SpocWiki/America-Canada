@@ -14,8 +14,10 @@ confidential: public
 [name-abbr::NWT] 
 Country :: [[../../Canada]]  
 Capital :: [[Northwest_Territories/City/Yellowknife]]  
-[geo-lon::-114.397] 
-[geo-lat::62.4422] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-114.397] 
+[has_place_latitude::62.4422] 
 [Population::] 
 
 

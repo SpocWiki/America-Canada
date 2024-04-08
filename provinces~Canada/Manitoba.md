@@ -14,8 +14,10 @@ confidential: public
 [name-abbr::MAN] 
 Country :: [[../../Canada]]  
 Capital :: [[Manitoba/City/Winnipeg]]  
-[geo-lon::-97.1392] 
-[geo-lat::49.8994] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-97.1392] 
+[has_place_latitude::49.8994] 
 [Population::] 
 
 

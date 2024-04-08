@@ -14,8 +14,10 @@ confidential: public
 [name-abbr::NWF] 
 Country :: [[../../Canada]]  
 Capital :: [[Newfoundland-Labrador/City/NFD~St._Johns]]  
-[geo-lon::-53.6536] 
-[geo-lat::48.2838] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-53.6536] 
+[has_place_latitude::48.2838] 
 [Population::] 
 
 

@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::-52.70722] 
-[geo-lat::47.5675] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-52.70722] 
+[has_place_latitude::47.5675] 
 [name::NFD~St. Johns] 
 State ::  
 Country :: [[../../../../Canada]]  
