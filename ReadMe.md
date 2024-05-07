@@ -90,8 +90,8 @@ id: Canada
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: .//
-markerFolder: ./
+geojsonFolder: provinces~Canada/
+markerFolder: provinces~Canada/
 ```
 
 #has_/telephone_/Prefix_/International :: 011
