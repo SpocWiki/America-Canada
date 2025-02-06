@@ -1,14 +1,15 @@
 ---
-location: [48.8461,-123.243] 
+location:
+  - 48.8461
+  - -123.243
 type: State
 tags:
-- geo/State
-
-
+  - geo/State
 SpocWebEntityId: 36004
 isDeleted: false
 confidential: public
-
+aliases:
+  - British Columbia
 ---
 [name::British Columbia] 
 [name-abbr::BRC] 

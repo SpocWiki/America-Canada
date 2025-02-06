@@ -1,14 +1,15 @@
 ---
-location: [45.95,-66.6667] 
+location:
+  - 45.95
+  - -66.6667
 type: State
 tags:
-- geo/State
-
-
+  - geo/State
 SpocWebEntityId: 36006
 isDeleted: false
 confidential: public
-
+aliases:
+  - New Brunswick
 ---
 [name::New Brunswick] 
 [name-abbr::NWB] 

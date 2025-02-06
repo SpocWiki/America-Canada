@@ -1,16 +1,19 @@
-﻿---
-location: [46.8,-71.27] 
-mapzoom: [7,12] 
-mapmarker: city 
+---
+location:
+  - 46.8
+  - -71.27
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 33576
 isDeleted: false
 confidential: public
-
+aliases:
+  - Québec City
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

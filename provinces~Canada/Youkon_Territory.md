@@ -1,14 +1,15 @@
 ---
-location: [60.7167,-135.05] 
+location:
+  - 60.7167
+  - -135.05
 type: State
 tags:
-- geo/State
-
-
+  - geo/State
 SpocWebEntityId: 36014
 isDeleted: false
 confidential: public
-
+aliases:
+  - Youkon Territory
 ---
 [name::Youkon Territory] 
 [name-abbr::YKT] 

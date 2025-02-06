@@ -1,14 +1,15 @@
 ---
-location: [46.24,-63.1399] 
+location:
+  - 46.24
+  - -63.1399
 type: State
 tags:
-- geo/State
-
-
+  - geo/State
 SpocWebEntityId: 36010
 isDeleted: false
 confidential: public
-
+aliases:
+  - Price Edward Island
 ---
 [name::Price Edward Island] 
 [name-abbr::PEI] 

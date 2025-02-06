@@ -1,14 +1,15 @@
 ---
-location: [62.4422,-114.397] 
+location:
+  - 62.4422
+  - -114.397
 type: State
 tags:
-- geo/State
-
-
+  - geo/State
 SpocWebEntityId: 36013
 isDeleted: false
 confidential: public
-
+aliases:
+  - Northwest Territories
 ---
 [name::Northwest Territories] 
 [name-abbr::NWT] 

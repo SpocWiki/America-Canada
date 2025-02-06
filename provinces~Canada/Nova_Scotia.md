@@ -1,14 +1,15 @@
 ---
-location: [44.67,-63.61] 
+location:
+  - 44.67
+  - -63.61
 type: State
 tags:
-- geo/State
-
-
+  - geo/State
 SpocWebEntityId: 36008
 isDeleted: false
 confidential: public
-
+aliases:
+  - Nova Scotia
 ---
 
 [name::Nova Scotia] 
