@@ -11,6 +11,8 @@ confidential: public
 aliases:
   - Price Edward Island
 ---
+
+
 [name::Price Edward Island] 
 [name-abbr::PEI] 
 Country :: [[../../Canada]]  

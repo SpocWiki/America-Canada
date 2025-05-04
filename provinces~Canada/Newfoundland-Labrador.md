@@ -1,14 +1,17 @@
 ---
-location: [48.2838,-53.6536] 
+location:
+  - 48.2838
+  - -53.6536
 type: State
 tags:
-- geo/State
-
-
+  - geo/State
 SpocWebEntityId: 36007
 isDeleted: false
 confidential: public
-
+aliases:
+  - Newfoundland-Labrador
+  - Newfoundland
+  - Newfoundland and Labrador
 ---
 [name::Newfoundland] 
 [name-abbr::NWF] 
