@@ -41,15 +41,17 @@ markerFolder: ./State/
 
 ## Confidential Links & Embeds: 
 
-### [State.public](/_public/\Earth\Continent\America~North\CanadaState.public.md) 
+### [State](/_Standards/Earth/Continent/America~North/Canada/State.md) 
 
-### [State.internal](/_internal/\Earth\Continent\America~North\CanadaState.internal.md) 
+### [State.public](/_public/Earth/Continent/America~North/Canada/State.public.md) 
 
-### [State.protect](/_protect/\Earth\Continent\America~North\CanadaState.protect.md) 
+### [State.internal](/_internal/Earth/Continent/America~North/Canada/State.internal.md) 
 
-### [State.private](/_private/\Earth\Continent\America~North\CanadaState.private.md) 
+### [State.protect](/_protect/Earth/Continent/America~North/Canada/State.protect.md) 
 
-### [State.personal](/_personal/\Earth\Continent\America~North\CanadaState.personal.md) 
+### [State.private](/_private/Earth/Continent/America~North/Canada/State.private.md) 
 
-### [State.secret](/_secret/\Earth\Continent\America~North\CanadaState.secret.md)
+### [State.personal](/_personal/Earth/Continent/America~North/Canada/State.personal.md) 
+
+### [State.secret](/_secret/Earth/Continent/America~North/Canada/State.secret.md)
 

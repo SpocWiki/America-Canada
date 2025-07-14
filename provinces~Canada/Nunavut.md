@@ -41,15 +41,17 @@ markerFolder: ./Nunavut/
 
 ## Confidential Links & Embeds: 
 
-### [Nunavut.public](/_public/\Earth\Continent\America~North\Canada\provinces~CanadaNunavut.public.md) 
+### [Nunavut](/_Standards/Earth/Continent/America~North/Canada/provinces~Canada/Nunavut.md) 
 
-### [Nunavut.internal](/_internal/\Earth\Continent\America~North\Canada\provinces~CanadaNunavut.internal.md) 
+### [Nunavut.public](/_public/Earth/Continent/America~North/Canada/provinces~Canada/Nunavut.public.md) 
 
-### [Nunavut.protect](/_protect/\Earth\Continent\America~North\Canada\provinces~CanadaNunavut.protect.md) 
+### [Nunavut.internal](/_internal/Earth/Continent/America~North/Canada/provinces~Canada/Nunavut.internal.md) 
 
-### [Nunavut.private](/_private/\Earth\Continent\America~North\Canada\provinces~CanadaNunavut.private.md) 
+### [Nunavut.protect](/_protect/Earth/Continent/America~North/Canada/provinces~Canada/Nunavut.protect.md) 
 
-### [Nunavut.personal](/_personal/\Earth\Continent\America~North\Canada\provinces~CanadaNunavut.personal.md) 
+### [Nunavut.private](/_private/Earth/Continent/America~North/Canada/provinces~Canada/Nunavut.private.md) 
 
-### [Nunavut.secret](/_secret/\Earth\Continent\America~North\Canada\provinces~CanadaNunavut.secret.md)
+### [Nunavut.personal](/_personal/Earth/Continent/America~North/Canada/provinces~Canada/Nunavut.personal.md) 
+
+### [Nunavut.secret](/_secret/Earth/Continent/America~North/Canada/provinces~Canada/Nunavut.secret.md)
 

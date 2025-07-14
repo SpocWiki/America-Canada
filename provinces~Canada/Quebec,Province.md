@@ -36,15 +36,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Quebec,Province.public](/_public/\Earth\Continent\America~North\Canada\provinces~CanadaQuebec,Province.public.md) 
+### [Quebec,Province](/_Standards/Earth/Continent/America~North/Canada/provinces~Canada/Quebec,Province.md) 
 
-### [Quebec,Province.internal](/_internal/\Earth\Continent\America~North\Canada\provinces~CanadaQuebec,Province.internal.md) 
+### [Quebec,Province.public](/_public/Earth/Continent/America~North/Canada/provinces~Canada/Quebec,Province.public.md) 
 
-### [Quebec,Province.protect](/_protect/\Earth\Continent\America~North\Canada\provinces~CanadaQuebec,Province.protect.md) 
+### [Quebec,Province.internal](/_internal/Earth/Continent/America~North/Canada/provinces~Canada/Quebec,Province.internal.md) 
 
-### [Quebec,Province.private](/_private/\Earth\Continent\America~North\Canada\provinces~CanadaQuebec,Province.private.md) 
+### [Quebec,Province.protect](/_protect/Earth/Continent/America~North/Canada/provinces~Canada/Quebec,Province.protect.md) 
 
-### [Quebec,Province.personal](/_personal/\Earth\Continent\America~North\Canada\provinces~CanadaQuebec,Province.personal.md) 
+### [Quebec,Province.private](/_private/Earth/Continent/America~North/Canada/provinces~Canada/Quebec,Province.private.md) 
 
-### [Quebec,Province.secret](/_secret/\Earth\Continent\America~North\Canada\provinces~CanadaQuebec,Province.secret.md)
+### [Quebec,Province.personal](/_personal/Earth/Continent/America~North/Canada/provinces~Canada/Quebec,Province.personal.md) 
+
+### [Quebec,Province.secret](/_secret/Earth/Continent/America~North/Canada/provinces~Canada/Quebec,Province.secret.md)
 

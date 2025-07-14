@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Gander.public](/_public/\Earth\Continent\America~North\Canada\provinces~Canada\Newfoundland-Labrador\CityGander.public.md) 
+### [Gander](/_Standards/Earth/Continent/America~North/Canada/provinces~Canada/Newfoundland-Labrador/City/Gander.md) 
 
-### [Gander.internal](/_internal/\Earth\Continent\America~North\Canada\provinces~Canada\Newfoundland-Labrador\CityGander.internal.md) 
+### [Gander.public](/_public/Earth/Continent/America~North/Canada/provinces~Canada/Newfoundland-Labrador/City/Gander.public.md) 
 
-### [Gander.protect](/_protect/\Earth\Continent\America~North\Canada\provinces~Canada\Newfoundland-Labrador\CityGander.protect.md) 
+### [Gander.internal](/_internal/Earth/Continent/America~North/Canada/provinces~Canada/Newfoundland-Labrador/City/Gander.internal.md) 
 
-### [Gander.private](/_private/\Earth\Continent\America~North\Canada\provinces~Canada\Newfoundland-Labrador\CityGander.private.md) 
+### [Gander.protect](/_protect/Earth/Continent/America~North/Canada/provinces~Canada/Newfoundland-Labrador/City/Gander.protect.md) 
 
-### [Gander.personal](/_personal/\Earth\Continent\America~North\Canada\provinces~Canada\Newfoundland-Labrador\CityGander.personal.md) 
+### [Gander.private](/_private/Earth/Continent/America~North/Canada/provinces~Canada/Newfoundland-Labrador/City/Gander.private.md) 
 
-### [Gander.secret](/_secret/\Earth\Continent\America~North\Canada\provinces~Canada\Newfoundland-Labrador\CityGander.secret.md)
+### [Gander.personal](/_personal/Earth/Continent/America~North/Canada/provinces~Canada/Newfoundland-Labrador/City/Gander.personal.md) 
+
+### [Gander.secret](/_secret/Earth/Continent/America~North/Canada/provinces~Canada/Newfoundland-Labrador/City/Gander.secret.md)
 

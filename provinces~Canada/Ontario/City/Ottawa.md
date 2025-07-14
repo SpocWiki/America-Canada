@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Ottawa.public](/_public/\Earth\Continent\America~North\Canada\provinces~Canada\Ontario\CityOttawa.public.md) 
+### [Ottawa](/_Standards/Earth/Continent/America~North/Canada/provinces~Canada/Ontario/City/Ottawa.md) 
 
-### [Ottawa.internal](/_internal/\Earth\Continent\America~North\Canada\provinces~Canada\Ontario\CityOttawa.internal.md) 
+### [Ottawa.public](/_public/Earth/Continent/America~North/Canada/provinces~Canada/Ontario/City/Ottawa.public.md) 
 
-### [Ottawa.protect](/_protect/\Earth\Continent\America~North\Canada\provinces~Canada\Ontario\CityOttawa.protect.md) 
+### [Ottawa.internal](/_internal/Earth/Continent/America~North/Canada/provinces~Canada/Ontario/City/Ottawa.internal.md) 
 
-### [Ottawa.private](/_private/\Earth\Continent\America~North\Canada\provinces~Canada\Ontario\CityOttawa.private.md) 
+### [Ottawa.protect](/_protect/Earth/Continent/America~North/Canada/provinces~Canada/Ontario/City/Ottawa.protect.md) 
 
-### [Ottawa.personal](/_personal/\Earth\Continent\America~North\Canada\provinces~Canada\Ontario\CityOttawa.personal.md) 
+### [Ottawa.private](/_private/Earth/Continent/America~North/Canada/provinces~Canada/Ontario/City/Ottawa.private.md) 
 
-### [Ottawa.secret](/_secret/\Earth\Continent\America~North\Canada\provinces~Canada\Ontario\CityOttawa.secret.md)
+### [Ottawa.personal](/_personal/Earth/Continent/America~North/Canada/provinces~Canada/Ontario/City/Ottawa.personal.md) 
+
+### [Ottawa.secret](/_secret/Earth/Continent/America~North/Canada/provinces~Canada/Ontario/City/Ottawa.secret.md)
 

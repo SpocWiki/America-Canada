@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Fredericton.public](/_public/\Earth\Continent\America~North\Canada\provinces~Canada\New_Brunswick\CityFredericton.public.md) 
+### [Fredericton](/_Standards/Earth/Continent/America~North/Canada/provinces~Canada/New_Brunswick/City/Fredericton.md) 
 
-### [Fredericton.internal](/_internal/\Earth\Continent\America~North\Canada\provinces~Canada\New_Brunswick\CityFredericton.internal.md) 
+### [Fredericton.public](/_public/Earth/Continent/America~North/Canada/provinces~Canada/New_Brunswick/City/Fredericton.public.md) 
 
-### [Fredericton.protect](/_protect/\Earth\Continent\America~North\Canada\provinces~Canada\New_Brunswick\CityFredericton.protect.md) 
+### [Fredericton.internal](/_internal/Earth/Continent/America~North/Canada/provinces~Canada/New_Brunswick/City/Fredericton.internal.md) 
 
-### [Fredericton.private](/_private/\Earth\Continent\America~North\Canada\provinces~Canada\New_Brunswick\CityFredericton.private.md) 
+### [Fredericton.protect](/_protect/Earth/Continent/America~North/Canada/provinces~Canada/New_Brunswick/City/Fredericton.protect.md) 
 
-### [Fredericton.personal](/_personal/\Earth\Continent\America~North\Canada\provinces~Canada\New_Brunswick\CityFredericton.personal.md) 
+### [Fredericton.private](/_private/Earth/Continent/America~North/Canada/provinces~Canada/New_Brunswick/City/Fredericton.private.md) 
 
-### [Fredericton.secret](/_secret/\Earth\Continent\America~North\Canada\provinces~Canada\New_Brunswick\CityFredericton.secret.md)
+### [Fredericton.personal](/_personal/Earth/Continent/America~North/Canada/provinces~Canada/New_Brunswick/City/Fredericton.personal.md) 
+
+### [Fredericton.secret](/_secret/Earth/Continent/America~North/Canada/provinces~Canada/New_Brunswick/City/Fredericton.secret.md)
 

@@ -41,15 +41,17 @@ markerFolder: ./Rivers~Nova_Scotia/
 
 ## Confidential Links & Embeds: 
 
-### [Rivers~Nova_Scotia.public](/_public/\Earth\Continent\America~North\Canada\provinces~Canada\Nova_Scotia\_RiversRivers~Nova_Scotia.public.md) 
+### [Rivers~Nova_Scotia](/_Standards/Earth/Continent/America~North/Canada/provinces~Canada/Nova_Scotia/_Rivers/Rivers~Nova_Scotia.md) 
 
-### [Rivers~Nova_Scotia.internal](/_internal/\Earth\Continent\America~North\Canada\provinces~Canada\Nova_Scotia\_RiversRivers~Nova_Scotia.internal.md) 
+### [Rivers~Nova_Scotia.public](/_public/Earth/Continent/America~North/Canada/provinces~Canada/Nova_Scotia/_Rivers/Rivers~Nova_Scotia.public.md) 
 
-### [Rivers~Nova_Scotia.protect](/_protect/\Earth\Continent\America~North\Canada\provinces~Canada\Nova_Scotia\_RiversRivers~Nova_Scotia.protect.md) 
+### [Rivers~Nova_Scotia.internal](/_internal/Earth/Continent/America~North/Canada/provinces~Canada/Nova_Scotia/_Rivers/Rivers~Nova_Scotia.internal.md) 
 
-### [Rivers~Nova_Scotia.private](/_private/\Earth\Continent\America~North\Canada\provinces~Canada\Nova_Scotia\_RiversRivers~Nova_Scotia.private.md) 
+### [Rivers~Nova_Scotia.protect](/_protect/Earth/Continent/America~North/Canada/provinces~Canada/Nova_Scotia/_Rivers/Rivers~Nova_Scotia.protect.md) 
 
-### [Rivers~Nova_Scotia.personal](/_personal/\Earth\Continent\America~North\Canada\provinces~Canada\Nova_Scotia\_RiversRivers~Nova_Scotia.personal.md) 
+### [Rivers~Nova_Scotia.private](/_private/Earth/Continent/America~North/Canada/provinces~Canada/Nova_Scotia/_Rivers/Rivers~Nova_Scotia.private.md) 
 
-### [Rivers~Nova_Scotia.secret](/_secret/\Earth\Continent\America~North\Canada\provinces~Canada\Nova_Scotia\_RiversRivers~Nova_Scotia.secret.md)
+### [Rivers~Nova_Scotia.personal](/_personal/Earth/Continent/America~North/Canada/provinces~Canada/Nova_Scotia/_Rivers/Rivers~Nova_Scotia.personal.md) 
+
+### [Rivers~Nova_Scotia.secret](/_secret/Earth/Continent/America~North/Canada/provinces~Canada/Nova_Scotia/_Rivers/Rivers~Nova_Scotia.secret.md)
 

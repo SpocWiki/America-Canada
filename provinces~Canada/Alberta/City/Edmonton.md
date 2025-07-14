@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Edmonton.public](/_public/\Earth\Continent\America~North\Canada\provinces~Canada\Alberta\CityEdmonton.public.md) 
+### [Edmonton](/_Standards/Earth/Continent/America~North/Canada/provinces~Canada/Alberta/City/Edmonton.md) 
 
-### [Edmonton.internal](/_internal/\Earth\Continent\America~North\Canada\provinces~Canada\Alberta\CityEdmonton.internal.md) 
+### [Edmonton.public](/_public/Earth/Continent/America~North/Canada/provinces~Canada/Alberta/City/Edmonton.public.md) 
 
-### [Edmonton.protect](/_protect/\Earth\Continent\America~North\Canada\provinces~Canada\Alberta\CityEdmonton.protect.md) 
+### [Edmonton.internal](/_internal/Earth/Continent/America~North/Canada/provinces~Canada/Alberta/City/Edmonton.internal.md) 
 
-### [Edmonton.private](/_private/\Earth\Continent\America~North\Canada\provinces~Canada\Alberta\CityEdmonton.private.md) 
+### [Edmonton.protect](/_protect/Earth/Continent/America~North/Canada/provinces~Canada/Alberta/City/Edmonton.protect.md) 
 
-### [Edmonton.personal](/_personal/\Earth\Continent\America~North\Canada\provinces~Canada\Alberta\CityEdmonton.personal.md) 
+### [Edmonton.private](/_private/Earth/Continent/America~North/Canada/provinces~Canada/Alberta/City/Edmonton.private.md) 
 
-### [Edmonton.secret](/_secret/\Earth\Continent\America~North\Canada\provinces~Canada\Alberta\CityEdmonton.secret.md)
+### [Edmonton.personal](/_personal/Earth/Continent/America~North/Canada/provinces~Canada/Alberta/City/Edmonton.personal.md) 
+
+### [Edmonton.secret](/_secret/Earth/Continent/America~North/Canada/provinces~Canada/Alberta/City/Edmonton.secret.md)
 

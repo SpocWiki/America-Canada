@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [NFD~St._Johns.public](/_public/\Earth\Continent\America~North\Canada\provinces~Canada\Newfoundland-Labrador\CityNFD~St._Johns.public.md) 
+### [NFD~St._Johns](/_Standards/Earth/Continent/America~North/Canada/provinces~Canada/Newfoundland-Labrador/City/NFD~St._Johns.md) 
 
-### [NFD~St._Johns.internal](/_internal/\Earth\Continent\America~North\Canada\provinces~Canada\Newfoundland-Labrador\CityNFD~St._Johns.internal.md) 
+### [NFD~St._Johns.public](/_public/Earth/Continent/America~North/Canada/provinces~Canada/Newfoundland-Labrador/City/NFD~St._Johns.public.md) 
 
-### [NFD~St._Johns.protect](/_protect/\Earth\Continent\America~North\Canada\provinces~Canada\Newfoundland-Labrador\CityNFD~St._Johns.protect.md) 
+### [NFD~St._Johns.internal](/_internal/Earth/Continent/America~North/Canada/provinces~Canada/Newfoundland-Labrador/City/NFD~St._Johns.internal.md) 
 
-### [NFD~St._Johns.private](/_private/\Earth\Continent\America~North\Canada\provinces~Canada\Newfoundland-Labrador\CityNFD~St._Johns.private.md) 
+### [NFD~St._Johns.protect](/_protect/Earth/Continent/America~North/Canada/provinces~Canada/Newfoundland-Labrador/City/NFD~St._Johns.protect.md) 
 
-### [NFD~St._Johns.personal](/_personal/\Earth\Continent\America~North\Canada\provinces~Canada\Newfoundland-Labrador\CityNFD~St._Johns.personal.md) 
+### [NFD~St._Johns.private](/_private/Earth/Continent/America~North/Canada/provinces~Canada/Newfoundland-Labrador/City/NFD~St._Johns.private.md) 
 
-### [NFD~St._Johns.secret](/_secret/\Earth\Continent\America~North\Canada\provinces~Canada\Newfoundland-Labrador\CityNFD~St._Johns.secret.md)
+### [NFD~St._Johns.personal](/_personal/Earth/Continent/America~North/Canada/provinces~Canada/Newfoundland-Labrador/City/NFD~St._Johns.personal.md) 
+
+### [NFD~St._Johns.secret](/_secret/Earth/Continent/America~North/Canada/provinces~Canada/Newfoundland-Labrador/City/NFD~St._Johns.secret.md)
 

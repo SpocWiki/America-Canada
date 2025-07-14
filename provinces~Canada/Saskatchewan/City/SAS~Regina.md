@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [SAS~Regina.public](/_public/\Earth\Continent\America~North\Canada\provinces~Canada\Saskatchewan\CitySAS~Regina.public.md) 
+### [SAS~Regina](/_Standards/Earth/Continent/America~North/Canada/provinces~Canada/Saskatchewan/City/SAS~Regina.md) 
 
-### [SAS~Regina.internal](/_internal/\Earth\Continent\America~North\Canada\provinces~Canada\Saskatchewan\CitySAS~Regina.internal.md) 
+### [SAS~Regina.public](/_public/Earth/Continent/America~North/Canada/provinces~Canada/Saskatchewan/City/SAS~Regina.public.md) 
 
-### [SAS~Regina.protect](/_protect/\Earth\Continent\America~North\Canada\provinces~Canada\Saskatchewan\CitySAS~Regina.protect.md) 
+### [SAS~Regina.internal](/_internal/Earth/Continent/America~North/Canada/provinces~Canada/Saskatchewan/City/SAS~Regina.internal.md) 
 
-### [SAS~Regina.private](/_private/\Earth\Continent\America~North\Canada\provinces~Canada\Saskatchewan\CitySAS~Regina.private.md) 
+### [SAS~Regina.protect](/_protect/Earth/Continent/America~North/Canada/provinces~Canada/Saskatchewan/City/SAS~Regina.protect.md) 
 
-### [SAS~Regina.personal](/_personal/\Earth\Continent\America~North\Canada\provinces~Canada\Saskatchewan\CitySAS~Regina.personal.md) 
+### [SAS~Regina.private](/_private/Earth/Continent/America~North/Canada/provinces~Canada/Saskatchewan/City/SAS~Regina.private.md) 
 
-### [SAS~Regina.secret](/_secret/\Earth\Continent\America~North\Canada\provinces~Canada\Saskatchewan\CitySAS~Regina.secret.md)
+### [SAS~Regina.personal](/_personal/Earth/Continent/America~North/Canada/provinces~Canada/Saskatchewan/City/SAS~Regina.personal.md) 
+
+### [SAS~Regina.secret](/_secret/Earth/Continent/America~North/Canada/provinces~Canada/Saskatchewan/City/SAS~Regina.secret.md)
 

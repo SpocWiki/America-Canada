@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Ontario.public](/_public/\Earth\Continent\America~North\Canada\provinces~CanadaOntario.public.md) 
+### [Ontario](/_Standards/Earth/Continent/America~North/Canada/provinces~Canada/Ontario.md) 
 
-### [Ontario.internal](/_internal/\Earth\Continent\America~North\Canada\provinces~CanadaOntario.internal.md) 
+### [Ontario.public](/_public/Earth/Continent/America~North/Canada/provinces~Canada/Ontario.public.md) 
 
-### [Ontario.protect](/_protect/\Earth\Continent\America~North\Canada\provinces~CanadaOntario.protect.md) 
+### [Ontario.internal](/_internal/Earth/Continent/America~North/Canada/provinces~Canada/Ontario.internal.md) 
 
-### [Ontario.private](/_private/\Earth\Continent\America~North\Canada\provinces~CanadaOntario.private.md) 
+### [Ontario.protect](/_protect/Earth/Continent/America~North/Canada/provinces~Canada/Ontario.protect.md) 
 
-### [Ontario.personal](/_personal/\Earth\Continent\America~North\Canada\provinces~CanadaOntario.personal.md) 
+### [Ontario.private](/_private/Earth/Continent/America~North/Canada/provinces~Canada/Ontario.private.md) 
 
-### [Ontario.secret](/_secret/\Earth\Continent\America~North\Canada\provinces~CanadaOntario.secret.md)
+### [Ontario.personal](/_personal/Earth/Continent/America~North/Canada/provinces~Canada/Ontario.personal.md) 
+
+### [Ontario.secret](/_secret/Earth/Continent/America~North/Canada/provinces~Canada/Ontario.secret.md)
 

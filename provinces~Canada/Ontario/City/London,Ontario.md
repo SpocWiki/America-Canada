@@ -26,20 +26,19 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/London,%20Ontario)
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
-### [London,Ontario.public](/_public/\Earth\Continent\America~North\Canada\provinces~Canada\Ontario\CityLondon,Ontario.public.md) 
+### [London,Ontario](/_Standards/Earth/Continent/America~North/Canada/provinces~Canada/Ontario/City/London,Ontario.md) 
 
-### [London,Ontario.internal](/_internal/\Earth\Continent\America~North\Canada\provinces~Canada\Ontario\CityLondon,Ontario.internal.md) 
+### [London,Ontario.public](/_public/Earth/Continent/America~North/Canada/provinces~Canada/Ontario/City/London,Ontario.public.md) 
 
-### [London,Ontario.protect](/_protect/\Earth\Continent\America~North\Canada\provinces~Canada\Ontario\CityLondon,Ontario.protect.md) 
+### [London,Ontario.internal](/_internal/Earth/Continent/America~North/Canada/provinces~Canada/Ontario/City/London,Ontario.internal.md) 
 
-### [London,Ontario.private](/_private/\Earth\Continent\America~North\Canada\provinces~Canada\Ontario\CityLondon,Ontario.private.md) 
+### [London,Ontario.protect](/_protect/Earth/Continent/America~North/Canada/provinces~Canada/Ontario/City/London,Ontario.protect.md) 
 
-### [London,Ontario.personal](/_personal/\Earth\Continent\America~North\Canada\provinces~Canada\Ontario\CityLondon,Ontario.personal.md) 
+### [London,Ontario.private](/_private/Earth/Continent/America~North/Canada/provinces~Canada/Ontario/City/London,Ontario.private.md) 
 
-### [London,Ontario.secret](/_secret/\Earth\Continent\America~North\Canada\provinces~Canada\Ontario\CityLondon,Ontario.secret.md)
+### [London,Ontario.personal](/_personal/Earth/Continent/America~North/Canada/provinces~Canada/Ontario/City/London,Ontario.personal.md) 
+
+### [London,Ontario.secret](/_secret/Earth/Continent/America~North/Canada/provinces~Canada/Ontario/City/London,Ontario.secret.md)
 

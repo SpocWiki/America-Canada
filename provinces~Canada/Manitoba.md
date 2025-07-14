@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Manitoba.public](/_public/\Earth\Continent\America~North\Canada\provinces~CanadaManitoba.public.md) 
+### [Manitoba](/_Standards/Earth/Continent/America~North/Canada/provinces~Canada/Manitoba.md) 
 
-### [Manitoba.internal](/_internal/\Earth\Continent\America~North\Canada\provinces~CanadaManitoba.internal.md) 
+### [Manitoba.public](/_public/Earth/Continent/America~North/Canada/provinces~Canada/Manitoba.public.md) 
 
-### [Manitoba.protect](/_protect/\Earth\Continent\America~North\Canada\provinces~CanadaManitoba.protect.md) 
+### [Manitoba.internal](/_internal/Earth/Continent/America~North/Canada/provinces~Canada/Manitoba.internal.md) 
 
-### [Manitoba.private](/_private/\Earth\Continent\America~North\Canada\provinces~CanadaManitoba.private.md) 
+### [Manitoba.protect](/_protect/Earth/Continent/America~North/Canada/provinces~Canada/Manitoba.protect.md) 
 
-### [Manitoba.personal](/_personal/\Earth\Continent\America~North\Canada\provinces~CanadaManitoba.personal.md) 
+### [Manitoba.private](/_private/Earth/Continent/America~North/Canada/provinces~Canada/Manitoba.private.md) 
 
-### [Manitoba.secret](/_secret/\Earth\Continent\America~North\Canada\provinces~CanadaManitoba.secret.md)
+### [Manitoba.personal](/_personal/Earth/Continent/America~North/Canada/provinces~Canada/Manitoba.personal.md) 
+
+### [Manitoba.secret](/_secret/Earth/Continent/America~North/Canada/provinces~Canada/Manitoba.secret.md)
 

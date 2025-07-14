@@ -170,15 +170,17 @@ Capital :: [[Canada/State/State~Ontario/City/Ottawa]]
 
 ## Confidential Links & Embeds: 
 
-### [ReadMe.public](/_public/\Earth\Continent\America~North\CanadaReadMe.public.md) 
+### [ReadMe](/_Standards/Earth/Continent/America~North/Canada/ReadMe.md) 
 
-### [ReadMe.internal](/_internal/\Earth\Continent\America~North\CanadaReadMe.internal.md) 
+### [ReadMe.public](/_public/Earth/Continent/America~North/Canada/ReadMe.public.md) 
 
-### [ReadMe.protect](/_protect/\Earth\Continent\America~North\CanadaReadMe.protect.md) 
+### [ReadMe.internal](/_internal/Earth/Continent/America~North/Canada/ReadMe.internal.md) 
 
-### [ReadMe.private](/_private/\Earth\Continent\America~North\CanadaReadMe.private.md) 
+### [ReadMe.protect](/_protect/Earth/Continent/America~North/Canada/ReadMe.protect.md) 
 
-### [ReadMe.personal](/_personal/\Earth\Continent\America~North\CanadaReadMe.personal.md) 
+### [ReadMe.private](/_private/Earth/Continent/America~North/Canada/ReadMe.private.md) 
 
-### [ReadMe.secret](/_secret/\Earth\Continent\America~North\CanadaReadMe.secret.md)
+### [ReadMe.personal](/_personal/Earth/Continent/America~North/Canada/ReadMe.personal.md) 
+
+### [ReadMe.secret](/_secret/Earth/Continent/America~North/Canada/ReadMe.secret.md)
 

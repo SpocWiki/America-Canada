@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [BC~Victoria.public](/_public/\Earth\Continent\America~North\Canada\provinces~Canada\British_Columbia\CityBC~Victoria.public.md) 
+### [BC~Victoria](/_Standards/Earth/Continent/America~North/Canada/provinces~Canada/British_Columbia/City/BC~Victoria.md) 
 
-### [BC~Victoria.internal](/_internal/\Earth\Continent\America~North\Canada\provinces~Canada\British_Columbia\CityBC~Victoria.internal.md) 
+### [BC~Victoria.public](/_public/Earth/Continent/America~North/Canada/provinces~Canada/British_Columbia/City/BC~Victoria.public.md) 
 
-### [BC~Victoria.protect](/_protect/\Earth\Continent\America~North\Canada\provinces~Canada\British_Columbia\CityBC~Victoria.protect.md) 
+### [BC~Victoria.internal](/_internal/Earth/Continent/America~North/Canada/provinces~Canada/British_Columbia/City/BC~Victoria.internal.md) 
 
-### [BC~Victoria.private](/_private/\Earth\Continent\America~North\Canada\provinces~Canada\British_Columbia\CityBC~Victoria.private.md) 
+### [BC~Victoria.protect](/_protect/Earth/Continent/America~North/Canada/provinces~Canada/British_Columbia/City/BC~Victoria.protect.md) 
 
-### [BC~Victoria.personal](/_personal/\Earth\Continent\America~North\Canada\provinces~Canada\British_Columbia\CityBC~Victoria.personal.md) 
+### [BC~Victoria.private](/_private/Earth/Continent/America~North/Canada/provinces~Canada/British_Columbia/City/BC~Victoria.private.md) 
 
-### [BC~Victoria.secret](/_secret/\Earth\Continent\America~North\Canada\provinces~Canada\British_Columbia\CityBC~Victoria.secret.md)
+### [BC~Victoria.personal](/_personal/Earth/Continent/America~North/Canada/provinces~Canada/British_Columbia/City/BC~Victoria.personal.md) 
+
+### [BC~Victoria.secret](/_secret/Earth/Continent/America~North/Canada/provinces~Canada/British_Columbia/City/BC~Victoria.secret.md)
 

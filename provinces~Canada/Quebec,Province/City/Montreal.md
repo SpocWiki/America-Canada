@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Montreal.public](/_public/\Earth\Continent\America~North\Canada\provinces~Canada\Quebec,Province\CityMontreal.public.md) 
+### [Montreal](/_Standards/Earth/Continent/America~North/Canada/provinces~Canada/Quebec,Province/City/Montreal.md) 
 
-### [Montreal.internal](/_internal/\Earth\Continent\America~North\Canada\provinces~Canada\Quebec,Province\CityMontreal.internal.md) 
+### [Montreal.public](/_public/Earth/Continent/America~North/Canada/provinces~Canada/Quebec,Province/City/Montreal.public.md) 
 
-### [Montreal.protect](/_protect/\Earth\Continent\America~North\Canada\provinces~Canada\Quebec,Province\CityMontreal.protect.md) 
+### [Montreal.internal](/_internal/Earth/Continent/America~North/Canada/provinces~Canada/Quebec,Province/City/Montreal.internal.md) 
 
-### [Montreal.private](/_private/\Earth\Continent\America~North\Canada\provinces~Canada\Quebec,Province\CityMontreal.private.md) 
+### [Montreal.protect](/_protect/Earth/Continent/America~North/Canada/provinces~Canada/Quebec,Province/City/Montreal.protect.md) 
 
-### [Montreal.personal](/_personal/\Earth\Continent\America~North\Canada\provinces~Canada\Quebec,Province\CityMontreal.personal.md) 
+### [Montreal.private](/_private/Earth/Continent/America~North/Canada/provinces~Canada/Quebec,Province/City/Montreal.private.md) 
 
-### [Montreal.secret](/_secret/\Earth\Continent\America~North\Canada\provinces~Canada\Quebec,Province\CityMontreal.secret.md)
+### [Montreal.personal](/_personal/Earth/Continent/America~North/Canada/provinces~Canada/Quebec,Province/City/Montreal.personal.md) 
+
+### [Montreal.secret](/_secret/Earth/Continent/America~North/Canada/provinces~Canada/Quebec,Province/City/Montreal.secret.md)
 

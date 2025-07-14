@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Halifax,NS.public](/_public/\Earth\Continent\America~North\Canada\provinces~Canada\Nova_Scotia\counties~Nova_ScotiaHalifax,NS.public.md) 
+### [Halifax,NS](/_Standards/Earth/Continent/America~North/Canada/provinces~Canada/Nova_Scotia/counties~Nova_Scotia/Halifax,NS.md) 
 
-### [Halifax,NS.internal](/_internal/\Earth\Continent\America~North\Canada\provinces~Canada\Nova_Scotia\counties~Nova_ScotiaHalifax,NS.internal.md) 
+### [Halifax,NS.public](/_public/Earth/Continent/America~North/Canada/provinces~Canada/Nova_Scotia/counties~Nova_Scotia/Halifax,NS.public.md) 
 
-### [Halifax,NS.protect](/_protect/\Earth\Continent\America~North\Canada\provinces~Canada\Nova_Scotia\counties~Nova_ScotiaHalifax,NS.protect.md) 
+### [Halifax,NS.internal](/_internal/Earth/Continent/America~North/Canada/provinces~Canada/Nova_Scotia/counties~Nova_Scotia/Halifax,NS.internal.md) 
 
-### [Halifax,NS.private](/_private/\Earth\Continent\America~North\Canada\provinces~Canada\Nova_Scotia\counties~Nova_ScotiaHalifax,NS.private.md) 
+### [Halifax,NS.protect](/_protect/Earth/Continent/America~North/Canada/provinces~Canada/Nova_Scotia/counties~Nova_Scotia/Halifax,NS.protect.md) 
 
-### [Halifax,NS.personal](/_personal/\Earth\Continent\America~North\Canada\provinces~Canada\Nova_Scotia\counties~Nova_ScotiaHalifax,NS.personal.md) 
+### [Halifax,NS.private](/_private/Earth/Continent/America~North/Canada/provinces~Canada/Nova_Scotia/counties~Nova_Scotia/Halifax,NS.private.md) 
 
-### [Halifax,NS.secret](/_secret/\Earth\Continent\America~North\Canada\provinces~Canada\Nova_Scotia\counties~Nova_ScotiaHalifax,NS.secret.md)
+### [Halifax,NS.personal](/_personal/Earth/Continent/America~North/Canada/provinces~Canada/Nova_Scotia/counties~Nova_Scotia/Halifax,NS.personal.md) 
+
+### [Halifax,NS.secret](/_secret/Earth/Continent/America~North/Canada/provinces~Canada/Nova_Scotia/counties~Nova_Scotia/Halifax,NS.secret.md)
 

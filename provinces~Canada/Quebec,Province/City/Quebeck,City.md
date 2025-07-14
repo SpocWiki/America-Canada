@@ -38,15 +38,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Quebeck,City.public](/_public/\Earth\Continent\America~North\Canada\provinces~Canada\Quebec,Province\CityQuebeck,City.public.md) 
+### [Quebeck,City](/_Standards/Earth/Continent/America~North/Canada/provinces~Canada/Quebec,Province/City/Quebeck,City.md) 
 
-### [Quebeck,City.internal](/_internal/\Earth\Continent\America~North\Canada\provinces~Canada\Quebec,Province\CityQuebeck,City.internal.md) 
+### [Quebeck,City.public](/_public/Earth/Continent/America~North/Canada/provinces~Canada/Quebec,Province/City/Quebeck,City.public.md) 
 
-### [Quebeck,City.protect](/_protect/\Earth\Continent\America~North\Canada\provinces~Canada\Quebec,Province\CityQuebeck,City.protect.md) 
+### [Quebeck,City.internal](/_internal/Earth/Continent/America~North/Canada/provinces~Canada/Quebec,Province/City/Quebeck,City.internal.md) 
 
-### [Quebeck,City.private](/_private/\Earth\Continent\America~North\Canada\provinces~Canada\Quebec,Province\CityQuebeck,City.private.md) 
+### [Quebeck,City.protect](/_protect/Earth/Continent/America~North/Canada/provinces~Canada/Quebec,Province/City/Quebeck,City.protect.md) 
 
-### [Quebeck,City.personal](/_personal/\Earth\Continent\America~North\Canada\provinces~Canada\Quebec,Province\CityQuebeck,City.personal.md) 
+### [Quebeck,City.private](/_private/Earth/Continent/America~North/Canada/provinces~Canada/Quebec,Province/City/Quebeck,City.private.md) 
 
-### [Quebeck,City.secret](/_secret/\Earth\Continent\America~North\Canada\provinces~Canada\Quebec,Province\CityQuebeck,City.secret.md)
+### [Quebeck,City.personal](/_personal/Earth/Continent/America~North/Canada/provinces~Canada/Quebec,Province/City/Quebeck,City.personal.md) 
+
+### [Quebeck,City.secret](/_secret/Earth/Continent/America~North/Canada/provinces~Canada/Quebec,Province/City/Quebeck,City.secret.md)
 

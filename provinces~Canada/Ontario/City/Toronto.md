@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Toronto.public](/_public/\Earth\Continent\America~North\Canada\provinces~Canada\Ontario\CityToronto.public.md) 
+### [Toronto](/_Standards/Earth/Continent/America~North/Canada/provinces~Canada/Ontario/City/Toronto.md) 
 
-### [Toronto.internal](/_internal/\Earth\Continent\America~North\Canada\provinces~Canada\Ontario\CityToronto.internal.md) 
+### [Toronto.public](/_public/Earth/Continent/America~North/Canada/provinces~Canada/Ontario/City/Toronto.public.md) 
 
-### [Toronto.protect](/_protect/\Earth\Continent\America~North\Canada\provinces~Canada\Ontario\CityToronto.protect.md) 
+### [Toronto.internal](/_internal/Earth/Continent/America~North/Canada/provinces~Canada/Ontario/City/Toronto.internal.md) 
 
-### [Toronto.private](/_private/\Earth\Continent\America~North\Canada\provinces~Canada\Ontario\CityToronto.private.md) 
+### [Toronto.protect](/_protect/Earth/Continent/America~North/Canada/provinces~Canada/Ontario/City/Toronto.protect.md) 
 
-### [Toronto.personal](/_personal/\Earth\Continent\America~North\Canada\provinces~Canada\Ontario\CityToronto.personal.md) 
+### [Toronto.private](/_private/Earth/Continent/America~North/Canada/provinces~Canada/Ontario/City/Toronto.private.md) 
 
-### [Toronto.secret](/_secret/\Earth\Continent\America~North\Canada\provinces~Canada\Ontario\CityToronto.secret.md)
+### [Toronto.personal](/_personal/Earth/Continent/America~North/Canada/provinces~Canada/Ontario/City/Toronto.personal.md) 
+
+### [Toronto.secret](/_secret/Earth/Continent/America~North/Canada/provinces~Canada/Ontario/City/Toronto.secret.md)
 

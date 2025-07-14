@@ -41,15 +41,17 @@ markerFolder: ./_Lakes/
 
 ## Confidential Links & Embeds: 
 
-### [_Lakes.public](/_public/\Earth\Continent\America~North\Canada\provinces~Canada\Nova_Scotia_Lakes.public.md) 
+### [_Lakes](/_Standards/Earth/Continent/America~North/Canada/provinces~Canada/Nova_Scotia/_Lakes.md) 
 
-### [_Lakes.internal](/_internal/\Earth\Continent\America~North\Canada\provinces~Canada\Nova_Scotia_Lakes.internal.md) 
+### [_Lakes.public](/_public/Earth/Continent/America~North/Canada/provinces~Canada/Nova_Scotia/_Lakes.public.md) 
 
-### [_Lakes.protect](/_protect/\Earth\Continent\America~North\Canada\provinces~Canada\Nova_Scotia_Lakes.protect.md) 
+### [_Lakes.internal](/_internal/Earth/Continent/America~North/Canada/provinces~Canada/Nova_Scotia/_Lakes.internal.md) 
 
-### [_Lakes.private](/_private/\Earth\Continent\America~North\Canada\provinces~Canada\Nova_Scotia_Lakes.private.md) 
+### [_Lakes.protect](/_protect/Earth/Continent/America~North/Canada/provinces~Canada/Nova_Scotia/_Lakes.protect.md) 
 
-### [_Lakes.personal](/_personal/\Earth\Continent\America~North\Canada\provinces~Canada\Nova_Scotia_Lakes.personal.md) 
+### [_Lakes.private](/_private/Earth/Continent/America~North/Canada/provinces~Canada/Nova_Scotia/_Lakes.private.md) 
 
-### [_Lakes.secret](/_secret/\Earth\Continent\America~North\Canada\provinces~Canada\Nova_Scotia_Lakes.secret.md)
+### [_Lakes.personal](/_personal/Earth/Continent/America~North/Canada/provinces~Canada/Nova_Scotia/_Lakes.personal.md) 
+
+### [_Lakes.secret](/_secret/Earth/Continent/America~North/Canada/provinces~Canada/Nova_Scotia/_Lakes.secret.md)
 

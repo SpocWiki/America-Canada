@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [British_Columbia.public](/_public/\Earth\Continent\America~North\Canada\provinces~CanadaBritish_Columbia.public.md) 
+### [British_Columbia](/_Standards/Earth/Continent/America~North/Canada/provinces~Canada/British_Columbia.md) 
 
-### [British_Columbia.internal](/_internal/\Earth\Continent\America~North\Canada\provinces~CanadaBritish_Columbia.internal.md) 
+### [British_Columbia.public](/_public/Earth/Continent/America~North/Canada/provinces~Canada/British_Columbia.public.md) 
 
-### [British_Columbia.protect](/_protect/\Earth\Continent\America~North\Canada\provinces~CanadaBritish_Columbia.protect.md) 
+### [British_Columbia.internal](/_internal/Earth/Continent/America~North/Canada/provinces~Canada/British_Columbia.internal.md) 
 
-### [British_Columbia.private](/_private/\Earth\Continent\America~North\Canada\provinces~CanadaBritish_Columbia.private.md) 
+### [British_Columbia.protect](/_protect/Earth/Continent/America~North/Canada/provinces~Canada/British_Columbia.protect.md) 
 
-### [British_Columbia.personal](/_personal/\Earth\Continent\America~North\Canada\provinces~CanadaBritish_Columbia.personal.md) 
+### [British_Columbia.private](/_private/Earth/Continent/America~North/Canada/provinces~Canada/British_Columbia.private.md) 
 
-### [British_Columbia.secret](/_secret/\Earth\Continent\America~North\Canada\provinces~CanadaBritish_Columbia.secret.md)
+### [British_Columbia.personal](/_personal/Earth/Continent/America~North/Canada/provinces~Canada/British_Columbia.personal.md) 
+
+### [British_Columbia.secret](/_secret/Earth/Continent/America~North/Canada/provinces~Canada/British_Columbia.secret.md)
 

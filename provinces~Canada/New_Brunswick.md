@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [New_Brunswick.public](/_public/\Earth\Continent\America~North\Canada\provinces~CanadaNew_Brunswick.public.md) 
+### [New_Brunswick](/_Standards/Earth/Continent/America~North/Canada/provinces~Canada/New_Brunswick.md) 
 
-### [New_Brunswick.internal](/_internal/\Earth\Continent\America~North\Canada\provinces~CanadaNew_Brunswick.internal.md) 
+### [New_Brunswick.public](/_public/Earth/Continent/America~North/Canada/provinces~Canada/New_Brunswick.public.md) 
 
-### [New_Brunswick.protect](/_protect/\Earth\Continent\America~North\Canada\provinces~CanadaNew_Brunswick.protect.md) 
+### [New_Brunswick.internal](/_internal/Earth/Continent/America~North/Canada/provinces~Canada/New_Brunswick.internal.md) 
 
-### [New_Brunswick.private](/_private/\Earth\Continent\America~North\Canada\provinces~CanadaNew_Brunswick.private.md) 
+### [New_Brunswick.protect](/_protect/Earth/Continent/America~North/Canada/provinces~Canada/New_Brunswick.protect.md) 
 
-### [New_Brunswick.personal](/_personal/\Earth\Continent\America~North\Canada\provinces~CanadaNew_Brunswick.personal.md) 
+### [New_Brunswick.private](/_private/Earth/Continent/America~North/Canada/provinces~Canada/New_Brunswick.private.md) 
 
-### [New_Brunswick.secret](/_secret/\Earth\Continent\America~North\Canada\provinces~CanadaNew_Brunswick.secret.md)
+### [New_Brunswick.personal](/_personal/Earth/Continent/America~North/Canada/provinces~Canada/New_Brunswick.personal.md) 
+
+### [New_Brunswick.secret](/_secret/Earth/Continent/America~North/Canada/provinces~Canada/New_Brunswick.secret.md)
 

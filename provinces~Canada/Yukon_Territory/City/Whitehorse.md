@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Whitehorse.public](/_public/\Earth\Continent\America~North\Canada\provinces~Canada\Yukon_Territory\CityWhitehorse.public.md) 
+### [Whitehorse](/_Standards/Earth/Continent/America~North/Canada/provinces~Canada/Yukon_Territory/City/Whitehorse.md) 
 
-### [Whitehorse.internal](/_internal/\Earth\Continent\America~North\Canada\provinces~Canada\Yukon_Territory\CityWhitehorse.internal.md) 
+### [Whitehorse.public](/_public/Earth/Continent/America~North/Canada/provinces~Canada/Yukon_Territory/City/Whitehorse.public.md) 
 
-### [Whitehorse.protect](/_protect/\Earth\Continent\America~North\Canada\provinces~Canada\Yukon_Territory\CityWhitehorse.protect.md) 
+### [Whitehorse.internal](/_internal/Earth/Continent/America~North/Canada/provinces~Canada/Yukon_Territory/City/Whitehorse.internal.md) 
 
-### [Whitehorse.private](/_private/\Earth\Continent\America~North\Canada\provinces~Canada\Yukon_Territory\CityWhitehorse.private.md) 
+### [Whitehorse.protect](/_protect/Earth/Continent/America~North/Canada/provinces~Canada/Yukon_Territory/City/Whitehorse.protect.md) 
 
-### [Whitehorse.personal](/_personal/\Earth\Continent\America~North\Canada\provinces~Canada\Yukon_Territory\CityWhitehorse.personal.md) 
+### [Whitehorse.private](/_private/Earth/Continent/America~North/Canada/provinces~Canada/Yukon_Territory/City/Whitehorse.private.md) 
 
-### [Whitehorse.secret](/_secret/\Earth\Continent\America~North\Canada\provinces~Canada\Yukon_Territory\CityWhitehorse.secret.md)
+### [Whitehorse.personal](/_personal/Earth/Continent/America~North/Canada/provinces~Canada/Yukon_Territory/City/Whitehorse.personal.md) 
+
+### [Whitehorse.secret](/_secret/Earth/Continent/America~North/Canada/provinces~Canada/Yukon_Territory/City/Whitehorse.secret.md)
 

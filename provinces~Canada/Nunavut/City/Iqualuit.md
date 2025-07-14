@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Iqualuit.public](/_public/\Earth\Continent\America~North\Canada\provinces~Canada\Nunavut\CityIqualuit.public.md) 
+### [Iqualuit](/_Standards/Earth/Continent/America~North/Canada/provinces~Canada/Nunavut/City/Iqualuit.md) 
 
-### [Iqualuit.internal](/_internal/\Earth\Continent\America~North\Canada\provinces~Canada\Nunavut\CityIqualuit.internal.md) 
+### [Iqualuit.public](/_public/Earth/Continent/America~North/Canada/provinces~Canada/Nunavut/City/Iqualuit.public.md) 
 
-### [Iqualuit.protect](/_protect/\Earth\Continent\America~North\Canada\provinces~Canada\Nunavut\CityIqualuit.protect.md) 
+### [Iqualuit.internal](/_internal/Earth/Continent/America~North/Canada/provinces~Canada/Nunavut/City/Iqualuit.internal.md) 
 
-### [Iqualuit.private](/_private/\Earth\Continent\America~North\Canada\provinces~Canada\Nunavut\CityIqualuit.private.md) 
+### [Iqualuit.protect](/_protect/Earth/Continent/America~North/Canada/provinces~Canada/Nunavut/City/Iqualuit.protect.md) 
 
-### [Iqualuit.personal](/_personal/\Earth\Continent\America~North\Canada\provinces~Canada\Nunavut\CityIqualuit.personal.md) 
+### [Iqualuit.private](/_private/Earth/Continent/America~North/Canada/provinces~Canada/Nunavut/City/Iqualuit.private.md) 
 
-### [Iqualuit.secret](/_secret/\Earth\Continent\America~North\Canada\provinces~Canada\Nunavut\CityIqualuit.secret.md)
+### [Iqualuit.personal](/_personal/Earth/Continent/America~North/Canada/provinces~Canada/Nunavut/City/Iqualuit.personal.md) 
+
+### [Iqualuit.secret](/_secret/Earth/Continent/America~North/Canada/provinces~Canada/Nunavut/City/Iqualuit.secret.md)
 

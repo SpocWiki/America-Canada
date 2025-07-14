@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Winnipeg.public](/_public/\Earth\Continent\America~North\Canada\provinces~Canada\Manitoba\CityWinnipeg.public.md) 
+### [Winnipeg](/_Standards/Earth/Continent/America~North/Canada/provinces~Canada/Manitoba/City/Winnipeg.md) 
 
-### [Winnipeg.internal](/_internal/\Earth\Continent\America~North\Canada\provinces~Canada\Manitoba\CityWinnipeg.internal.md) 
+### [Winnipeg.public](/_public/Earth/Continent/America~North/Canada/provinces~Canada/Manitoba/City/Winnipeg.public.md) 
 
-### [Winnipeg.protect](/_protect/\Earth\Continent\America~North\Canada\provinces~Canada\Manitoba\CityWinnipeg.protect.md) 
+### [Winnipeg.internal](/_internal/Earth/Continent/America~North/Canada/provinces~Canada/Manitoba/City/Winnipeg.internal.md) 
 
-### [Winnipeg.private](/_private/\Earth\Continent\America~North\Canada\provinces~Canada\Manitoba\CityWinnipeg.private.md) 
+### [Winnipeg.protect](/_protect/Earth/Continent/America~North/Canada/provinces~Canada/Manitoba/City/Winnipeg.protect.md) 
 
-### [Winnipeg.personal](/_personal/\Earth\Continent\America~North\Canada\provinces~Canada\Manitoba\CityWinnipeg.personal.md) 
+### [Winnipeg.private](/_private/Earth/Continent/America~North/Canada/provinces~Canada/Manitoba/City/Winnipeg.private.md) 
 
-### [Winnipeg.secret](/_secret/\Earth\Continent\America~North\Canada\provinces~Canada\Manitoba\CityWinnipeg.secret.md)
+### [Winnipeg.personal](/_personal/Earth/Continent/America~North/Canada/provinces~Canada/Manitoba/City/Winnipeg.personal.md) 
+
+### [Winnipeg.secret](/_secret/Earth/Continent/America~North/Canada/provinces~Canada/Manitoba/City/Winnipeg.secret.md)
 

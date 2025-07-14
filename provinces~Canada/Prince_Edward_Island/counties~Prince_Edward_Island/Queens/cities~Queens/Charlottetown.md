@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Charlottetown.public](/_public/\Earth\Continent\America~North\Canada\provinces~Canada\Prince_Edward_Island\counties~Prince_Edward_Island\Queens\cities~QueensCharlottetown.public.md) 
+### [Charlottetown](/_Standards/Earth/Continent/America~North/Canada/provinces~Canada/Prince_Edward_Island/counties~Prince_Edward_Island/Queens/cities~Queens/Charlottetown.md) 
 
-### [Charlottetown.internal](/_internal/\Earth\Continent\America~North\Canada\provinces~Canada\Prince_Edward_Island\counties~Prince_Edward_Island\Queens\cities~QueensCharlottetown.internal.md) 
+### [Charlottetown.public](/_public/Earth/Continent/America~North/Canada/provinces~Canada/Prince_Edward_Island/counties~Prince_Edward_Island/Queens/cities~Queens/Charlottetown.public.md) 
 
-### [Charlottetown.protect](/_protect/\Earth\Continent\America~North\Canada\provinces~Canada\Prince_Edward_Island\counties~Prince_Edward_Island\Queens\cities~QueensCharlottetown.protect.md) 
+### [Charlottetown.internal](/_internal/Earth/Continent/America~North/Canada/provinces~Canada/Prince_Edward_Island/counties~Prince_Edward_Island/Queens/cities~Queens/Charlottetown.internal.md) 
 
-### [Charlottetown.private](/_private/\Earth\Continent\America~North\Canada\provinces~Canada\Prince_Edward_Island\counties~Prince_Edward_Island\Queens\cities~QueensCharlottetown.private.md) 
+### [Charlottetown.protect](/_protect/Earth/Continent/America~North/Canada/provinces~Canada/Prince_Edward_Island/counties~Prince_Edward_Island/Queens/cities~Queens/Charlottetown.protect.md) 
 
-### [Charlottetown.personal](/_personal/\Earth\Continent\America~North\Canada\provinces~Canada\Prince_Edward_Island\counties~Prince_Edward_Island\Queens\cities~QueensCharlottetown.personal.md) 
+### [Charlottetown.private](/_private/Earth/Continent/America~North/Canada/provinces~Canada/Prince_Edward_Island/counties~Prince_Edward_Island/Queens/cities~Queens/Charlottetown.private.md) 
 
-### [Charlottetown.secret](/_secret/\Earth\Continent\America~North\Canada\provinces~Canada\Prince_Edward_Island\counties~Prince_Edward_Island\Queens\cities~QueensCharlottetown.secret.md)
+### [Charlottetown.personal](/_personal/Earth/Continent/America~North/Canada/provinces~Canada/Prince_Edward_Island/counties~Prince_Edward_Island/Queens/cities~Queens/Charlottetown.personal.md) 
+
+### [Charlottetown.secret](/_secret/Earth/Continent/America~North/Canada/provinces~Canada/Prince_Edward_Island/counties~Prince_Edward_Island/Queens/cities~Queens/Charlottetown.secret.md)
 

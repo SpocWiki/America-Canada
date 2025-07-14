@@ -38,15 +38,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Yukon_Territory.public](/_public/\Earth\Continent\America~North\Canada\provinces~CanadaYukon_Territory.public.md) 
+### [Yukon_Territory](/_Standards/Earth/Continent/America~North/Canada/provinces~Canada/Yukon_Territory.md) 
 
-### [Yukon_Territory.internal](/_internal/\Earth\Continent\America~North\Canada\provinces~CanadaYukon_Territory.internal.md) 
+### [Yukon_Territory.public](/_public/Earth/Continent/America~North/Canada/provinces~Canada/Yukon_Territory.public.md) 
 
-### [Yukon_Territory.protect](/_protect/\Earth\Continent\America~North\Canada\provinces~CanadaYukon_Territory.protect.md) 
+### [Yukon_Territory.internal](/_internal/Earth/Continent/America~North/Canada/provinces~Canada/Yukon_Territory.internal.md) 
 
-### [Yukon_Territory.private](/_private/\Earth\Continent\America~North\Canada\provinces~CanadaYukon_Territory.private.md) 
+### [Yukon_Territory.protect](/_protect/Earth/Continent/America~North/Canada/provinces~Canada/Yukon_Territory.protect.md) 
 
-### [Yukon_Territory.personal](/_personal/\Earth\Continent\America~North\Canada\provinces~CanadaYukon_Territory.personal.md) 
+### [Yukon_Territory.private](/_private/Earth/Continent/America~North/Canada/provinces~Canada/Yukon_Territory.private.md) 
 
-### [Yukon_Territory.secret](/_secret/\Earth\Continent\America~North\Canada\provinces~CanadaYukon_Territory.secret.md)
+### [Yukon_Territory.personal](/_personal/Earth/Continent/America~North/Canada/provinces~Canada/Yukon_Territory.personal.md) 
+
+### [Yukon_Territory.secret](/_secret/Earth/Continent/America~North/Canada/provinces~Canada/Yukon_Territory.secret.md)
 

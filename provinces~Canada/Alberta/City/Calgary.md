@@ -30,19 +30,19 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Calgary)
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Calgary.public](/_public/\Earth\Continent\America~North\Canada\provinces~Canada\Alberta\CityCalgary.public.md) 
+### [Calgary](/_Standards/Earth/Continent/America~North/Canada/provinces~Canada/Alberta/City/Calgary.md) 
 
-### [Calgary.internal](/_internal/\Earth\Continent\America~North\Canada\provinces~Canada\Alberta\CityCalgary.internal.md) 
+### [Calgary.public](/_public/Earth/Continent/America~North/Canada/provinces~Canada/Alberta/City/Calgary.public.md) 
 
-### [Calgary.protect](/_protect/\Earth\Continent\America~North\Canada\provinces~Canada\Alberta\CityCalgary.protect.md) 
+### [Calgary.internal](/_internal/Earth/Continent/America~North/Canada/provinces~Canada/Alberta/City/Calgary.internal.md) 
 
-### [Calgary.private](/_private/\Earth\Continent\America~North\Canada\provinces~Canada\Alberta\CityCalgary.private.md) 
+### [Calgary.protect](/_protect/Earth/Continent/America~North/Canada/provinces~Canada/Alberta/City/Calgary.protect.md) 
 
-### [Calgary.personal](/_personal/\Earth\Continent\America~North\Canada\provinces~Canada\Alberta\CityCalgary.personal.md) 
+### [Calgary.private](/_private/Earth/Continent/America~North/Canada/provinces~Canada/Alberta/City/Calgary.private.md) 
 
-### [Calgary.secret](/_secret/\Earth\Continent\America~North\Canada\provinces~Canada\Alberta\CityCalgary.secret.md)
+### [Calgary.personal](/_personal/Earth/Continent/America~North/Canada/provinces~Canada/Alberta/City/Calgary.personal.md) 
+
+### [Calgary.secret](/_secret/Earth/Continent/America~North/Canada/provinces~Canada/Alberta/City/Calgary.secret.md)
 

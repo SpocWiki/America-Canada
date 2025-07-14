@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Yellowknife.public](/_public/\Earth\Continent\America~North\Canada\provinces~Canada\Northwest_Territories\CityYellowknife.public.md) 
+### [Yellowknife](/_Standards/Earth/Continent/America~North/Canada/provinces~Canada/Northwest_Territories/City/Yellowknife.md) 
 
-### [Yellowknife.internal](/_internal/\Earth\Continent\America~North\Canada\provinces~Canada\Northwest_Territories\CityYellowknife.internal.md) 
+### [Yellowknife.public](/_public/Earth/Continent/America~North/Canada/provinces~Canada/Northwest_Territories/City/Yellowknife.public.md) 
 
-### [Yellowknife.protect](/_protect/\Earth\Continent\America~North\Canada\provinces~Canada\Northwest_Territories\CityYellowknife.protect.md) 
+### [Yellowknife.internal](/_internal/Earth/Continent/America~North/Canada/provinces~Canada/Northwest_Territories/City/Yellowknife.internal.md) 
 
-### [Yellowknife.private](/_private/\Earth\Continent\America~North\Canada\provinces~Canada\Northwest_Territories\CityYellowknife.private.md) 
+### [Yellowknife.protect](/_protect/Earth/Continent/America~North/Canada/provinces~Canada/Northwest_Territories/City/Yellowknife.protect.md) 
 
-### [Yellowknife.personal](/_personal/\Earth\Continent\America~North\Canada\provinces~Canada\Northwest_Territories\CityYellowknife.personal.md) 
+### [Yellowknife.private](/_private/Earth/Continent/America~North/Canada/provinces~Canada/Northwest_Territories/City/Yellowknife.private.md) 
 
-### [Yellowknife.secret](/_secret/\Earth\Continent\America~North\Canada\provinces~Canada\Northwest_Territories\CityYellowknife.secret.md)
+### [Yellowknife.personal](/_personal/Earth/Continent/America~North/Canada/provinces~Canada/Northwest_Territories/City/Yellowknife.personal.md) 
+
+### [Yellowknife.secret](/_secret/Earth/Continent/America~North/Canada/provinces~Canada/Northwest_Territories/City/Yellowknife.secret.md)
 

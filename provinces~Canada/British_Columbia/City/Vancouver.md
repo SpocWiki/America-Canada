@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Vancouver.public](/_public/\Earth\Continent\America~North\Canada\provinces~Canada\British_Columbia\CityVancouver.public.md) 
+### [Vancouver](/_Standards/Earth/Continent/America~North/Canada/provinces~Canada/British_Columbia/City/Vancouver.md) 
 
-### [Vancouver.internal](/_internal/\Earth\Continent\America~North\Canada\provinces~Canada\British_Columbia\CityVancouver.internal.md) 
+### [Vancouver.public](/_public/Earth/Continent/America~North/Canada/provinces~Canada/British_Columbia/City/Vancouver.public.md) 
 
-### [Vancouver.protect](/_protect/\Earth\Continent\America~North\Canada\provinces~Canada\British_Columbia\CityVancouver.protect.md) 
+### [Vancouver.internal](/_internal/Earth/Continent/America~North/Canada/provinces~Canada/British_Columbia/City/Vancouver.internal.md) 
 
-### [Vancouver.private](/_private/\Earth\Continent\America~North\Canada\provinces~Canada\British_Columbia\CityVancouver.private.md) 
+### [Vancouver.protect](/_protect/Earth/Continent/America~North/Canada/provinces~Canada/British_Columbia/City/Vancouver.protect.md) 
 
-### [Vancouver.personal](/_personal/\Earth\Continent\America~North\Canada\provinces~Canada\British_Columbia\CityVancouver.personal.md) 
+### [Vancouver.private](/_private/Earth/Continent/America~North/Canada/provinces~Canada/British_Columbia/City/Vancouver.private.md) 
 
-### [Vancouver.secret](/_secret/\Earth\Continent\America~North\Canada\provinces~Canada\British_Columbia\CityVancouver.secret.md)
+### [Vancouver.personal](/_personal/Earth/Continent/America~North/Canada/provinces~Canada/British_Columbia/City/Vancouver.personal.md) 
+
+### [Vancouver.secret](/_secret/Earth/Continent/America~North/Canada/provinces~Canada/British_Columbia/City/Vancouver.secret.md)
 

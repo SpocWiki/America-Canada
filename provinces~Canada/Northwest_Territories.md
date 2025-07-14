@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Northwest_Territories.public](/_public/\Earth\Continent\America~North\Canada\provinces~CanadaNorthwest_Territories.public.md) 
+### [Northwest_Territories](/_Standards/Earth/Continent/America~North/Canada/provinces~Canada/Northwest_Territories.md) 
 
-### [Northwest_Territories.internal](/_internal/\Earth\Continent\America~North\Canada\provinces~CanadaNorthwest_Territories.internal.md) 
+### [Northwest_Territories.public](/_public/Earth/Continent/America~North/Canada/provinces~Canada/Northwest_Territories.public.md) 
 
-### [Northwest_Territories.protect](/_protect/\Earth\Continent\America~North\Canada\provinces~CanadaNorthwest_Territories.protect.md) 
+### [Northwest_Territories.internal](/_internal/Earth/Continent/America~North/Canada/provinces~Canada/Northwest_Territories.internal.md) 
 
-### [Northwest_Territories.private](/_private/\Earth\Continent\America~North\Canada\provinces~CanadaNorthwest_Territories.private.md) 
+### [Northwest_Territories.protect](/_protect/Earth/Continent/America~North/Canada/provinces~Canada/Northwest_Territories.protect.md) 
 
-### [Northwest_Territories.personal](/_personal/\Earth\Continent\America~North\Canada\provinces~CanadaNorthwest_Territories.personal.md) 
+### [Northwest_Territories.private](/_private/Earth/Continent/America~North/Canada/provinces~Canada/Northwest_Territories.private.md) 
 
-### [Northwest_Territories.secret](/_secret/\Earth\Continent\America~North\Canada\provinces~CanadaNorthwest_Territories.secret.md)
+### [Northwest_Territories.personal](/_personal/Earth/Continent/America~North/Canada/provinces~Canada/Northwest_Territories.personal.md) 
+
+### [Northwest_Territories.secret](/_secret/Earth/Continent/America~North/Canada/provinces~Canada/Northwest_Territories.secret.md)
 
