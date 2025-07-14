@@ -1,4 +1,4 @@
-﻿---
+---
 location: [62.44222,-114.3975] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/America~North/Canada/City/Yellowknife|Yellowknife]] 
-- [[../../../../../../_public/geo/Continent/America~North/Canada/City/Yellowknife.public|Yellowknife.public]] 
-- [[../../../../../../_internal/geo/Continent/America~North/Canada/City/Yellowknife.internal|Yellowknife.internal]] 
-- [[../../../../../../_protect/geo/Continent/America~North/Canada/City/Yellowknife.protect|Yellowknife.protect]] 
-- [[../../../../../../_private/geo/Continent/America~North/Canada/City/Yellowknife.private|Yellowknife.private]] 
-- [[../../../../../../_personal/geo/Continent/America~North/Canada/City/Yellowknife.personal|Yellowknife.personal]] 
-- [[../../../../../../_secret/geo/Continent/America~North/Canada/City/Yellowknife.secret|Yellowknife.secret]] 
+
+### [Yellowknife.public](/_public/\Earth\Continent\America~North\Canada\provinces~Canada\Northwest_Territories\CityYellowknife.public.md) 
+
+### [Yellowknife.internal](/_internal/\Earth\Continent\America~North\Canada\provinces~Canada\Northwest_Territories\CityYellowknife.internal.md) 
+
+### [Yellowknife.protect](/_protect/\Earth\Continent\America~North\Canada\provinces~Canada\Northwest_Territories\CityYellowknife.protect.md) 
+
+### [Yellowknife.private](/_private/\Earth\Continent\America~North\Canada\provinces~Canada\Northwest_Territories\CityYellowknife.private.md) 
+
+### [Yellowknife.personal](/_personal/\Earth\Continent\America~North\Canada\provinces~Canada\Northwest_Territories\CityYellowknife.personal.md) 
+
+### [Yellowknife.secret](/_secret/\Earth\Continent\America~North\Canada\provinces~Canada\Northwest_Territories\CityYellowknife.secret.md)
+

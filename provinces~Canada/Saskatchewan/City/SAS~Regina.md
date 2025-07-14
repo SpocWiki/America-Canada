@@ -1,4 +1,4 @@
-﻿---
+---
 location: [54.5,-105.6814] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/America~North/Canada/City/SAS~Regina|SAS~Regina]] 
-- [[../../../../../../_public/geo/Continent/America~North/Canada/City/SAS~Regina.public|SAS~Regina.public]] 
-- [[../../../../../../_internal/geo/Continent/America~North/Canada/City/SAS~Regina.internal|SAS~Regina.internal]] 
-- [[../../../../../../_protect/geo/Continent/America~North/Canada/City/SAS~Regina.protect|SAS~Regina.protect]] 
-- [[../../../../../../_private/geo/Continent/America~North/Canada/City/SAS~Regina.private|SAS~Regina.private]] 
-- [[../../../../../../_personal/geo/Continent/America~North/Canada/City/SAS~Regina.personal|SAS~Regina.personal]] 
-- [[../../../../../../_secret/geo/Continent/America~North/Canada/City/SAS~Regina.secret|SAS~Regina.secret]] 
+
+### [SAS~Regina.public](/_public/\Earth\Continent\America~North\Canada\provinces~Canada\Saskatchewan\CitySAS~Regina.public.md) 
+
+### [SAS~Regina.internal](/_internal/\Earth\Continent\America~North\Canada\provinces~Canada\Saskatchewan\CitySAS~Regina.internal.md) 
+
+### [SAS~Regina.protect](/_protect/\Earth\Continent\America~North\Canada\provinces~Canada\Saskatchewan\CitySAS~Regina.protect.md) 
+
+### [SAS~Regina.private](/_private/\Earth\Continent\America~North\Canada\provinces~Canada\Saskatchewan\CitySAS~Regina.private.md) 
+
+### [SAS~Regina.personal](/_personal/\Earth\Continent\America~North\Canada\provinces~Canada\Saskatchewan\CitySAS~Regina.personal.md) 
+
+### [SAS~Regina.secret](/_secret/\Earth\Continent\America~North\Canada\provinces~Canada\Saskatchewan\CitySAS~Regina.secret.md)
+

@@ -33,9 +33,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Alberta|Alberta]]  
-- [[../../../../../../_internal/geo/Continent/America~North/Canada/State/Alberta.internal|Alberta.internal]] 
-- [[../../../../../../_protect/geo/Continent/America~North/Canada/State/Alberta.protect|Alberta.protect]] 
-- [[../../../../../../_private/geo/Continent/America~North/Canada/State/Alberta.private|Alberta.private]] 
-- [[../../../../../../_personal/geo/Continent/America~North/Canada/State/Alberta.personal|Alberta.personal]] 
-- [[../../../../../../_secret/geo/Continent/America~North/Canada/State/Alberta.secret|Alberta.secret]] 
+
+### [Alberta.public](/_public/\Earth\Continent\America~North\Canada\provinces~CanadaAlberta.public.md) 
+
+### [Alberta.internal](/_internal/\Earth\Continent\America~North\Canada\provinces~CanadaAlberta.internal.md) 
+
+### [Alberta.protect](/_protect/\Earth\Continent\America~North\Canada\provinces~CanadaAlberta.protect.md) 
+
+### [Alberta.private](/_private/\Earth\Continent\America~North\Canada\provinces~CanadaAlberta.private.md) 
+
+### [Alberta.personal](/_personal/\Earth\Continent\America~North\Canada\provinces~CanadaAlberta.personal.md) 
+
+### [Alberta.secret](/_secret/\Earth\Continent\America~North\Canada\provinces~CanadaAlberta.secret.md)
+

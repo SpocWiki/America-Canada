@@ -35,9 +35,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Nova_Scotia|Nova_Scotia]]  
-- [[../../../../../../_internal/geo/Continent/America~North/Canada/State/Nova_Scotia.internal|Nova_Scotia.internal]] 
-- [[../../../../../../_protect/geo/Continent/America~North/Canada/State/Nova_Scotia.protect|Nova_Scotia.protect]] 
-- [[../../../../../../_private/geo/Continent/America~North/Canada/State/Nova_Scotia.private|Nova_Scotia.private]] 
-- [[../../../../../../_personal/geo/Continent/America~North/Canada/State/Nova_Scotia.personal|Nova_Scotia.personal]] 
-- [[../../../../../../_secret/geo/Continent/America~North/Canada/State/Nova_Scotia.secret|Nova_Scotia.secret]] 
+
+### [Nova_Scotia.public](/_public/\Earth\Continent\America~North\Canada\provinces~CanadaNova_Scotia.public.md) 
+
+### [Nova_Scotia.internal](/_internal/\Earth\Continent\America~North\Canada\provinces~CanadaNova_Scotia.internal.md) 
+
+### [Nova_Scotia.protect](/_protect/\Earth\Continent\America~North\Canada\provinces~CanadaNova_Scotia.protect.md) 
+
+### [Nova_Scotia.private](/_private/\Earth\Continent\America~North\Canada\provinces~CanadaNova_Scotia.private.md) 
+
+### [Nova_Scotia.personal](/_personal/\Earth\Continent\America~North\Canada\provinces~CanadaNova_Scotia.personal.md) 
+
+### [Nova_Scotia.secret](/_secret/\Earth\Continent\America~North\Canada\provinces~CanadaNova_Scotia.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [47.5675,-52.70722] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/America~North/Canada/City/NFD~St._Johns|NFD~St._Johns]] 
-- [[../../../../../../_public/geo/Continent/America~North/Canada/City/NFD~St._Johns.public|NFD~St._Johns.public]] 
-- [[../../../../../../_internal/geo/Continent/America~North/Canada/City/NFD~St._Johns.internal|NFD~St._Johns.internal]] 
-- [[../../../../../../_protect/geo/Continent/America~North/Canada/City/NFD~St._Johns.protect|NFD~St._Johns.protect]] 
-- [[../../../../../../_private/geo/Continent/America~North/Canada/City/NFD~St._Johns.private|NFD~St._Johns.private]] 
-- [[../../../../../../_personal/geo/Continent/America~North/Canada/City/NFD~St._Johns.personal|NFD~St._Johns.personal]] 
-- [[../../../../../../_secret/geo/Continent/America~North/Canada/City/NFD~St._Johns.secret|NFD~St._Johns.secret]] 
+
+### [NFD~St._Johns.public](/_public/\Earth\Continent\America~North\Canada\provinces~Canada\Newfoundland-Labrador\CityNFD~St._Johns.public.md) 
+
+### [NFD~St._Johns.internal](/_internal/\Earth\Continent\America~North\Canada\provinces~Canada\Newfoundland-Labrador\CityNFD~St._Johns.internal.md) 
+
+### [NFD~St._Johns.protect](/_protect/\Earth\Continent\America~North\Canada\provinces~Canada\Newfoundland-Labrador\CityNFD~St._Johns.protect.md) 
+
+### [NFD~St._Johns.private](/_private/\Earth\Continent\America~North\Canada\provinces~Canada\Newfoundland-Labrador\CityNFD~St._Johns.private.md) 
+
+### [NFD~St._Johns.personal](/_personal/\Earth\Continent\America~North\Canada\provinces~Canada\Newfoundland-Labrador\CityNFD~St._Johns.personal.md) 
+
+### [NFD~St._Johns.secret](/_secret/\Earth\Continent\America~North\Canada\provinces~Canada\Newfoundland-Labrador\CityNFD~St._Johns.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [48.42215,-123.3657] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/America~North/Canada/City/BC~Victoria|BC~Victoria]] 
-- [[../../../../../../_public/geo/Continent/America~North/Canada/City/BC~Victoria.public|BC~Victoria.public]] 
-- [[../../../../../../_internal/geo/Continent/America~North/Canada/City/BC~Victoria.internal|BC~Victoria.internal]] 
-- [[../../../../../../_protect/geo/Continent/America~North/Canada/City/BC~Victoria.protect|BC~Victoria.protect]] 
-- [[../../../../../../_private/geo/Continent/America~North/Canada/City/BC~Victoria.private|BC~Victoria.private]] 
-- [[../../../../../../_personal/geo/Continent/America~North/Canada/City/BC~Victoria.personal|BC~Victoria.personal]] 
-- [[../../../../../../_secret/geo/Continent/America~North/Canada/City/BC~Victoria.secret|BC~Victoria.secret]] 
+
+### [BC~Victoria.public](/_public/\Earth\Continent\America~North\Canada\provinces~Canada\British_Columbia\CityBC~Victoria.public.md) 
+
+### [BC~Victoria.internal](/_internal/\Earth\Continent\America~North\Canada\provinces~Canada\British_Columbia\CityBC~Victoria.internal.md) 
+
+### [BC~Victoria.protect](/_protect/\Earth\Continent\America~North\Canada\provinces~Canada\British_Columbia\CityBC~Victoria.protect.md) 
+
+### [BC~Victoria.private](/_private/\Earth\Continent\America~North\Canada\provinces~Canada\British_Columbia\CityBC~Victoria.private.md) 
+
+### [BC~Victoria.personal](/_personal/\Earth\Continent\America~North\Canada\provinces~Canada\British_Columbia\CityBC~Victoria.personal.md) 
+
+### [BC~Victoria.secret](/_secret/\Earth\Continent\America~North\Canada\provinces~Canada\British_Columbia\CityBC~Victoria.secret.md)
+

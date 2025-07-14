@@ -168,12 +168,17 @@ Capital :: [[Canada/State/State~Ontario/City/Ottawa]]
 [has_place_latitude::50.4137]
 
 
-
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/geo/Continent/America~North/Canada|Canada]] 
-- [[../../../../_public/geo/Continent/America~North/Canada.public|Canada.public]] 
-- [[../../../../_internal/geo/Continent/America~North/Canada.internal|Canada.internal]] 
-- [[../../../../_protect/geo/Continent/America~North/Canada.protect|Canada.protect]] 
-- [[../../../../_private/geo/Continent/America~North/Canada.private|Canada.private]] 
-- [[../../../../_personal/geo/Continent/America~North/Canada.personal|Canada.personal]] 
-- [[../../../../_secret/geo/Continent/America~North/Canada.secret|Canada.secret]] 
+
+### [ReadMe.public](/_public/\Earth\Continent\America~North\CanadaReadMe.public.md) 
+
+### [ReadMe.internal](/_internal/\Earth\Continent\America~North\CanadaReadMe.internal.md) 
+
+### [ReadMe.protect](/_protect/\Earth\Continent\America~North\CanadaReadMe.protect.md) 
+
+### [ReadMe.private](/_private/\Earth\Continent\America~North\CanadaReadMe.private.md) 
+
+### [ReadMe.personal](/_personal/\Earth\Continent\America~North\CanadaReadMe.personal.md) 
+
+### [ReadMe.secret](/_secret/\Earth\Continent\America~North\CanadaReadMe.secret.md)
+

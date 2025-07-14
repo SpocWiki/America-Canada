@@ -1,4 +1,4 @@
-﻿---
+---
 location: [60.71667,-135.05] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/America~North/Canada/City/Whitehorse|Whitehorse]] 
-- [[../../../../../../_public/geo/Continent/America~North/Canada/City/Whitehorse.public|Whitehorse.public]] 
-- [[../../../../../../_internal/geo/Continent/America~North/Canada/City/Whitehorse.internal|Whitehorse.internal]] 
-- [[../../../../../../_protect/geo/Continent/America~North/Canada/City/Whitehorse.protect|Whitehorse.protect]] 
-- [[../../../../../../_private/geo/Continent/America~North/Canada/City/Whitehorse.private|Whitehorse.private]] 
-- [[../../../../../../_personal/geo/Continent/America~North/Canada/City/Whitehorse.personal|Whitehorse.personal]] 
-- [[../../../../../../_secret/geo/Continent/America~North/Canada/City/Whitehorse.secret|Whitehorse.secret]] 
+
+### [Whitehorse.public](/_public/\Earth\Continent\America~North\Canada\provinces~Canada\Yukon_Territory\CityWhitehorse.public.md) 
+
+### [Whitehorse.internal](/_internal/\Earth\Continent\America~North\Canada\provinces~Canada\Yukon_Territory\CityWhitehorse.internal.md) 
+
+### [Whitehorse.protect](/_protect/\Earth\Continent\America~North\Canada\provinces~Canada\Yukon_Territory\CityWhitehorse.protect.md) 
+
+### [Whitehorse.private](/_private/\Earth\Continent\America~North\Canada\provinces~Canada\Yukon_Territory\CityWhitehorse.private.md) 
+
+### [Whitehorse.personal](/_personal/\Earth\Continent\America~North\Canada\provinces~Canada\Yukon_Territory\CityWhitehorse.personal.md) 
+
+### [Whitehorse.secret](/_secret/\Earth\Continent\America~North\Canada\provinces~Canada\Yukon_Territory\CityWhitehorse.secret.md)
+

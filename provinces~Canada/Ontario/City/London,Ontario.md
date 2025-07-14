@@ -26,3 +26,20 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/London,%20Ontario)
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [London,Ontario.public](/_public/\Earth\Continent\America~North\Canada\provinces~Canada\Ontario\CityLondon,Ontario.public.md) 
+
+### [London,Ontario.internal](/_internal/\Earth\Continent\America~North\Canada\provinces~Canada\Ontario\CityLondon,Ontario.internal.md) 
+
+### [London,Ontario.protect](/_protect/\Earth\Continent\America~North\Canada\provinces~Canada\Ontario\CityLondon,Ontario.protect.md) 
+
+### [London,Ontario.private](/_private/\Earth\Continent\America~North\Canada\provinces~Canada\Ontario\CityLondon,Ontario.private.md) 
+
+### [London,Ontario.personal](/_personal/\Earth\Continent\America~North\Canada\provinces~Canada\Ontario\CityLondon,Ontario.personal.md) 
+
+### [London,Ontario.secret](/_secret/\Earth\Continent\America~North\Canada\provinces~Canada\Ontario\CityLondon,Ontario.secret.md)
+

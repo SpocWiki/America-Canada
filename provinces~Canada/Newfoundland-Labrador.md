@@ -36,9 +36,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Newfoundland-Labrador|Newfoundland-Labrador]]  
-- [[../../../../../../_internal/geo/Continent/America~North/Canada/State/Newfoundland.internal|Newfoundland.internal]] 
-- [[../../../../../../_protect/geo/Continent/America~North/Canada/State/Newfoundland.protect|Newfoundland.protect]] 
-- [[../../../../../../_private/geo/Continent/America~North/Canada/State/Newfoundland.private|Newfoundland.private]] 
-- [[../../../../../../_personal/geo/Continent/America~North/Canada/State/Newfoundland.personal|Newfoundland.personal]] 
-- [[../../../../../../_secret/geo/Continent/America~North/Canada/State/Newfoundland.secret|Newfoundland.secret]] 
+
+### [Newfoundland-Labrador.public](/_public/\Earth\Continent\America~North\Canada\provinces~CanadaNewfoundland-Labrador.public.md) 
+
+### [Newfoundland-Labrador.internal](/_internal/\Earth\Continent\America~North\Canada\provinces~CanadaNewfoundland-Labrador.internal.md) 
+
+### [Newfoundland-Labrador.protect](/_protect/\Earth\Continent\America~North\Canada\provinces~CanadaNewfoundland-Labrador.protect.md) 
+
+### [Newfoundland-Labrador.private](/_private/\Earth\Continent\America~North\Canada\provinces~CanadaNewfoundland-Labrador.private.md) 
+
+### [Newfoundland-Labrador.personal](/_personal/\Earth\Continent\America~North\Canada\provinces~CanadaNewfoundland-Labrador.personal.md) 
+
+### [Newfoundland-Labrador.secret](/_secret/\Earth\Continent\America~North\Canada\provinces~CanadaNewfoundland-Labrador.secret.md)
+

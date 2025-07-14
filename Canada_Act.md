@@ -21,3 +21,20 @@ aliases:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Canada%20Act%201982) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Canada_Act.public](/_public/\Earth\Continent\America~North\CanadaCanada_Act.public.md) 
+
+### [Canada_Act.internal](/_internal/\Earth\Continent\America~North\CanadaCanada_Act.internal.md) 
+
+### [Canada_Act.protect](/_protect/\Earth\Continent\America~North\CanadaCanada_Act.protect.md) 
+
+### [Canada_Act.private](/_private/\Earth\Continent\America~North\CanadaCanada_Act.private.md) 
+
+### [Canada_Act.personal](/_personal/\Earth\Continent\America~North\CanadaCanada_Act.personal.md) 
+
+### [Canada_Act.secret](/_secret/\Earth\Continent\America~North\CanadaCanada_Act.secret.md)
+

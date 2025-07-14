@@ -1,4 +1,4 @@
-﻿---
+---
 location: [63.74861,-68.51972] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/America~North/Canada/City/Iqualuit|Iqualuit]] 
-- [[../../../../../../_public/geo/Continent/America~North/Canada/City/Iqualuit.public|Iqualuit.public]] 
-- [[../../../../../../_internal/geo/Continent/America~North/Canada/City/Iqualuit.internal|Iqualuit.internal]] 
-- [[../../../../../../_protect/geo/Continent/America~North/Canada/City/Iqualuit.protect|Iqualuit.protect]] 
-- [[../../../../../../_private/geo/Continent/America~North/Canada/City/Iqualuit.private|Iqualuit.private]] 
-- [[../../../../../../_personal/geo/Continent/America~North/Canada/City/Iqualuit.personal|Iqualuit.personal]] 
-- [[../../../../../../_secret/geo/Continent/America~North/Canada/City/Iqualuit.secret|Iqualuit.secret]] 
+
+### [Iqualuit.public](/_public/\Earth\Continent\America~North\Canada\provinces~Canada\Nunavut\CityIqualuit.public.md) 
+
+### [Iqualuit.internal](/_internal/\Earth\Continent\America~North\Canada\provinces~Canada\Nunavut\CityIqualuit.internal.md) 
+
+### [Iqualuit.protect](/_protect/\Earth\Continent\America~North\Canada\provinces~Canada\Nunavut\CityIqualuit.protect.md) 
+
+### [Iqualuit.private](/_private/\Earth\Continent\America~North\Canada\provinces~Canada\Nunavut\CityIqualuit.private.md) 
+
+### [Iqualuit.personal](/_personal/\Earth\Continent\America~North\Canada\provinces~Canada\Nunavut\CityIqualuit.personal.md) 
+
+### [Iqualuit.secret](/_secret/\Earth\Continent\America~North\Canada\provinces~Canada\Nunavut\CityIqualuit.secret.md)
+

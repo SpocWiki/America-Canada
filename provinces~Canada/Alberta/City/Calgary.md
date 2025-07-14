@@ -29,3 +29,20 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Calgary)
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Calgary.public](/_public/\Earth\Continent\America~North\Canada\provinces~Canada\Alberta\CityCalgary.public.md) 
+
+### [Calgary.internal](/_internal/\Earth\Continent\America~North\Canada\provinces~Canada\Alberta\CityCalgary.internal.md) 
+
+### [Calgary.protect](/_protect/\Earth\Continent\America~North\Canada\provinces~Canada\Alberta\CityCalgary.protect.md) 
+
+### [Calgary.private](/_private/\Earth\Continent\America~North\Canada\provinces~Canada\Alberta\CityCalgary.private.md) 
+
+### [Calgary.personal](/_personal/\Earth\Continent\America~North\Canada\provinces~Canada\Alberta\CityCalgary.personal.md) 
+
+### [Calgary.secret](/_secret/\Earth\Continent\America~North\Canada\provinces~Canada\Alberta\CityCalgary.secret.md)
+

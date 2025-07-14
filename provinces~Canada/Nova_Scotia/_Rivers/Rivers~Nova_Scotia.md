@@ -40,11 +40,16 @@ markerFolder: ./Rivers~Nova_Scotia/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/America~North/Canada/State/State~Nova_Scotia/Rivers~Nova_Scotia|Rivers~Nova_Scotia]] 
-- [[../../../../../../../_public/geo/Continent/America~North/Canada/State/State~Nova_Scotia/Rivers~Nova_Scotia.public|Rivers~Nova_Scotia.public]] 
-- [[../../../../../../../_internal/geo/Continent/America~North/Canada/State/State~Nova_Scotia/Rivers~Nova_Scotia.internal|Rivers~Nova_Scotia.internal]] 
-- [[../../../../../../../_protect/geo/Continent/America~North/Canada/State/State~Nova_Scotia/Rivers~Nova_Scotia.protect|Rivers~Nova_Scotia.protect]] 
-- [[../../../../../../../_private/geo/Continent/America~North/Canada/State/State~Nova_Scotia/Rivers~Nova_Scotia.private|Rivers~Nova_Scotia.private]] 
-- [[../../../../../../../_personal/geo/Continent/America~North/Canada/State/State~Nova_Scotia/Rivers~Nova_Scotia.personal|Rivers~Nova_Scotia.personal]] 
-- [[../../../../../../../_secret/geo/Continent/America~North/Canada/State/State~Nova_Scotia/Rivers~Nova_Scotia.secret|Rivers~Nova_Scotia.secret]] 
+
+### [Rivers~Nova_Scotia.public](/_public/\Earth\Continent\America~North\Canada\provinces~Canada\Nova_Scotia\_RiversRivers~Nova_Scotia.public.md) 
+
+### [Rivers~Nova_Scotia.internal](/_internal/\Earth\Continent\America~North\Canada\provinces~Canada\Nova_Scotia\_RiversRivers~Nova_Scotia.internal.md) 
+
+### [Rivers~Nova_Scotia.protect](/_protect/\Earth\Continent\America~North\Canada\provinces~Canada\Nova_Scotia\_RiversRivers~Nova_Scotia.protect.md) 
+
+### [Rivers~Nova_Scotia.private](/_private/\Earth\Continent\America~North\Canada\provinces~Canada\Nova_Scotia\_RiversRivers~Nova_Scotia.private.md) 
+
+### [Rivers~Nova_Scotia.personal](/_personal/\Earth\Continent\America~North\Canada\provinces~Canada\Nova_Scotia\_RiversRivers~Nova_Scotia.personal.md) 
+
+### [Rivers~Nova_Scotia.secret](/_secret/\Earth\Continent\America~North\Canada\provinces~Canada\Nova_Scotia\_RiversRivers~Nova_Scotia.secret.md)
 

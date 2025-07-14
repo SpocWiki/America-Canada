@@ -34,9 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Saskatchewan|Saskatchewan]]  
-- [[../../../../../../_internal/geo/Continent/America~North/Canada/State/Saskatchewan.internal|Saskatchewan.internal]] 
-- [[../../../../../../_protect/geo/Continent/America~North/Canada/State/Saskatchewan.protect|Saskatchewan.protect]] 
-- [[../../../../../../_private/geo/Continent/America~North/Canada/State/Saskatchewan.private|Saskatchewan.private]] 
-- [[../../../../../../_personal/geo/Continent/America~North/Canada/State/Saskatchewan.personal|Saskatchewan.personal]] 
-- [[../../../../../../_secret/geo/Continent/America~North/Canada/State/Saskatchewan.secret|Saskatchewan.secret]] 
+
+### [Saskatchewan.public](/_public/\Earth\Continent\America~North\Canada\provinces~CanadaSaskatchewan.public.md) 
+
+### [Saskatchewan.internal](/_internal/\Earth\Continent\America~North\Canada\provinces~CanadaSaskatchewan.internal.md) 
+
+### [Saskatchewan.protect](/_protect/\Earth\Continent\America~North\Canada\provinces~CanadaSaskatchewan.protect.md) 
+
+### [Saskatchewan.private](/_private/\Earth\Continent\America~North\Canada\provinces~CanadaSaskatchewan.private.md) 
+
+### [Saskatchewan.personal](/_personal/\Earth\Continent\America~North\Canada\provinces~CanadaSaskatchewan.personal.md) 
+
+### [Saskatchewan.secret](/_secret/\Earth\Continent\America~North\Canada\provinces~CanadaSaskatchewan.secret.md)
+

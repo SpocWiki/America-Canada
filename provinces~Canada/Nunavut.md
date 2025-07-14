@@ -40,11 +40,16 @@ markerFolder: ./Nunavut/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/America~North/Canada/State/Nunavut|Nunavut]] 
-- [[../../../../../../_public/geo/Continent/America~North/Canada/State/Nunavut.public|Nunavut.public]] 
-- [[../../../../../../_internal/geo/Continent/America~North/Canada/State/Nunavut.internal|Nunavut.internal]] 
-- [[../../../../../../_protect/geo/Continent/America~North/Canada/State/Nunavut.protect|Nunavut.protect]] 
-- [[../../../../../../_private/geo/Continent/America~North/Canada/State/Nunavut.private|Nunavut.private]] 
-- [[../../../../../../_personal/geo/Continent/America~North/Canada/State/Nunavut.personal|Nunavut.personal]] 
-- [[../../../../../../_secret/geo/Continent/America~North/Canada/State/Nunavut.secret|Nunavut.secret]] 
+
+### [Nunavut.public](/_public/\Earth\Continent\America~North\Canada\provinces~CanadaNunavut.public.md) 
+
+### [Nunavut.internal](/_internal/\Earth\Continent\America~North\Canada\provinces~CanadaNunavut.internal.md) 
+
+### [Nunavut.protect](/_protect/\Earth\Continent\America~North\Canada\provinces~CanadaNunavut.protect.md) 
+
+### [Nunavut.private](/_private/\Earth\Continent\America~North\Canada\provinces~CanadaNunavut.private.md) 
+
+### [Nunavut.personal](/_personal/\Earth\Continent\America~North\Canada\provinces~CanadaNunavut.personal.md) 
+
+### [Nunavut.secret](/_secret/\Earth\Continent\America~North\Canada\provinces~CanadaNunavut.secret.md)
 

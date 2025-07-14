@@ -1,4 +1,4 @@
-﻿---
+---
 location: [46.24,-63.1399] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,9 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Charlottetown|Charlottetown]]  
-- [[../../../../../../_internal/geo/Continent/America~North/Canada/City/Charlottetown.internal|Charlottetown.internal]] 
-- [[../../../../../../_protect/geo/Continent/America~North/Canada/City/Charlottetown.protect|Charlottetown.protect]] 
-- [[../../../../../../_private/geo/Continent/America~North/Canada/City/Charlottetown.private|Charlottetown.private]] 
-- [[../../../../../../_personal/geo/Continent/America~North/Canada/City/Charlottetown.personal|Charlottetown.personal]] 
-- [[../../../../../../_secret/geo/Continent/America~North/Canada/City/Charlottetown.secret|Charlottetown.secret]] 
+
+### [Charlottetown.public](/_public/\Earth\Continent\America~North\Canada\provinces~Canada\Prince_Edward_Island\counties~Prince_Edward_Island\Queens\cities~QueensCharlottetown.public.md) 
+
+### [Charlottetown.internal](/_internal/\Earth\Continent\America~North\Canada\provinces~Canada\Prince_Edward_Island\counties~Prince_Edward_Island\Queens\cities~QueensCharlottetown.internal.md) 
+
+### [Charlottetown.protect](/_protect/\Earth\Continent\America~North\Canada\provinces~Canada\Prince_Edward_Island\counties~Prince_Edward_Island\Queens\cities~QueensCharlottetown.protect.md) 
+
+### [Charlottetown.private](/_private/\Earth\Continent\America~North\Canada\provinces~Canada\Prince_Edward_Island\counties~Prince_Edward_Island\Queens\cities~QueensCharlottetown.private.md) 
+
+### [Charlottetown.personal](/_personal/\Earth\Continent\America~North\Canada\provinces~Canada\Prince_Edward_Island\counties~Prince_Edward_Island\Queens\cities~QueensCharlottetown.personal.md) 
+
+### [Charlottetown.secret](/_secret/\Earth\Continent\America~North\Canada\provinces~Canada\Prince_Edward_Island\counties~Prince_Edward_Island\Queens\cities~QueensCharlottetown.secret.md)
+

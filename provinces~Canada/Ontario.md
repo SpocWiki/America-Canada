@@ -33,9 +33,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Ontario|Ontario]]  
-- [[../../../../../../_internal/geo/Continent/America~North/Canada/State/Ontario.internal|Ontario.internal]] 
-- [[../../../../../../_protect/geo/Continent/America~North/Canada/State/Ontario.protect|Ontario.protect]] 
-- [[../../../../../../_private/geo/Continent/America~North/Canada/State/Ontario.private|Ontario.private]] 
-- [[../../../../../../_personal/geo/Continent/America~North/Canada/State/Ontario.personal|Ontario.personal]] 
-- [[../../../../../../_secret/geo/Continent/America~North/Canada/State/Ontario.secret|Ontario.secret]] 
+
+### [Ontario.public](/_public/\Earth\Continent\America~North\Canada\provinces~CanadaOntario.public.md) 
+
+### [Ontario.internal](/_internal/\Earth\Continent\America~North\Canada\provinces~CanadaOntario.internal.md) 
+
+### [Ontario.protect](/_protect/\Earth\Continent\America~North\Canada\provinces~CanadaOntario.protect.md) 
+
+### [Ontario.private](/_private/\Earth\Continent\America~North\Canada\provinces~CanadaOntario.private.md) 
+
+### [Ontario.personal](/_personal/\Earth\Continent\America~North\Canada\provinces~CanadaOntario.personal.md) 
+
+### [Ontario.secret](/_secret/\Earth\Continent\America~North\Canada\provinces~CanadaOntario.secret.md)
+

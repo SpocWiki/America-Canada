@@ -1,4 +1,4 @@
-﻿---
+---
 location: [45.95,-66.66666] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/America~North/Canada/City/Fredericton|Fredericton]] 
-- [[../../../../../../_public/geo/Continent/America~North/Canada/City/Fredericton.public|Fredericton.public]] 
-- [[../../../../../../_internal/geo/Continent/America~North/Canada/City/Fredericton.internal|Fredericton.internal]] 
-- [[../../../../../../_protect/geo/Continent/America~North/Canada/City/Fredericton.protect|Fredericton.protect]] 
-- [[../../../../../../_private/geo/Continent/America~North/Canada/City/Fredericton.private|Fredericton.private]] 
-- [[../../../../../../_personal/geo/Continent/America~North/Canada/City/Fredericton.personal|Fredericton.personal]] 
-- [[../../../../../../_secret/geo/Continent/America~North/Canada/City/Fredericton.secret|Fredericton.secret]] 
+
+### [Fredericton.public](/_public/\Earth\Continent\America~North\Canada\provinces~Canada\New_Brunswick\CityFredericton.public.md) 
+
+### [Fredericton.internal](/_internal/\Earth\Continent\America~North\Canada\provinces~Canada\New_Brunswick\CityFredericton.internal.md) 
+
+### [Fredericton.protect](/_protect/\Earth\Continent\America~North\Canada\provinces~Canada\New_Brunswick\CityFredericton.protect.md) 
+
+### [Fredericton.private](/_private/\Earth\Continent\America~North\Canada\provinces~Canada\New_Brunswick\CityFredericton.private.md) 
+
+### [Fredericton.personal](/_personal/\Earth\Continent\America~North\Canada\provinces~Canada\New_Brunswick\CityFredericton.personal.md) 
+
+### [Fredericton.secret](/_secret/\Earth\Continent\America~North\Canada\provinces~Canada\New_Brunswick\CityFredericton.secret.md)
+

@@ -35,9 +35,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Quebec,Province/City/Quebeck,City|Quebeck,City]]  
-- [[../../../../../../_internal/geo/Continent/America~North/Canada/State/Quebeck.internal|Quebeck.internal]] 
-- [[../../../../../../_protect/geo/Continent/America~North/Canada/State/Quebeck.protect|Quebeck.protect]] 
-- [[../../../../../../_private/geo/Continent/America~North/Canada/State/Quebeck.private|Quebeck.private]] 
-- [[../../../../../../_personal/geo/Continent/America~North/Canada/State/Quebeck.personal|Quebeck.personal]] 
-- [[../../../../../../_secret/geo/Continent/America~North/Canada/State/Quebeck.secret|Quebeck.secret]] 
+
+### [Quebec,Province.public](/_public/\Earth\Continent\America~North\Canada\provinces~CanadaQuebec,Province.public.md) 
+
+### [Quebec,Province.internal](/_internal/\Earth\Continent\America~North\Canada\provinces~CanadaQuebec,Province.internal.md) 
+
+### [Quebec,Province.protect](/_protect/\Earth\Continent\America~North\Canada\provinces~CanadaQuebec,Province.protect.md) 
+
+### [Quebec,Province.private](/_private/\Earth\Continent\America~North\Canada\provinces~CanadaQuebec,Province.private.md) 
+
+### [Quebec,Province.personal](/_personal/\Earth\Continent\America~North\Canada\provinces~CanadaQuebec,Province.personal.md) 
+
+### [Quebec,Province.secret](/_secret/\Earth\Continent\America~North\Canada\provinces~CanadaQuebec,Province.secret.md)
+

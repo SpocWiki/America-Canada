@@ -40,11 +40,16 @@ markerFolder: ./State/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/geo/Continent/America~North/Canada/State|State]] 
-- [[../../../../../_public/geo/Continent/America~North/Canada/State.public|State.public]] 
-- [[../../../../../_internal/geo/Continent/America~North/Canada/State.internal|State.internal]] 
-- [[../../../../../_protect/geo/Continent/America~North/Canada/State.protect|State.protect]] 
-- [[../../../../../_private/geo/Continent/America~North/Canada/State.private|State.private]] 
-- [[../../../../../_personal/geo/Continent/America~North/Canada/State.personal|State.personal]] 
-- [[../../../../../_secret/geo/Continent/America~North/Canada/State.secret|State.secret]] 
+
+### [State.public](/_public/\Earth\Continent\America~North\CanadaState.public.md) 
+
+### [State.internal](/_internal/\Earth\Continent\America~North\CanadaState.internal.md) 
+
+### [State.protect](/_protect/\Earth\Continent\America~North\CanadaState.protect.md) 
+
+### [State.private](/_private/\Earth\Continent\America~North\CanadaState.private.md) 
+
+### [State.personal](/_personal/\Earth\Continent\America~North\CanadaState.personal.md) 
+
+### [State.secret](/_secret/\Earth\Continent\America~North\CanadaState.secret.md)
 

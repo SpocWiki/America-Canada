@@ -1,4 +1,4 @@
-﻿---
+---
 location: [49.89944,-97.13917] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/America~North/Canada/City/Winnipeg|Winnipeg]] 
-- [[../../../../../../_public/geo/Continent/America~North/Canada/City/Winnipeg.public|Winnipeg.public]] 
-- [[../../../../../../_internal/geo/Continent/America~North/Canada/City/Winnipeg.internal|Winnipeg.internal]] 
-- [[../../../../../../_protect/geo/Continent/America~North/Canada/City/Winnipeg.protect|Winnipeg.protect]] 
-- [[../../../../../../_private/geo/Continent/America~North/Canada/City/Winnipeg.private|Winnipeg.private]] 
-- [[../../../../../../_personal/geo/Continent/America~North/Canada/City/Winnipeg.personal|Winnipeg.personal]] 
-- [[../../../../../../_secret/geo/Continent/America~North/Canada/City/Winnipeg.secret|Winnipeg.secret]] 
+
+### [Winnipeg.public](/_public/\Earth\Continent\America~North\Canada\provinces~Canada\Manitoba\CityWinnipeg.public.md) 
+
+### [Winnipeg.internal](/_internal/\Earth\Continent\America~North\Canada\provinces~Canada\Manitoba\CityWinnipeg.internal.md) 
+
+### [Winnipeg.protect](/_protect/\Earth\Continent\America~North\Canada\provinces~Canada\Manitoba\CityWinnipeg.protect.md) 
+
+### [Winnipeg.private](/_private/\Earth\Continent\America~North\Canada\provinces~Canada\Manitoba\CityWinnipeg.private.md) 
+
+### [Winnipeg.personal](/_personal/\Earth\Continent\America~North\Canada\provinces~Canada\Manitoba\CityWinnipeg.personal.md) 
+
+### [Winnipeg.secret](/_secret/\Earth\Continent\America~North\Canada\provinces~Canada\Manitoba\CityWinnipeg.secret.md)
+

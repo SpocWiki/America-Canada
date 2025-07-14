@@ -1,4 +1,4 @@
-﻿---
+---
 location: [49.27,-123.12] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/America~North/Canada/City/Vancouver|Vancouver]] 
-- [[../../../../../../_public/geo/Continent/America~North/Canada/City/Vancouver.public|Vancouver.public]] 
-- [[../../../../../../_internal/geo/Continent/America~North/Canada/City/Vancouver.internal|Vancouver.internal]] 
-- [[../../../../../../_protect/geo/Continent/America~North/Canada/City/Vancouver.protect|Vancouver.protect]] 
-- [[../../../../../../_private/geo/Continent/America~North/Canada/City/Vancouver.private|Vancouver.private]] 
-- [[../../../../../../_personal/geo/Continent/America~North/Canada/City/Vancouver.personal|Vancouver.personal]] 
-- [[../../../../../../_secret/geo/Continent/America~North/Canada/City/Vancouver.secret|Vancouver.secret]] 
+
+### [Vancouver.public](/_public/\Earth\Continent\America~North\Canada\provinces~Canada\British_Columbia\CityVancouver.public.md) 
+
+### [Vancouver.internal](/_internal/\Earth\Continent\America~North\Canada\provinces~Canada\British_Columbia\CityVancouver.internal.md) 
+
+### [Vancouver.protect](/_protect/\Earth\Continent\America~North\Canada\provinces~Canada\British_Columbia\CityVancouver.protect.md) 
+
+### [Vancouver.private](/_private/\Earth\Continent\America~North\Canada\provinces~Canada\British_Columbia\CityVancouver.private.md) 
+
+### [Vancouver.personal](/_personal/\Earth\Continent\America~North\Canada\provinces~Canada\British_Columbia\CityVancouver.personal.md) 
+
+### [Vancouver.secret](/_secret/\Earth\Continent\America~North\Canada\provinces~Canada\British_Columbia\CityVancouver.secret.md)
+

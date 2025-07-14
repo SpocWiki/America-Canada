@@ -1,4 +1,4 @@
-﻿---
+---
 database_plugin: basic
 ---
 
@@ -316,10 +316,18 @@ filters:
   conditions:
 ```
 
+
 ## Confidential Links & Embeds: 
-- [[_CountryStateDB|_CountryStateDB]] 
-- [[../../../../../../_internal/geo/Continent/America~North/Canada/State/_CountryStateDB.internal|_CountryStateDB.internal]] 
-- [[../../../../../../_protect/geo/Continent/America~North/Canada/State/_CountryStateDB.protect|_CountryStateDB.protect]] 
-- [[../../../../../../_private/geo/Continent/America~North/Canada/State/_CountryStateDB.private|_CountryStateDB.private]] 
-- [[../../../../../../_personal/geo/Continent/America~North/Canada/State/_CountryStateDB.personal|_CountryStateDB.personal]] 
-- [[../../../../../../_secret/geo/Continent/America~North/Canada/State/_CountryStateDB.secret|_CountryStateDB.secret]] 
+
+### [_CountryStateDB.public](/_public/\Earth\Continent\America~North\Canada\provinces~Canada_CountryStateDB.public.md) 
+
+### [_CountryStateDB.internal](/_internal/\Earth\Continent\America~North\Canada\provinces~Canada_CountryStateDB.internal.md) 
+
+### [_CountryStateDB.protect](/_protect/\Earth\Continent\America~North\Canada\provinces~Canada_CountryStateDB.protect.md) 
+
+### [_CountryStateDB.private](/_private/\Earth\Continent\America~North\Canada\provinces~Canada_CountryStateDB.private.md) 
+
+### [_CountryStateDB.personal](/_personal/\Earth\Continent\America~North\Canada\provinces~Canada_CountryStateDB.personal.md) 
+
+### [_CountryStateDB.secret](/_secret/\Earth\Continent\America~North\Canada\provinces~Canada_CountryStateDB.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [45.42,-75.7] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/America~North/Canada/City/Ottawa|Ottawa]] 
-- [[../../../../../../_public/geo/Continent/America~North/Canada/City/Ottawa.public|Ottawa.public]] 
-- [[../../../../../../_internal/geo/Continent/America~North/Canada/City/Ottawa.internal|Ottawa.internal]] 
-- [[../../../../../../_protect/geo/Continent/America~North/Canada/City/Ottawa.protect|Ottawa.protect]] 
-- [[../../../../../../_private/geo/Continent/America~North/Canada/City/Ottawa.private|Ottawa.private]] 
-- [[../../../../../../_personal/geo/Continent/America~North/Canada/City/Ottawa.personal|Ottawa.personal]] 
-- [[../../../../../../_secret/geo/Continent/America~North/Canada/City/Ottawa.secret|Ottawa.secret]] 
+
+### [Ottawa.public](/_public/\Earth\Continent\America~North\Canada\provinces~Canada\Ontario\CityOttawa.public.md) 
+
+### [Ottawa.internal](/_internal/\Earth\Continent\America~North\Canada\provinces~Canada\Ontario\CityOttawa.internal.md) 
+
+### [Ottawa.protect](/_protect/\Earth\Continent\America~North\Canada\provinces~Canada\Ontario\CityOttawa.protect.md) 
+
+### [Ottawa.private](/_private/\Earth\Continent\America~North\Canada\provinces~Canada\Ontario\CityOttawa.private.md) 
+
+### [Ottawa.personal](/_personal/\Earth\Continent\America~North\Canada\provinces~Canada\Ontario\CityOttawa.personal.md) 
+
+### [Ottawa.secret](/_secret/\Earth\Continent\America~North\Canada\provinces~Canada\Ontario\CityOttawa.secret.md)
+
