@@ -27,7 +27,7 @@ publishDate:
 expiryDate: 
 ---
 
-# Nunavut
+# [[Nunavut]]
 
 ```leaflet
 id: Nunavut
