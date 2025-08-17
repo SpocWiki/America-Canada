@@ -17,19 +17,19 @@ aliases:
 [name::Northwest Territories] 
 [name-abbr::NWT] 
 Country :: [[../../Canada]]  
-Capital :: [[Northwest_Territories/City/Yellowknife]]  
+Capital :: [[Northwest_Territories/counties~Northwest_Territories/Fort_Smith/cities~Fort_Smith/Yellowknife]]  
 #is_a_/Place  
 #is_a_ :: [[Place]] 
 [has_place_longitude::-114.397] 
 [has_place_latitude::62.4422] 
 [Population::] 
 
-## #hasmap
+## #has_/map 
 
 ```leaflet
 id: Northwest_Territories
-geojsonFolder: ./Northwest_Territories/
-markerFolder: ./Northwest_Territories/
+geojsonFolder: ./Northwest_Territories////
+markerFolder: ./Northwest_Territories///
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
