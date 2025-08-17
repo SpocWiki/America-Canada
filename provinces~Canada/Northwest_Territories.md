@@ -11,6 +11,9 @@ confidential: public
 aliases:
   - Northwest Territories
 ---
+# [[Northwest_Territories]] 
+
+
 [name::Northwest Territories] 
 [name-abbr::NWT] 
 Country :: [[../../Canada]]  
@@ -21,7 +24,7 @@ Capital :: [[Northwest_Territories/City/Yellowknife]]
 [has_place_latitude::62.4422] 
 [Population::] 
 
-
+## #hasmap
 
 ```leaflet
 id: Northwest_Territories
