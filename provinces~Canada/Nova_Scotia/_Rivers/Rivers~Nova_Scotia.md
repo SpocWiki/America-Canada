@@ -1,30 +1,29 @@
 ---
-location: [ 45.27484772343162 , -62.32822265624999 ] 
+location:
+  - 45.27484772343162
+  - -62.32822265624999
 type: geo-Region
 title: Rivers~Nova_Scotia
-
 license: CC BY-SA 4.0
 source: https://datahub.io/core/country-codes
 isDeleted: false
 isReadOnly: false
 draft: false
 confidential: public
-
 tags:
-- geo/Country/Region
+  - geo/Country/Region
 aliases:
-- Rivers~Nova_Scotia
-
+  - Rivers~Nova_Scotia
 Languages:
-- de
-
-cssclasses: geo-Region
+  - de
+cssclasses:
+  - geo-Region
 publish: true
-linkTitle: 
-keywords: 
-layout: 
-publishDate: 
-expiryDate: 
+linkTitle:
+keywords:
+layout:
+publishDate:
+expiryDate:
 ---
 
 # Rivers~Nova_Scotia

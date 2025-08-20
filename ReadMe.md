@@ -1,37 +1,38 @@
 ---
 title: Canada
 location:
-- 50.4137
-- -87.1444
+  - 50.4137
+  - -87.1444
 type: Country
 SpocWebEntityId: 26860
 isDeleted: false
 confidential: public
 tags:
-- geo/Country
+  - geo/Country
 license: CC BY-SA 4.0
 isReadOnly: false
 source: https://datahub.io/core/country-codes
-cssclasses: Country
+cssclasses:
+  - Country
 publish: true
-linkTitle: 
-keywords: 
-layout: 
+linkTitle:
+keywords:
+layout:
 draft: false
-publishDate: 
-expiryDate: 
+publishDate:
+expiryDate:
 aliases:
-- Canada
-- Canadá
-- كندا
-- 加拿大
-- Канада
-- el Canadá
-- Canadá (el)
+  - Canada
+  - Canadá
+  - كندا
+  - 加拿大
+  - Канада
+  - el Canadá
+  - Canadá (el)
 Languages:
-- en-CA
-- fr-CA
-- iu
+  - en-CA
+  - fr-CA
+  - iu
 icon: flag-ca
 ---
 
