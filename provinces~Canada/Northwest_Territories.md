@@ -155,7 +155,6 @@ coordinates_of_southernmost_point: Point(-113.0 60.0)
 ---
 # [[Northwest_Territories]] 
 
-
 [name::Northwest Territories] 
 [name-abbr::NWT] 
 Country :: [[../../Canada]]  
