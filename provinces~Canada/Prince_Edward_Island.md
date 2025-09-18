@@ -161,7 +161,7 @@ id: Price_Edward_Island
 geojsonFolder: ./Price_Edward_Island/
 markerFolder: ./Price_Edward_Island/
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 ```
 

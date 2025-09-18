@@ -253,7 +253,7 @@ id: British_Columbia
 geojsonFolder: ./British_Columbia/
 markerFolder: ./British_Columbia/
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 ```
 

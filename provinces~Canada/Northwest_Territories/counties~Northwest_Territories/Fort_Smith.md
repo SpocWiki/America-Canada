@@ -8,7 +8,7 @@ id: Fort_Smith
 geojsonFolder: ./Fort_Smith//
 markerFolder: ./Fort_Smith/
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 defaultZoom: 11 
 coordinates: [[Fort_Smith]] 

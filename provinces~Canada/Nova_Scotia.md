@@ -166,7 +166,7 @@ id: Nova_Scotia
 geojsonFolder: ./Nova_Scotia/
 markerFolder: ./Nova_Scotia/
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 ```
 

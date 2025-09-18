@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Rivers~Nova_Scotia
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Rivers~Nova_Scotia/
 markerFolder: ./Rivers~Nova_Scotia/

@@ -34,7 +34,7 @@ id: Yellowknife
 geojsonFolder: ./Yellowknife/
 markerFolder: ./Yellowknife/
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 defaultZoom: 11 
 coordinates: [[Yellowknife]] 

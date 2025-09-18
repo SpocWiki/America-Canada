@@ -154,7 +154,7 @@ id: Newfoundland
 geojsonFolder: ./Newfoundland-Labrador/
 markerFolder: ./Newfoundland-Labrador/
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 ```
 

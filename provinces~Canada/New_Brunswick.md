@@ -171,7 +171,7 @@ id: New_Brunswick
 geojsonFolder: ./New_Brunswick/
 markerFolder: ./New_Brunswick/
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 ```
 

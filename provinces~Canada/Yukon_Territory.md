@@ -152,7 +152,7 @@ id: Yukon_Territory
 geojsonFolder: ./Yukon_Territory/
 markerFolder: ./Yukon_Territory/
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 ```
 

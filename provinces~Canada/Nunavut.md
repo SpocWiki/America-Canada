@@ -160,7 +160,7 @@ coordinates_of_southernmost_point: Point(-79.077777777 51.640277777)
 ```leaflet
 id: Nunavut
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Nunavut/
 markerFolder: ./Nunavut/

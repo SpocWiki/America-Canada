@@ -224,7 +224,7 @@ id: Quebeck
 geojsonFolder: ./Quebeck/
 markerFolder: ./Quebeck/
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 ```
 

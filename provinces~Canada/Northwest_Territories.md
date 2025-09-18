@@ -174,7 +174,7 @@ id: Northwest_Territories
 geojsonFolder: ./Northwest_Territories////
 markerFolder: ./Northwest_Territories///
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 ```
 
