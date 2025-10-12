@@ -213,7 +213,6 @@ Capital :: [[./City/Quebec]]
 [has_place_latitude::46.15] 
 [Population::] 
 
-
 #is_/same_as ::  [[../../../../../WikiData/WD~Quebec,176|WD~Quebec,176]] 
 
 ## #has_/map 
