@@ -2,6 +2,7 @@
 aliases:
   - Ville-Marie
   - Mount Royal
+  - Montreal
 has_id_wikidata: Q340
 location:
   - 45.5
@@ -231,7 +232,7 @@ Facebook_username: mtlville
 Libris_URI: pm132xt75tscnrl
 ---
 
-# [[Montreal]] 
+# [[Montréal,Communauté]] 
 
 #is_a_/Place  
 #is_a_ :: [[Place]] 
@@ -249,12 +250,12 @@ Country :: [[../../../../Canada]]
 ## #has_/map 
 
 ```leaflet
-id: Montreal
-coordinates: [[Montreal]] 
-markerFile: [[Montreal]] 
-geojsonFolder: ./Montreal/
-markerFolder: ./Montreal/
-defaultZoom: 11 
+id: Montréal,Communauté
+coordinates: [[Montréal,Communauté]] 
+markerFile: [[Montréal,Communauté]] 
+geojsonFolder: ./Montréal,Communauté//
+markerFolder: ./Montréal,Communauté/
+defaultZoom: 9 
 maxZoom: 18
 ```
 
