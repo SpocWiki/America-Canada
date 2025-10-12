@@ -229,6 +229,40 @@ minZoom: 4
 maxZoom: 18
 ```
 
+## #has_/text_of_/abstract 
+
+> **Quebec** (French: Québec) is Canada's largest province by area. 
+> Located in Central Canada, the province shares borders with the provinces of 
+> - Ontario to the west, 
+> - Newfoundland and Labrador to the northeast, 
+> - New Brunswick to the southeast 
+> - and a coastal border with the territory of Nunavut. 
+> In the south, it shares a border with the United States. 
+> Quebec has a population of around 8 million, 
+> making it Canada's second-most populous province only behind Ontario.
+>
+> Between 1534 and 1763, what is now Quebec was the French colony of Canada 
+> and was the most developed colony in New France. 
+> 
+> Following the Seven Years' War, Canada became a British colony, 
+> first as the Province of Quebec (1763–1791), then Lower Canada (1791–1841), 
+> and lastly part of the Province of Canada (1841–1867) 
+> as a result of the Lower Canada Rebellion. 
+> 
+> It was confederated with Ontario, Nova Scotia, and New Brunswick in 1867. 
+> Until the early 1960s, the Catholic Church played a large role in the social and cultural institutions in Quebec. However, the Quiet Revolution of the 1960s to 1980s increased the role of the Government of Quebec in l'État québécois (the public authority of Quebec).
+>
+> The Government of Quebec functions within the context of a Westminster system and is both a liberal democracy and a constitutional monarchy. The Premier of Quebec acts as head of government. Independence debates have played a large role in Quebec politics. Quebec society's cohesion and specificity is based on three of its unique statutory documents: the Quebec Charter of Human Rights and Freedoms, the Charter of the French Language, and the Civil Code of Quebec. 
+> 
+> Furthermore, unlike elsewhere in Canada, law in Quebec is mixed: 
+> - private law is exercised under a civil-law system, 
+> - while public law is exercised under a common-law system.
+>
+> Quebec's official language is French; Québécois French is the regional variety. Quebec is the only Francophone-majority province of Canada and represents the only major Francophone centre in the Americas other than Haiti. The economy of Quebec is mainly supported by its large service sector and varied industrial sector. For exports, it leans on the key industries of aeronautics, hydroelectricity, mining, pharmaceuticals, aluminum, wood, and paper. Quebec is well known for producing maple syrup, for its comedy, and for making hockey one of the most popular sports in Canada. It is also renowned its distinct culture; the province produces literature, music, films, TV shows, festivals, and more.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Quebec) 
+
+
 
 ## Confidential Links & Embeds: 
 
