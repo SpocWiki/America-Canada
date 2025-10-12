@@ -218,11 +218,13 @@ Capital :: [[./City/Quebec]]
 
 ## #has_/map 
 
-
 ```leaflet
-id: Quebeck
-geojsonFolder: ./Quebeck/
-markerFolder: ./Quebeck/
+id: Quebeck,Province
+geojsonFolder: ./Quebec,Province/
+markerFolder: ./Quebec,Province/
+coordinates: [[Quebec,Province]] 
+markerFile: [[Quebec,Province]] 
+defaultZoom: 11 
 zoomFeatures: true 
 minZoom: 4 
 maxZoom: 18
