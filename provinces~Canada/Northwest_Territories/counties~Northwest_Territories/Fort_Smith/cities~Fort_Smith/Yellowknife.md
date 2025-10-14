@@ -24,7 +24,7 @@ State ::
 Country :: [[../../../../../../Canada]]  
 [StateId::36013] 
 [Population::] 
-[Unknown::] 
+
 
 
 ## #has_/map 

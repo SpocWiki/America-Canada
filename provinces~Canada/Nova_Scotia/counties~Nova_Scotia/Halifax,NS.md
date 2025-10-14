@@ -21,7 +21,7 @@ State ::
 Country :: [[../../Canada]]  
 [StateId::36008] 
 [Population::] 
-[Unknown::] 
+
 
 
 ```leaflet

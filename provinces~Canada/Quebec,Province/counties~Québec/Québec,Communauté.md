@@ -28,7 +28,7 @@ State ::
 Country :: [[../../../../Canada]]  
 [StateId::36011] 
 [Population::] 
-[Unknown::] 
+
 
 #is_/same_as :: 
 
