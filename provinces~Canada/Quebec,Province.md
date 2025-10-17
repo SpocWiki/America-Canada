@@ -225,7 +225,7 @@ coordinates: [[Quebec,Province]]
 markerFile: [[Quebec,Province]] 
 defaultZoom: 11 
 zoomFeatures: true 
-minZoom: 4 
+minZoom: 3 
 maxZoom: 18
 ```
 

@@ -35,6 +35,20 @@ native_label: Labrador Peninsula
 
 #is_/same_as :: [[WD~Labrador_Peninsula,84170]] 
 
+## #has_/map 
+
+```leaflet
+id: Labrador_Peninsula
+geojsonFolder: ./Labrador_Peninsula/
+markerFolder: ./Labrador_Peninsula/
+coordinates: [[Labrador_Peninsula]] 
+markerFile: [[Labrador_Peninsula]] 
+zoomFeatures: true 
+minZoom: 4 
+maxZoom: 18
+```
+
+
 ## #has_/text_of_/abstract 
 
 > The Labrador Peninsula, also called Quebec-Labrador Peninsula, 
@@ -46,7 +60,7 @@ native_label: Labrador Peninsula
 > The peninsula includes the region of Labrador, 
 > which is part of the province of [[../Newfoundland-Labrador|Newfoundland and Labrador]], 
 > and the regions of Saguenay–Lac-Saint-Jean, Côte-Nord, and Nord-du-Québec, 
-> which are in the province of Quebec. 
+> which are in the province of [[../Quebec,Province/counties~Québec/Québec,Communauté|Quebec]]. 
 > 
 > It has an area of 1,400,000 km2 (541,000 sq mi).
 >

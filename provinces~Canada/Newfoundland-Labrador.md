@@ -153,6 +153,8 @@ Capital :: [[Newfoundland-Labrador/City/NFD~St._Johns]]
 id: Newfoundland
 geojsonFolder: ./Newfoundland-Labrador/
 markerFolder: ./Newfoundland-Labrador/
+coordinates: [[Newfoundland-Labrador]] 
+markerFile: [[Newfoundland-Labrador]] 
 zoomFeatures: true 
 minZoom: 4 
 maxZoom: 18

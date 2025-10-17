@@ -155,11 +155,12 @@ Capital :: [[../City/Charlottetown]]
 
 ## #has_/map 
 
-
 ```leaflet
-id: Price_Edward_Island
-geojsonFolder: ./Price_Edward_Island/
-markerFolder: ./Price_Edward_Island/
+id: Prince_Edward_Island
+coordinates: [[Prince_Edward_Island]] 
+markerFile: [[Prince_Edward_Island]] 
+geojsonFolder: ./Prince_Edward_Island/
+markerFolder: ./Prince_Edward_Island/
 zoomFeatures: true 
 minZoom: 4 
 maxZoom: 18
