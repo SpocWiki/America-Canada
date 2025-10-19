@@ -182,7 +182,6 @@ Capital :: [[Ontario/City/Toronto]]
 [has_place_latitude::44.37] 
 [Population::] 
 
-
 #is_/same_as :: [[../../../../../WikiData/WD~Ontario,1904|WD~Ontario,1904]] 
 
 ## #has_/map 
