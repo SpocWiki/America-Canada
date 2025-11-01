@@ -162,7 +162,7 @@ id: Nunavut
 zoomFeatures: true 
 minZoom: 4 
 maxZoom: 18
-geojsonFolder: ./Nunavut/
+geojsonFolder: ./Nunavut//
 markerFolder: ./Nunavut/
 ```
 
