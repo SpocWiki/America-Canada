@@ -251,6 +251,8 @@ Capital :: [[Victoria]]
 id: British_Columbia
 geojsonFolder: ./British_Columbia//
 markerFolder: ./British_Columbia//
+coordinates: [[British_Columbia]] 
+markerFile: [[British_Columbia]] 
 zoomFeatures: true 
 minZoom: 4 
 maxZoom: 18
@@ -259,7 +261,18 @@ maxZoom: 18
 
 ## #has_/text_of_/abstract 
 
-> British Columbia is the westernmost province of Canada. Situated in the Pacific Northwest between the Pacific Ocean and the Rocky Mountains, the province has a diverse geography, with rugged landscapes that include rocky coastlines, sandy beaches, forests, lakes, mountains, inland deserts and grassy plains. British Columbia borders the province of Alberta to the east; the territories of Yukon and Northwest Territories to the north; the U.S. states of Washington, Idaho and Montana to the south, and Alaska to the northwest. With an estimated population of over 5.7 million as of 2025, it is Canada's third-most populous province. The capital of British Columbia is Victoria, while the province's largest city is Vancouver. Vancouver and its suburbs together make up the third-largest metropolitan area in Canada, with the 2021 census recording 2.6 million people in Metro Vancouver. British Columbia is Canada's third-largest province in terms of total area, after Quebec and Ontario.
+> British Columbia is the westernmost province of Canada. 
+> Situated in the Pacific Northwest between the Pacific Ocean and the Rocky Mountains, 
+> the province has a diverse geography, with rugged landscapes that include rocky 
+> coastlines, sandy beaches, forests, lakes, mountains, inland deserts and grassy plains. 
+> 
+> British Columbia borders the province of Alberta to the east; 
+> the territories of Yukon and Northwest Territories to the north; 
+> the U.S. states of Washington, Idaho and Montana to the south, 
+> and Alaska to the northwest. 
+> 
+> With an estimated population of over 5.7 million as of 2025, 
+> it is Canada's third-most populous province. The capital of British Columbia is Victoria, while the province's largest city is Vancouver. Vancouver and its suburbs together make up the third-largest metropolitan area in Canada, with the 2021 census recording 2.6 million people in Metro Vancouver. British Columbia is Canada's third-largest province in terms of total area, after Quebec and Ontario.
 >
 > The first known human inhabitants of the area settled in British Columbia at least 10,000 years ago. Such groups include the Coast Salish, Tsilhqotʼin, and Haida peoples, among many others. One of the earliest British settlements in the area was Fort Victoria, established in 1843, which gave rise to the city of Victoria, the capital of the Colony of Vancouver Island. The Colony of British Columbia (1858–1866) was subsequently founded by Richard Clement Moody, and by the Royal Engineers, Columbia Detachment, in response to the Fraser Canyon Gold Rush. Moody selected the site for and founded the mainland colony's capital New Westminster. The colonies of Vancouver Island and British Columbia were incorporated in 1866, subsequent to which Victoria became the united colony's capital. In 1871, British Columbia entered Confederation as the sixth province of Canada, in enactment of the British Columbia Terms of Union.
 >
