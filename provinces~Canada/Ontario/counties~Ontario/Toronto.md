@@ -1,7 +1,9 @@
 ---
 aliases:
 has_id_wikidata: Q172
-location: "[[_Standards/WikiData/WD~Greater_Toronto_Area,1024624]]"
+coordinate_location: Point(-79.386666666 43.670277777)
+location: [ 43.670277777, -79.386666666]
+locations: "[[_Standards/WikiData/WD~Greater_Toronto_Area,1024624]]"
 mapzoom:
   - 7
   - 12
@@ -111,7 +113,6 @@ Köppen_climate_classification: "[[_Standards/WikiData/WD~warm_summer_humid_cont
 depicted_by: "[[_Standards/WikiData/WD~Charles_Lewis_Fonds,71990254]]"
 on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~Genadendal_Music_Archive,128903909]]"
 inception: 1750-01-01T00:00:00Z
-coordinate_location: Point(-79.386666666 43.670277777)
 official_language: "[[_Standards/WikiData/WD~English,1860]]"
 capital_of: "[[_Standards/WikiData/WD~Ontario,1904]]"
 located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Ontario,1904]]"

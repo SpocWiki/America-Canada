@@ -247,11 +247,10 @@ Capital :: [[Victoria]]
 
 ## #has_/map 
 
-
 ```leaflet
 id: British_Columbia
-geojsonFolder: ./British_Columbia/
-markerFolder: ./British_Columbia/
+geojsonFolder: ./British_Columbia//
+markerFolder: ./British_Columbia//
 zoomFeatures: true 
 minZoom: 4 
 maxZoom: 18

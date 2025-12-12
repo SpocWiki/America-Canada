@@ -175,7 +175,7 @@ GitHub_topic: ontario
 [name::Ontario] 
 [name-abbr::ONT] 
 Country :: [[../../Canada]]  
-Capital :: [[Ontario/City/Toronto]]  
+Capital :: [[Ontario/counties~Ontario/Toronto]]  
 #is_a_/Place  
 #is_a_ :: [[Place]] 
 [has_place_longitude::-77.535] 
