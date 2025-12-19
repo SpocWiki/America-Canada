@@ -2,11 +2,13 @@
 aliases:
   - Queen Elizabeth Islands
   - Îles de la Reine-Élisabeth
-location: [80.0, -93.0]
+location:
+  - 80
+  - -93
 coordinate_location: Point(-93.0 80.0)
 has_id_wikidata: Q216533
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
   - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
 highest_point: "[[_Standards/WikiData/WD~Barbeau_Peak,807788]]"

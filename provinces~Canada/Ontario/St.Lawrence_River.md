@@ -1,7 +1,9 @@
 ---
 aliases:
 has_id_wikidata: Q134750
-location: [ 44.349711111, -76.014394444]
+location:
+  - 44.349711111
+  - -76.014394444
 coordinate_location:
   - Point(-76.014394444 44.349711111)
   - Point(-64.5 49.666666666)
@@ -183,7 +185,7 @@ tributary:
   - "[[_Standards/WikiData/WD~Ruisseau_aux_Vases,50229944]]"
   - "[[_Standards/WikiData/WD~Ottawa_River,60974]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
   - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
   - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"

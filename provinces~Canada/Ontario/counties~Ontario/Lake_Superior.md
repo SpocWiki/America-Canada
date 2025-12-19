@@ -2,7 +2,9 @@
 aliases:
   - Lake Superior
 has_id_wikidata: Q1066
-location: [47.528816111, -87.760021944]
+location:
+  - 47.528816111
+  - -87.760021944
 coordinate_location: Point(-87.760021944 47.528816111)
 part_of:
   - "[[_Standards/WikiData/WD~Canada_United_States_border,119515]]"
@@ -70,7 +72,7 @@ inflows:
   - "[[_Standards/WikiData/WD~Q21426605,21426605]]"
   - "[[_Standards/WikiData/WD~Doré_River,22586635]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
   - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
   - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"

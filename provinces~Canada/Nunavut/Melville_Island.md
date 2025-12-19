@@ -9,7 +9,7 @@ part_of: "[[_Standards/WikiData/WD~Canadian_Arctic_Archipelago,85377]]"
 located_in_on_physical_feature: "[[_Standards/WikiData/WD~Queen_Elizabeth_Islands,216533]]"
 named_after: "[[_Standards/WikiData/WD~Robert_Dundas,_2nd_Viscount_Melville,267061]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Беларуская_энцыклапедыя_У_18_т._Т._10_Малайзія_Мугаджары,17398631]]"
   - "[[_Standards/WikiData/WD~Geographic_names_of_the_world_Toponymic_dictionary,18405384]]"
   - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"

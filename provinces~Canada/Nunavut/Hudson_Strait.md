@@ -3,7 +3,7 @@ aliases:
 has_id_wikidata: Q207702
 named_after: "[[_Standards/WikiData/WD~Henry_Hudson,179167]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Q35541239,35541239]]"
   - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]"
 category_for_the_water_basin: "[[_Standards/WikiData/WD~Q9444888,9444888]]"

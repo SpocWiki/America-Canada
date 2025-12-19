@@ -11,7 +11,7 @@ instance_of:
   - "[[_Standards/WikiData/WD~horseshoe_waterfall,2270442]]"
   - "[[_Standards/WikiData/WD~waterfall,34038]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
   - "[[_Standards/WikiData/WD~Meyer_s_Universum,_Zweiter_Band,126937278]]"
 has_part_s_of_the_class: "[[_Standards/WikiData/WD~Q46867411,46867411]]"

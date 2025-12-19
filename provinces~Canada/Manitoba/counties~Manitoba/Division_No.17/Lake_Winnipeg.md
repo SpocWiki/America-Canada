@@ -3,7 +3,9 @@ aliases:
   - Lake Winnipeg
   - Lac Winnipeg
 has_id_wikidata: Q3272
-location: [52.116666666, -97.25]
+location:
+  - 52.116666666
+  - -97.25
 inflows:
   - "[[_Standards/WikiData/WD~Red_River_of_the_North,156006]]"
   - "[[_Standards/WikiData/WD~Berens_River,819057]]"
@@ -17,7 +19,7 @@ inflows:
   - "[[_Standards/WikiData/WD~Saskatchewan_River,3047]]"
 follows: "[[_Standards/WikiData/WD~Lake_Agassiz,390804]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
   - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
   - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"

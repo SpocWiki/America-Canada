@@ -2,7 +2,9 @@
 aliases:
 has_id_wikidata: Q172
 coordinate_location: Point(-79.386666666 43.670277777)
-location: [ 43.670277777, -79.386666666]
+location:
+  - 43.670277777
+  - -79.386666666
 locations: "[[_Standards/WikiData/WD~Greater_Toronto_Area,1024624]]"
 mapzoom:
   - 7
@@ -69,7 +71,7 @@ owner_of:
   - "[[_Standards/WikiData/WD~Toronto_Transit_Commission,17978]]"
 founded_by: "[[_Standards/WikiData/WD~John_Graves_Simcoe,561352]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
   - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
   - "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
