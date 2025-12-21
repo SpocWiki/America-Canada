@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Rivers~Nova_Scotia
+  - Rivers~Nova Scotia
 location:
   - 45.27484772343162
   - -62.32822265624999
@@ -12,18 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Rivers~Nova_Scotia
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Rivers~Nova_Scotia

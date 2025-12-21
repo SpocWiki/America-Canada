@@ -2,25 +2,26 @@
 aliases:
   - Queen Elizabeth Islands
   - Îles de la Reine-Élisabeth
+  - Queen_Elizabeth_Islands
+has_id_wikidata: Q216533
 location:
   - 80
   - -93
 coordinate_location: Point(-93.0 80.0)
-has_id_wikidata: Q216533
 described_by_source:
-  - "[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-highest_point: "[[_Standards/WikiData/WD~Barbeau_Peak,807788]]"
-different_from: "[[_Standards/WikiData/WD~Elizabeth_Islands,943413]]"
-instance_of: "[[_Standards/WikiData/WD~island_group,1402592]]"
-located_in_or_next_to_body_of_water: "[[_Standards/WikiData/WD~Arctic_Ocean,788]]"
+  - '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+highest_point: '[[_Standards/WikiData/WD~Barbeau_Peak,807788]]'
+different_from: '[[_Standards/WikiData/WD~Elizabeth_Islands,943413]]'
+instance_of: '[[_Standards/WikiData/WD~island_group,1402592]]'
+located_in_or_next_to_body_of_water: '[[_Standards/WikiData/WD~Arctic_Ocean,788]]'
 located_in_the_administrative_territorial_entity:
-  - "[[_Standards/WikiData/WD~Northwest_Territories,2007]]"
-  - "[[_Standards/WikiData/WD~Nunavut,2023]]"
-located_in_time_zone: "[[_Standards/WikiData/WD~UTC_05_00,5390]]"
-named_after: "[[_Standards/WikiData/WD~Elizabeth_II,9682]]"
-country: "[[_Standards/WikiData/WD~Canada,16]]"
+  - '[[_Standards/WikiData/WD~Northwest_Territories,2007]]'
+  - '[[_Standards/WikiData/WD~Nunavut,2023]]'
+located_in_time_zone: '[[_Standards/WikiData/WD~UTC_05_00,5390]]'
+named_after: '[[_Standards/WikiData/WD~Elizabeth_II,9682]]'
+country: '[[_Standards/WikiData/WD~Canada,16]]'
 elevation_above_sea_level: 2616
 area: 419061
 native_label: Queen Elizabeth Islands

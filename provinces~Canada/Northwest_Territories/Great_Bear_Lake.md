@@ -3,33 +3,34 @@ aliases:
   - Great Bear Lake
   - Sahtú
   - Grand lac de l'Ours"
+  - Great_Bear_Lake
 has_id_wikidata: Q5525
 described_by_source:
-  - "[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]"
+  - '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]'
 inflows:
-  - "[[_Standards/WikiData/WD~Camsell_River,1031730]]"
-  - "[[_Standards/WikiData/WD~Whitefish_River,14658488]]"
-  - "[[_Standards/WikiData/WD~Haldane_River,15112077]]"
-  - "[[_Standards/WikiData/WD~Johnny_Hoe_River,15115769]]"
-  - "[[_Standards/WikiData/WD~Bloody_River,16209683]]"
-  - "[[_Standards/WikiData/WD~Greenhorn_River,22436266]]"
-  - "[[_Standards/WikiData/WD~Sloan_River,22639912]]"
-outflows: "[[_Standards/WikiData/WD~Great_Bear_River,1548669]]"
+  - '[[_Standards/WikiData/WD~Camsell_River,1031730]]'
+  - '[[_Standards/WikiData/WD~Whitefish_River,14658488]]'
+  - '[[_Standards/WikiData/WD~Haldane_River,15112077]]'
+  - '[[_Standards/WikiData/WD~Johnny_Hoe_River,15115769]]'
+  - '[[_Standards/WikiData/WD~Bloody_River,16209683]]'
+  - '[[_Standards/WikiData/WD~Greenhorn_River,22436266]]'
+  - '[[_Standards/WikiData/WD~Sloan_River,22639912]]'
+outflows: '[[_Standards/WikiData/WD~Great_Bear_River,1548669]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~Keith_Arm,22370379]]"
-  - "[[_Standards/WikiData/WD~McTavish_Arm,22487788]]"
-  - "[[_Standards/WikiData/WD~McVicar_Arm,22488070]]"
-  - "[[_Standards/WikiData/WD~Dease_Arm,22612844]]"
-  - "[[_Standards/WikiData/WD~Smith_Arm,22642337]]"
-part_of: "[[_Standards/WikiData/WD~Tsá_Tué_Biosphere_Reserve,24103317]]"
-drainage_basin: "[[_Standards/WikiData/WD~Mackenzie_River_basin,105213959]]"
+  - '[[_Standards/WikiData/WD~Keith_Arm,22370379]]'
+  - '[[_Standards/WikiData/WD~McTavish_Arm,22487788]]'
+  - '[[_Standards/WikiData/WD~McVicar_Arm,22488070]]'
+  - '[[_Standards/WikiData/WD~Dease_Arm,22612844]]'
+  - '[[_Standards/WikiData/WD~Smith_Arm,22642337]]'
+part_of: '[[_Standards/WikiData/WD~Tsá_Tué_Biosphere_Reserve,24103317]]'
+drainage_basin: '[[_Standards/WikiData/WD~Mackenzie_River_basin,105213959]]'
 coordinate_location: Point(-121.0 66.0)
-located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Northwest_Territories,2007]]"
-instance_of: "[[_Standards/WikiData/WD~lake,23397]]"
-country: "[[_Standards/WikiData/WD~Canada,16]]"
+located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~Northwest_Territories,2007]]'
+instance_of: '[[_Standards/WikiData/WD~lake,23397]]'
+country: '[[_Standards/WikiData/WD~Canada,16]]'
 width: 200
 length: 400
 residence_time_of_water: 124

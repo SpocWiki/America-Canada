@@ -1,16 +1,19 @@
 ---
-location: [63.74861,-68.51972] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Iqualuit
+location:
+  - 63.74861
+  - -68.51972
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 36124
 isDeleted: false
 confidential: public
-
 ---
 
 # [[Iqualuit]] 

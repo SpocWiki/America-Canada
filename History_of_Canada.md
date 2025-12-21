@@ -1,6 +1,8 @@
 ---
 aliases:
   - history of Canada
+  - History_of_Canada
+  - History of Canada
 has_id_wikidata: Q2945
 ---
 

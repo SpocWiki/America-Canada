@@ -1,16 +1,19 @@
 ---
-location: [62.44222,-114.3975] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Yellowknife
+location:
+  - 62.44222
+  - -114.3975
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 36123
 isDeleted: false
 confidential: public
-
 ---
 
 # [[Yellowknife]] 

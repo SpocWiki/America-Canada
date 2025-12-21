@@ -1,4 +1,13 @@
 ---
+aliases:
+  - Canada
+  - Canadá
+  - كندا
+  - 加拿大
+  - Канада
+  - el Canadá
+  - Canadá (el)
+  - ReadMe
 title: Canada
 location:
   - 50.4137
@@ -15,20 +24,12 @@ source: https://datahub.io/core/country-codes
 cssclasses:
   - Country
 publish: true
-linkTitle:
-keywords:
-layout:
+linkTitle: ''
+keywords: ''
+layout: ''
 draft: false
-publishDate:
-expiryDate:
-aliases:
-  - Canada
-  - Canadá
-  - كندا
-  - 加拿大
-  - Канада
-  - el Canadá
-  - Canadá (el)
+publishDate: ''
+expiryDate: ''
 Languages:
   - en-CA
   - fr-CA

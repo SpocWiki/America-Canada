@@ -2,25 +2,28 @@
 aliases:
   - Southampton Island
   - Shugliaq
+  - Southampton_Island
 has_id_wikidata: Q207751
-part_of: "[[_Standards/WikiData/WD~Canadian_Arctic_Archipelago,85377]]"
-capital: "[[_Standards/WikiData/WD~Coral_Harbour,652770]]"
+part_of: '[[_Standards/WikiData/WD~Canadian_Arctic_Archipelago,85377]]'
+capital: '[[_Standards/WikiData/WD~Coral_Harbour,652770]]'
 time_of_discovery_or_invention: 1613-01-01T00:00:00Z
-location: [ 64.333333, -84.666667]
+location:
+  - 64.333333
+  - -84.666667
 coordinate_location: Point(-84.666667 64.333333)
-located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Nunavut,2023]]"
-locations: "[[_Standards/WikiData/WD~Hudson_Bay,3040]]"
-located_in_or_next_to_body_of_water: "[[_Standards/WikiData/WD~Hudson_Bay,3040]]"
-instance_of: "[[_Standards/WikiData/WD~island,23442]]"
-country: "[[_Standards/WikiData/WD~Canada,16]]"
-continent: "[[_Standards/WikiData/WD~North_America,49]]"
+located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~Nunavut,2023]]'
+locations: '[[_Standards/WikiData/WD~Hudson_Bay,3040]]'
+located_in_or_next_to_body_of_water: '[[_Standards/WikiData/WD~Hudson_Bay,3040]]'
+instance_of: '[[_Standards/WikiData/WD~island,23442]]'
+country: '[[_Standards/WikiData/WD~Canada,16]]'
+continent: '[[_Standards/WikiData/WD~North_America,49]]'
 width: 252
 length: 355
 population: 834
 area: 41214
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Wfm%20southampton%20island.jpg
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Southampton%20Island.png
-U_S_National_Archives_Identifier: "10036818"
+U_S_National_Archives_Identifier: 10036818
 Commons_category: Southampton Island
 native_label: Southampton Island
 ---

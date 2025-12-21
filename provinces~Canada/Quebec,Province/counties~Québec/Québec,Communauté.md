@@ -1,4 +1,8 @@
 ---
+aliases:
+  - Québec City
+  - Quebec
+  - Québec,Communauté
 location:
   - 46.8
   - -71.27
@@ -12,9 +16,6 @@ tags:
 SpocWebEntityId: 33576
 isDeleted: false
 confidential: public
-aliases:
-  - Québec City
-  - Quebec
 ---
 
 # [[Québec,Communauté]]

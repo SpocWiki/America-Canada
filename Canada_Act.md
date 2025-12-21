@@ -2,6 +2,7 @@
 aliases:
   - Canada Act
   - Canada Act 1982
+  - Canada_Act
 ---
 
 > The **Canada Act** 1982 (1982 c. 11) (French: Loi de 1982 sur le Canada) 

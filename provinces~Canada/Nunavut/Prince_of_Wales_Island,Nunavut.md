@@ -2,26 +2,28 @@
 aliases:
   - Prince of Wales Island
   - Île du Prince-de-Galles
+  - Prince_of_Wales_Island,Nunavut
+  - Prince of Wales Island,Nunavut
 has_id_wikidata: Q207925
 location:
   - 72.6
   - -98.533333333
 coordinate_location: Point(-98.533333333 72.6)
-located_in_on_physical_feature: "[[_Standards/WikiData/WD~Canadian_Arctic_Archipelago,85377]]"
-part_of: "[[_Standards/WikiData/WD~Canadian_Arctic_Archipelago,85377]]"
+located_in_on_physical_feature: '[[_Standards/WikiData/WD~Canadian_Arctic_Archipelago,85377]]'
+part_of: '[[_Standards/WikiData/WD~Canadian_Arctic_Archipelago,85377]]'
 named_after:
-  - "[[_Standards/WikiData/WD~Prince_of_Wales,180729]]"
-  - "[[_Standards/WikiData/WD~Edward_VII,20875]]"
-different_from: "[[_Standards/WikiData/WD~Prince_of_Wales_Island,601637]]"
+  - '[[_Standards/WikiData/WD~Prince_of_Wales,180729]]'
+  - '[[_Standards/WikiData/WD~Edward_VII,20875]]'
+different_from: '[[_Standards/WikiData/WD~Prince_of_Wales_Island,601637]]'
 described_by_source:
-  - "[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
   - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
 time_of_discovery_or_invention: 1851-01-01T00:00:00Z
-located_in_or_next_to_body_of_water: "[[_Standards/WikiData/WD~Arctic_Ocean,788]]"
-located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Nunavut,2023]]"
-instance_of: "[[_Standards/WikiData/WD~island,23442]]"
-country: "[[_Standards/WikiData/WD~Canada,16]]"
-continent: "[[_Standards/WikiData/WD~North_America,49]]"
+located_in_or_next_to_body_of_water: '[[_Standards/WikiData/WD~Arctic_Ocean,788]]'
+located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~Nunavut,2023]]'
+instance_of: '[[_Standards/WikiData/WD~island,23442]]'
+country: '[[_Standards/WikiData/WD~Canada,16]]'
+continent: '[[_Standards/WikiData/WD~North_America,49]]'
 population: 0
 area: 33339
 native_label: Prince of Wales Island

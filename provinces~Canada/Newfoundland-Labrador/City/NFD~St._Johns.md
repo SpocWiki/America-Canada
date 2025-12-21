@@ -1,16 +1,20 @@
 ---
-location: [47.5675,-52.70722] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - NFD~St._Johns
+  - NFD~St. Johns
+location:
+  - 47.5675
+  - -52.70722
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 36119
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

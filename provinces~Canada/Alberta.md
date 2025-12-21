@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Alberta
+has_id_wikidata: Q1951
 location:
   - 53.5667
   - -113.517
@@ -8,149 +11,148 @@ tags:
 SpocWebEntityId: 36003
 isDeleted: false
 confidential: public
-has_id_wikidata: Q1951
 official_symbol:
-  - "[[_Standards/WikiData/WD~Great_Horned_Owl,81515]]"
-  - "[[_Standards/WikiData/WD~Pinus_contorta,165091]]"
-  - "[[_Standards/WikiData/WD~Rosa_acicularis,218368]]"
-  - "[[_Standards/WikiData/WD~ammolite,473346]]"
-  - "[[_Standards/WikiData/WD~petrified_wood,837117]]"
-  - "[[_Standards/WikiData/WD~bull_trout,2429513]]"
-  - "[[_Standards/WikiData/WD~Festuca_altaica,3092726]]"
-named_after: "[[_Standards/WikiData/WD~Princess_Louise,_Duchess_of_Argyll,161167]]"
+  - '[[_Standards/WikiData/WD~Great_Horned_Owl,81515]]'
+  - '[[_Standards/WikiData/WD~Pinus_contorta,165091]]'
+  - '[[_Standards/WikiData/WD~Rosa_acicularis,218368]]'
+  - '[[_Standards/WikiData/WD~ammolite,473346]]'
+  - '[[_Standards/WikiData/WD~petrified_wood,837117]]'
+  - '[[_Standards/WikiData/WD~bull_trout,2429513]]'
+  - '[[_Standards/WikiData/WD~Festuca_altaica,3092726]]'
+named_after: '[[_Standards/WikiData/WD~Princess_Louise,_Duchess_of_Argyll,161167]]'
 public_holiday:
-  - "[[_Standards/WikiData/WD~Easter_Monday,209663]]"
-  - "[[_Standards/WikiData/WD~Canada_Day,639756]]"
-  - "[[_Standards/WikiData/WD~Thanksgiving,2672785]]"
-  - "[[_Standards/WikiData/WD~Christmas_Day,2703710]]"
-  - "[[_Standards/WikiData/WD~Victoria_Day,2916311]]"
-  - "[[_Standards/WikiData/WD~Family_Day,5433098]]"
-  - "[[_Standards/WikiData/WD~Labour_Day,10901070]]"
-  - "[[_Standards/WikiData/WD~Remembrance_Day,27631]]"
-  - "[[_Standards/WikiData/WD~Good_Friday,40317]]"
-different_from: "[[_Standards/WikiData/WD~Alberta,231540]]"
+  - '[[_Standards/WikiData/WD~Easter_Monday,209663]]'
+  - '[[_Standards/WikiData/WD~Canada_Day,639756]]'
+  - '[[_Standards/WikiData/WD~Thanksgiving,2672785]]'
+  - '[[_Standards/WikiData/WD~Christmas_Day,2703710]]'
+  - '[[_Standards/WikiData/WD~Victoria_Day,2916311]]'
+  - '[[_Standards/WikiData/WD~Family_Day,5433098]]'
+  - '[[_Standards/WikiData/WD~Labour_Day,10901070]]'
+  - '[[_Standards/WikiData/WD~Remembrance_Day,27631]]'
+  - '[[_Standards/WikiData/WD~Good_Friday,40317]]'
+different_from: '[[_Standards/WikiData/WD~Alberta,231540]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
   - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
   - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Great_dictionary_of_geographical_names,113510146]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]"
+  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+  - '[[_Standards/WikiData/WD~Great_dictionary_of_geographical_names,113510146]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
 twinned_administrative_body:
-  - "[[_Standards/WikiData/WD~Hokkaido,1037393]]"
-  - "[[_Standards/WikiData/WD~Jalisco,13160]]"
-  - "[[_Standards/WikiData/WD~Guangdong,15175]]"
-  - "[[_Standards/WikiData/WD~Heilongjiang,19206]]"
-currency: "[[_Standards/WikiData/WD~Canadian_dollar,1104069]]"
-flag: "[[_Standards/WikiData/WD~flag_of_Alberta,1122078]]"
-history_of_topic: "[[_Standards/WikiData/WD~history_of_Alberta,1516319]]"
+  - '[[_Standards/WikiData/WD~Hokkaido,1037393]]'
+  - '[[_Standards/WikiData/WD~Jalisco,13160]]'
+  - '[[_Standards/WikiData/WD~Guangdong,15175]]'
+  - '[[_Standards/WikiData/WD~Heilongjiang,19206]]'
+currency: '[[_Standards/WikiData/WD~Canadian_dollar,1104069]]'
+flag: '[[_Standards/WikiData/WD~flag_of_Alberta,1122078]]'
+history_of_topic: '[[_Standards/WikiData/WD~history_of_Alberta,1516319]]'
 language_used:
-  - "[[_Standards/WikiData/WD~Plautdietsch,1751432]]"
-  - "[[_Standards/WikiData/WD~Stoney,3033570]]"
-  - "[[_Standards/WikiData/WD~Western_Ojibwa,3474222]]"
-  - "[[_Standards/WikiData/WD~Danezaa,20826]]"
-  - "[[_Standards/WikiData/WD~Tsuutʼina,20825]]"
-  - "[[_Standards/WikiData/WD~Chipewyan,27692]]"
-  - "[[_Standards/WikiData/WD~Denetaca,28552]]"
-  - "[[_Standards/WikiData/WD~Blackfoot,33060]]"
-  - "[[_Standards/WikiData/WD~Hutterite_German,33385]]"
-  - "[[_Standards/WikiData/WD~Plains_Cree,56699]]"
+  - '[[_Standards/WikiData/WD~Plautdietsch,1751432]]'
+  - '[[_Standards/WikiData/WD~Stoney,3033570]]'
+  - '[[_Standards/WikiData/WD~Western_Ojibwa,3474222]]'
+  - '[[_Standards/WikiData/WD~Danezaa,20826]]'
+  - '[[_Standards/WikiData/WD~Tsuutʼina,20825]]'
+  - '[[_Standards/WikiData/WD~Chipewyan,27692]]'
+  - '[[_Standards/WikiData/WD~Denetaca,28552]]'
+  - '[[_Standards/WikiData/WD~Blackfoot,33060]]'
+  - '[[_Standards/WikiData/WD~Hutterite_German,33385]]'
+  - '[[_Standards/WikiData/WD~Plains_Cree,56699]]'
 contains_the_statistical_territorial_entity:
-  - "[[_Standards/WikiData/WD~Division_No._12,1776238]]"
-  - "[[_Standards/WikiData/WD~Division_No._10,1776249]]"
-  - "[[_Standards/WikiData/WD~Division_No._17,1776258]]"
-  - "[[_Standards/WikiData/WD~Division_No._11,1776283]]"
-  - "[[_Standards/WikiData/WD~Division_No._19,1776294]]"
-  - "[[_Standards/WikiData/WD~Division_No._14,1776305]]"
-  - "[[_Standards/WikiData/WD~Division_No._16,1776316]]"
-  - "[[_Standards/WikiData/WD~Division_No._9,1776327]]"
-  - "[[_Standards/WikiData/WD~Division_No._13,1776350]]"
-  - "[[_Standards/WikiData/WD~Division_No._18,1776357]]"
-  - "[[_Standards/WikiData/WD~Division_No._5,2330278]]"
-  - "[[_Standards/WikiData/WD~Division_No._4,2330309]]"
-  - "[[_Standards/WikiData/WD~Division_No._7,2449019]]"
-  - "[[_Standards/WikiData/WD~Division_No._8,2449042]]"
-  - "[[_Standards/WikiData/WD~Division_No._1,2549614]]"
-  - "[[_Standards/WikiData/WD~Division_No._2,2568565]]"
-  - "[[_Standards/WikiData/WD~Division_No._3,2568585]]"
-  - "[[_Standards/WikiData/WD~Division_No._15,2630600]]"
-  - "[[_Standards/WikiData/WD~Division_No._6,2668423]]"
-highest_point: "[[_Standards/WikiData/WD~Mount_Columbia,1858093]]"
-coat_of_arms: "[[_Standards/WikiData/WD~coat_of_arms_of_Alberta,2060668]]"
-basic_form_of_government: "[[_Standards/WikiData/WD~parliamentary_democracy,3043547]]"
-located_in_time_zone: "[[_Standards/WikiData/WD~Mountain_Time_Zone,3134980]]"
-office_held_by_head_of_government: "[[_Standards/WikiData/WD~Premier_of_Alberta,3401750]]"
-geography_of_topic: "[[_Standards/WikiData/WD~geography_of_Alberta,3760271]]"
-economy_of_topic: "[[_Standards/WikiData/WD~economy_of_Alberta,4530328]]"
-foundational_text: "[[_Standards/WikiData/WD~Alberta_Act,4711569]]"
-highest_judicial_authority: "[[_Standards/WikiData/WD~Court_of_Appeal_of_Alberta,5178322]]"
-head_of_government: "[[_Standards/WikiData/WD~Danielle_Smith,5219439]]"
-demographics_of_topic: "[[_Standards/WikiData/WD~demographics_of_Alberta,5255977]]"
+  - '[[_Standards/WikiData/WD~Division_No._12,1776238]]'
+  - '[[_Standards/WikiData/WD~Division_No._10,1776249]]'
+  - '[[_Standards/WikiData/WD~Division_No._17,1776258]]'
+  - '[[_Standards/WikiData/WD~Division_No._11,1776283]]'
+  - '[[_Standards/WikiData/WD~Division_No._19,1776294]]'
+  - '[[_Standards/WikiData/WD~Division_No._14,1776305]]'
+  - '[[_Standards/WikiData/WD~Division_No._16,1776316]]'
+  - '[[_Standards/WikiData/WD~Division_No._9,1776327]]'
+  - '[[_Standards/WikiData/WD~Division_No._13,1776350]]'
+  - '[[_Standards/WikiData/WD~Division_No._18,1776357]]'
+  - '[[_Standards/WikiData/WD~Division_No._5,2330278]]'
+  - '[[_Standards/WikiData/WD~Division_No._4,2330309]]'
+  - '[[_Standards/WikiData/WD~Division_No._7,2449019]]'
+  - '[[_Standards/WikiData/WD~Division_No._8,2449042]]'
+  - '[[_Standards/WikiData/WD~Division_No._1,2549614]]'
+  - '[[_Standards/WikiData/WD~Division_No._2,2568565]]'
+  - '[[_Standards/WikiData/WD~Division_No._3,2568585]]'
+  - '[[_Standards/WikiData/WD~Division_No._15,2630600]]'
+  - '[[_Standards/WikiData/WD~Division_No._6,2668423]]'
+highest_point: '[[_Standards/WikiData/WD~Mount_Columbia,1858093]]'
+coat_of_arms: '[[_Standards/WikiData/WD~coat_of_arms_of_Alberta,2060668]]'
+basic_form_of_government: '[[_Standards/WikiData/WD~parliamentary_democracy,3043547]]'
+located_in_time_zone: '[[_Standards/WikiData/WD~Mountain_Time_Zone,3134980]]'
+office_held_by_head_of_government: '[[_Standards/WikiData/WD~Premier_of_Alberta,3401750]]'
+geography_of_topic: '[[_Standards/WikiData/WD~geography_of_Alberta,3760271]]'
+economy_of_topic: '[[_Standards/WikiData/WD~economy_of_Alberta,4530328]]'
+foundational_text: '[[_Standards/WikiData/WD~Alberta_Act,4711569]]'
+highest_judicial_authority: '[[_Standards/WikiData/WD~Court_of_Appeal_of_Alberta,5178322]]'
+head_of_government: '[[_Standards/WikiData/WD~Danielle_Smith,5219439]]'
+demographics_of_topic: '[[_Standards/WikiData/WD~demographics_of_Alberta,5255977]]'
 replaces:
-  - "[[_Standards/WikiData/WD~Alberta_District,5283390]]"
-  - "[[_Standards/WikiData/WD~Athabasca_District,5283393]]"
-  - "[[_Standards/WikiData/WD~Saskatchewan_District,5283474]]"
-  - "[[_Standards/WikiData/WD~Assiniboia_District,18100035]]"
-has_cabinet: "[[_Standards/WikiData/WD~Cabinet_of_Alberta,5419815]]"
-legislative_body: "[[_Standards/WikiData/WD~Legislature_of_Alberta,6560903]]"
+  - '[[_Standards/WikiData/WD~Alberta_District,5283390]]'
+  - '[[_Standards/WikiData/WD~Athabasca_District,5283393]]'
+  - '[[_Standards/WikiData/WD~Saskatchewan_District,5283474]]'
+  - '[[_Standards/WikiData/WD~Assiniboia_District,18100035]]'
+has_cabinet: '[[_Standards/WikiData/WD~Cabinet_of_Alberta,5419815]]'
+legislative_body: '[[_Standards/WikiData/WD~Legislature_of_Alberta,6560903]]'
 topic_has_template:
-  - "[[_Standards/WikiData/WD~Template_AB,6663195]]"
-  - "[[_Standards/WikiData/WD~Template_Subdivisions_of_Alberta,8084635]]"
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_Alberta,7112175]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Alberta,10302505]]"
-instance_of: "[[_Standards/WikiData/WD~province_of_Canada,11828004]]"
-driving_side: "[[_Standards/WikiData/WD~right,14565199]]"
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Alberta,14615028]]"
-office_held_by_head_of_state: "[[_Standards/WikiData/WD~monarch_of_Canada,14931511]]"
-executive_body: "[[_Standards/WikiData/WD~Government_of_Alberta,33121932]]"
-open_data_portal: "[[_Standards/WikiData/WD~Alberta_Open_government_portal,96993588]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~Q108109790,108109790]]"
+  - '[[_Standards/WikiData/WD~Template_AB,6663195]]'
+  - '[[_Standards/WikiData/WD~Template_Subdivisions_of_Alberta,8084635]]'
+Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_Alberta,7112175]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Alberta,10302505]]'
+instance_of: '[[_Standards/WikiData/WD~province_of_Canada,11828004]]'
+driving_side: '[[_Standards/WikiData/WD~right,14565199]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Alberta,14615028]]'
+office_held_by_head_of_state: '[[_Standards/WikiData/WD~monarch_of_Canada,14931511]]'
+executive_body: '[[_Standards/WikiData/WD~Government_of_Alberta,33121932]]'
+open_data_portal: '[[_Standards/WikiData/WD~Alberta_Open_government_portal,96993588]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~Q108109790,108109790]]'
 permanent_duplicated_item:
-  - "[[_Standards/WikiData/WD~Q111142157,111142157]]"
-  - "[[_Standards/WikiData/WD~Q111143798,111143798]]"
-has_part_s_of_the_class: "[[_Standards/WikiData/WD~municipality_in_Alberta,123433484]]"
+  - '[[_Standards/WikiData/WD~Q111142157,111142157]]'
+  - '[[_Standards/WikiData/WD~Q111143798,111143798]]'
+has_part_s_of_the_class: '[[_Standards/WikiData/WD~municipality_in_Alberta,123433484]]'
 tartan:
-  - "[[_Standards/WikiData/WD~Alberta_(Province)_tartan,127297009]]"
-  - "[[_Standards/WikiData/WD~Alberta_dress_tartan,127297635]]"
-category_for_people_buried_here: "[[_Standards/WikiData/WD~Q134089292,134089292]]"
+  - '[[_Standards/WikiData/WD~Alberta_(Province)_tartan,127297009]]'
+  - '[[_Standards/WikiData/WD~Alberta_dress_tartan,127297635]]'
+category_for_people_buried_here: '[[_Standards/WikiData/WD~Q134089292,134089292]]'
 coordinates_of_southernmost_point: Point(-112.0 49.0)
 coordinates_of_geographic_center: Point(-115.001111111 54.499722222)
 coordinate_location: Point(-115.0 54.5)
 coordinates_of_easternmost_point: Point(-110.0 54.5)
 coordinates_of_northernmost_point: Point(-115.0 60.0)
 shares_border_with:
-  - "[[_Standards/WikiData/WD~Montana,1212]]"
-  - "[[_Standards/WikiData/WD~British_Columbia,1973]]"
-  - "[[_Standards/WikiData/WD~Saskatchewan,1989]]"
-  - "[[_Standards/WikiData/WD~Northwest_Territories,2007]]"
-official_language: "[[_Standards/WikiData/WD~English,1860]]"
-separated_from: "[[_Standards/WikiData/WD~Northwest_Territories,2007]]"
-capital: "[[_Standards/WikiData/WD~Edmonton,2096]]"
-lowest_point: "[[_Standards/WikiData/WD~Slave_River,2226]]"
-located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Canada,16]]"
-country: "[[_Standards/WikiData/WD~Canada,16]]"
-continent: "[[_Standards/WikiData/WD~North_America,49]]"
-head_of_state: "[[_Standards/WikiData/WD~Charles_III,43274]]"
+  - '[[_Standards/WikiData/WD~Montana,1212]]'
+  - '[[_Standards/WikiData/WD~British_Columbia,1973]]'
+  - '[[_Standards/WikiData/WD~Saskatchewan,1989]]'
+  - '[[_Standards/WikiData/WD~Northwest_Territories,2007]]'
+official_language: '[[_Standards/WikiData/WD~English,1860]]'
+separated_from: '[[_Standards/WikiData/WD~Northwest_Territories,2007]]'
+capital: '[[_Standards/WikiData/WD~Edmonton,2096]]'
+lowest_point: '[[_Standards/WikiData/WD~Slave_River,2226]]'
+located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~Canada,16]]'
+country: '[[_Standards/WikiData/WD~Canada,16]]'
+continent: '[[_Standards/WikiData/WD~North_America,49]]'
+head_of_state: '[[_Standards/WikiData/WD~Charles_III,43274]]'
 life_expectancy: 81.5
-Statistics_Canada_Geographic_code: "48"
+Statistics_Canada_Geographic_code: 48
 local_dialing_code:
-  - "780"
-  - "403"
-  - "587"
-  - "825"
+  - 780
+  - 403
+  - 587
+  - 825
 total_fertility_rate: 1.5904
 UMLS_CUI: C0001914
 nominal_GDP: 294818000000
-OmegaWiki_Defined_Meaning: "852670"
+OmegaWiki_Defined_Meaning: 852670
 postal_code: T
 native_label: Alberta
 official_name:
   - Alberta
   - Alberta
 area: 661848
-U_S_National_Archives_Identifier: "10044703"
+U_S_National_Archives_Identifier: 10044703
 Commons_gallery: Alberta
 Commons_category: Alberta
 DPLA_subject_term: Alberta
@@ -164,7 +166,7 @@ demonym:
   - Albertaine
 flag_image: http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Alberta.svg
 subreddit: alberta
-ISNI: "0000000107301074"
+ISNI: 0000000107301074
 geoshape: http://commons.wikimedia.org/data/main/Data:Canada/Alberta.map
 aerial_view: http://commons.wikimedia.org/wiki/Special:FilePath/2019%20Alberta%20wildfires.jpg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/2019%20Alberta%20wildfires.jpg
@@ -180,7 +182,7 @@ video:
 coat_of_arms_image: http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20Alberta.svg
 official_website: https://www.alberta.ca/
 Dewey_Decimal_Classification: 2--7154
-P8189: "987007559530405171"
+P8189: 987007559530405171
 GitHub_username: abgov
 ISO_3166_2_code: CA-AB
 HASC: CA.AB

@@ -1,20 +1,21 @@
 ---
 aliases:
   - Mount Logan
+  - Mount_Logan
 has_id_wikidata: Q120306
-parent_peak: "[[_Standards/WikiData/WD~Denali,130018]]"
-located_in_protected_area: "[[_Standards/WikiData/WD~Kluane_National_Park_and_Reserve,738582]]"
-named_after: "[[_Standards/WikiData/WD~William_Edmond_Logan,937429]]"
-significant_event: "[[_Standards/WikiData/WD~first_ascent,1194369]]"
-part_of: "[[_Standards/WikiData/WD~Seven_Second_Summits,1855408]]"
-topographic_map: "[[_Standards/WikiData/WD~NTS_115C09,133165702]]"
+parent_peak: '[[_Standards/WikiData/WD~Denali,130018]]'
+located_in_protected_area: '[[_Standards/WikiData/WD~Kluane_National_Park_and_Reserve,738582]]'
+named_after: '[[_Standards/WikiData/WD~William_Edmond_Logan,937429]]'
+significant_event: '[[_Standards/WikiData/WD~first_ascent,1194369]]'
+part_of: '[[_Standards/WikiData/WD~Seven_Second_Summits,1855408]]'
+topographic_map: '[[_Standards/WikiData/WD~NTS_115C09,133165702]]'
 coordinate_location: Point(-140.405277777 60.567222222)
-continent: "[[_Standards/WikiData/WD~Americas,828]]"
-located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Yukon,2009]]"
-instance_of: "[[_Standards/WikiData/WD~mountain,8502]]"
-country: "[[_Standards/WikiData/WD~Canada,16]]"
-made_from_material: "[[_Standards/WikiData/WD~granite,41177]]"
-mountain_range: "[[_Standards/WikiData/WD~Saint_Elias_Mountains,48719]]"
+continent: '[[_Standards/WikiData/WD~Americas,828]]'
+located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~Yukon,2009]]'
+instance_of: '[[_Standards/WikiData/WD~mountain,8502]]'
+country: '[[_Standards/WikiData/WD~Canada,16]]'
+made_from_material: '[[_Standards/WikiData/WD~granite,41177]]'
+mountain_range: '[[_Standards/WikiData/WD~Saint_Elias_Mountains,48719]]'
 topographic_prominence: 5250
 topographic_isolation: 622
 elevation_above_sea_level: 5959
