@@ -4,6 +4,16 @@ aliases:
   - History_of_Canada
   - History of Canada
 has_id_wikidata: Q2945
+part_of: "[[_Standards/WikiData/WD~history_of_North_America,149527]]"
+subclass_of: "[[_Standards/WikiData/WD~history_of_North_America,149527]]"
+instance_of: "[[_Standards/WikiData/WD~history_of_a_country_or_state,17544377]]"
+described_by_source: "[[_Standards/WikiData/WD~A_History_of_Canada,30066309]]"
+facet_of: "[[_Standards/WikiData/WD~Canada,16]]"
+country: "[[_Standards/WikiData/WD~Canada,16]]"
+Dewey_Decimal_Classification: "971"
+Basisklassifikation: "15.86"
+Library_of_Congress_Classification: F1001-F1035
+Commons_category: History of Canada
 ---
 
 # [[History_of_Canada]] 
