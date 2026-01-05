@@ -1,4 +1,5 @@
----
+﻿---
+has_time_started: 1905-09-01 
 aliases:
   - Alberta
 has_id_wikidata: Q1951

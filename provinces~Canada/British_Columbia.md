@@ -1,4 +1,5 @@
----
+﻿---
+has_time_started: 1871-01-01 
 aliases:
   - British Columbia
   - British_Columbia

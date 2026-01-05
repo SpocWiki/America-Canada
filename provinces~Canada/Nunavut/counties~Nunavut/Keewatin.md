@@ -1,4 +1,6 @@
----
+﻿---
+has_time_started: 1876-10-07 
+has_time_stopped: 1905-09-01 
 aliases:
 has_id_wikidata: Q603676
 legislative_body: "[[_Standards/WikiData/WD~Council_of_Keewatin,2993868]]"

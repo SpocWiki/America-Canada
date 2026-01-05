@@ -1,4 +1,5 @@
----
+﻿---
+has_time_started: 1867-07-01 
 aliases:
   - Québec
   - Quebec Province

@@ -1,4 +1,5 @@
----
+﻿---
+has_time_started: 1999-04-01 
 aliases:
   - Nunavut
 has_id_wikidata: Q2023

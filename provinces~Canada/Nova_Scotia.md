@@ -1,4 +1,5 @@
----
+﻿---
+has_time_started: 1867-01-01 
 aliases:
   - Nova Scotia
   - Nova_Scotia

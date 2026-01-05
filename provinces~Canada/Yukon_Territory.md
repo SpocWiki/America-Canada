@@ -1,4 +1,5 @@
----
+﻿---
+has_time_started: 1898-01-01 
 aliases:
   - Yukon
   - Yukon Territory

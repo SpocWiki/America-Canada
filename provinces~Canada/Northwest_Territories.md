@@ -1,4 +1,5 @@
----
+﻿---
+has_time_started: 1870-07-15 
 aliases:
   - Northwest Territories
   - Northwest_Territories
