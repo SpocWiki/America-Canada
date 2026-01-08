@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../Geography/Place]]"
 dv_has_place_longitude: -113.5167
 dv_has_place_latitude: 53.56667
-dv_name: Edmonton
+dv_has_name_: Edmonton
 dv_Country: "[[../../../../Canada]]"
 dv_StateId: 36003
 ---

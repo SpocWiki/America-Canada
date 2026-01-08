@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -123.12
 dv_has_place_latitude: 49.27
-dv_name: Vancouver
+dv_has_name_: Vancouver
 dv_Country: "[[../../../../../../Canada]]"
 dv_StateId: 36004
 dv_is_:

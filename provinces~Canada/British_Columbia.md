@@ -1,6 +1,6 @@
 ---
-dv_name: British Columbia
-dv_name-abbr: BRC
+dv_has_name_: British Columbia
+dv_has_name_abbr: BRC
 dv_is_a_: "[[../../../../Geography/Place]]"
 dv_has_place_longitude: -123.243
 dv_has_place_latitude: 48.8461
@@ -245,7 +245,7 @@ coordinates_of_geographic_center: Point(-123.997089 53.965561)
 # [[British_Columbia]]
 
 name = `=this.dv_name` 
-name-abbr = `=this.dv_name-abbr` 
+has_name_abbr = `=this.dv_has_name_abbr` 
 Country :: [[../../Canada]]  
 Capital :: [[Victoria]]  
 #is_a_/Place  

@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../Geography/Place]]"
 dv_has_place_longitude: -54.6
 dv_has_place_latitude: 49
-dv_name: Gander
+dv_has_name_: Gander
 dv_Country: "[[../../../../Canada]]"
 dv_StateId: 36007
 ---

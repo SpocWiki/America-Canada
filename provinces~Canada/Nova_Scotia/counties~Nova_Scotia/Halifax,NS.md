@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../Geography/Place]]"
 dv_has_place_longitude: -63.61
 dv_has_place_latitude: 44.67
-dv_name: NS~Halifax
+dv_has_name_: NS~Halifax
 dv_Country: "[[../../Canada]]"
 dv_StateId: 36008
 ---

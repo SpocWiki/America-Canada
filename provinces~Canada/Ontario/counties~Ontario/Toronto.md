@@ -2,7 +2,7 @@
 dv_is_a_: "[[../../../../../../Geography/Place]]"
 dv_has_place_longitude: -79.37
 dv_has_place_latitude: 43.32
-dv_name: Toronto
+dv_has_name_: Toronto
 dv_StateId: 36009
 dv_is_:
   same_as: "[[../../../../../../../WikiData/WD~Toronto,172|WD~Toronto,172]]"

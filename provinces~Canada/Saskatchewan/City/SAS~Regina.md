@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../Geography/Place]]"
 dv_has_place_longitude: -105.6814
 dv_has_place_latitude: 54.5
-dv_name: SAS~Regina
+dv_has_name_: SAS~Regina
 dv_Country: "[[../../../../Canada]]"
 dv_StateId: 36012
 ---

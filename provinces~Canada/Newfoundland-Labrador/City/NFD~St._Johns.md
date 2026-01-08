@@ -18,7 +18,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../Geography/Place]]"
 dv_has_place_longitude: -52.70722
 dv_has_place_latitude: 47.5675
-dv_name: NFD~St. Johns
+dv_has_name_: NFD~St. Johns
 dv_Country: "[[../../../../Canada]]"
 dv_StateId: 36007
 ---

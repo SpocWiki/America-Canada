@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -68.51972
 dv_has_place_latitude: 63.74861
-dv_name: Iqualuit
+dv_has_name_: Iqualuit
 dv_Country: "[[../../../../../../Canada]]"
 ---
 

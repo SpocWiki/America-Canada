@@ -36,6 +36,7 @@ Languages:
   - iu
 icon: flag-ca
 dv_has_:
+  name_:
   url_for_:
     code_repository: https://github.com/SpocWiki/America-Canada
   image_for_:
@@ -47,10 +48,8 @@ dv_has_:
     Prefix_:
       International: 11
       country: 1
-dv_name-en:
-  - Canada
-  - Canada
-dv_name-de: Kanada
+dv_has_name_en: Canada
+dv_has_name_de: Kanada
 dv_ISO2: CA
 dv_ISO3: CAN
 dv_ISO4217-currency_alphabetic: CAD
@@ -60,12 +59,12 @@ dv_ISO4217-currency_minor_unit: 2
 dv_ISO4217-currency_country_name: CANADA
 dv_Global: true
 dv_Global_Name: World
-dv_name: Canada
-dv_name-es: Canadá
-dv_name-fr: Canada
-dv_name-cn: 加拿大
-dv_name-ar: كندا
-dv_name-ru: Канада
+dv_has_name_: Canada
+dv_has_name_es: Canadá
+dv_has_name_fr: Canada
+dv_has_name_cn: 加拿大
+dv_has_name_ar: كندا
+dv_has_name_ru: Канада
 dv_CLDR_display_name: Canada
 dv_UNTERM_English: Canada
 dv_UNTERM_English_Formal: Canada
@@ -121,8 +120,8 @@ dv_developed_developing_countries: Developed
 
 has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
-[name-en::Canada] 
-name-de = `=this.dv_name-de` 
+[has_name_en::Canada] 
+has_name_de = `=this.dv_has_name_de` 
 
 ISO2 = `=this.dv_ISO2` 
 ISO3 = `=this.dv_ISO3` 
@@ -187,12 +186,12 @@ Global = `=this.dv_Global`
 Global_Name = `=this.dv_Global_Name` 
 
 name = `=this.dv_name` 
-[	name-en	 :: Canada ] 
-name-es = `=this.dv_name-es` 
-name-fr = `=this.dv_name-fr` 
-name-cn = `=this.dv_name-cn` 
-name-ar = `=this.dv_name-ar` 
-name-ru = `=this.dv_name-ru` 
+[	has_name_en	 :: Canada ] 
+has_name_es = `=this.dv_has_name_es` 
+has_name_fr = `=this.dv_has_name_fr` 
+has_name_cn = `=this.dv_has_name_cn` 
+has_name_ar = `=this.dv_has_name_ar` 
+has_name_ru = `=this.dv_has_name_ru` 
 
 CLDR_display_name = `=this.dv_CLDR_display_name` 
 

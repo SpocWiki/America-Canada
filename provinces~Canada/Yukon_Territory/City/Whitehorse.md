@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../Geography/Place]]"
 dv_has_place_longitude: -135.05
 dv_has_place_latitude: 60.71667
-dv_name: Whitehorse
+dv_has_name_: Whitehorse
 dv_Country: "[[../../../../Canada]]"
 dv_StateId: 36014
 ---

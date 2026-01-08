@@ -1,6 +1,6 @@
 ---
-dv_name: Yukon Territory
-dv_name-abbr: YKT
+dv_has_name_: Yukon Territory
+dv_has_name_abbr: YKT
 dv_is_a_: "[[../../../../Geography/Place]]"
 dv_has_place_longitude: -135.05
 dv_has_place_latitude: 60.7167
@@ -145,7 +145,7 @@ P8189: 987013003072505171
 # [[Yukon_Territory]]
 
 name = `=this.dv_name` 
-name-abbr = `=this.dv_name-abbr` 
+has_name_abbr = `=this.dv_has_name_abbr` 
 Country :: [[../../Canada]]  
 Capital :: [[Yukon_Territory/City/Whitehorse]]  
 #is_a_/Place  

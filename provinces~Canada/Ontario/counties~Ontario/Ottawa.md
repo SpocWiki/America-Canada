@@ -2,7 +2,7 @@
 dv_is_a_: "[[../../../../../../Geography/Place]]"
 dv_has_place_longitude: -75.7
 dv_has_place_latitude: 45.42
-dv_name: Ottawa
+dv_has_name_: Ottawa
 dv_StateId: 36009
 dv_is_:
   same_as: "[[../../../../../../../WikiData/WD~Ottawa,1930|WD~Ottawa,1930]]"

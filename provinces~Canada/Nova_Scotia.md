@@ -1,6 +1,6 @@
 ---
-dv_name: Nova Scotia
-dv_name-abbr: NVS
+dv_has_name_: Nova Scotia
+dv_has_name_abbr: NVS
 dv_is_a_: "[[../../../../Geography/Place]]"
 dv_has_place_longitude: -63.61
 dv_has_place_latitude: 44.67
@@ -158,7 +158,7 @@ coordinates_of_easternmost_point: Point(-59.663611111 46.038611111)
 # [[Nova_Scotia]] 
 
 name = `=this.dv_name` 
-name-abbr = `=this.dv_name-abbr` 
+has_name_abbr = `=this.dv_has_name_abbr` 
 Country :: [[../../Canada]]  
 Capital :: [[../City/NS~Halifax]]  
 #is_a_/Place  

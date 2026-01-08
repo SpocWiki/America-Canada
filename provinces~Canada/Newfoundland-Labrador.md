@@ -1,6 +1,6 @@
 ---
-dv_name: Newfoundland
-dv_name-abbr: NWF
+dv_has_name_: Newfoundland
+dv_has_name_abbr: NWF
 dv_is_a_: "[[../../../../Geography/Place]]"
 dv_has_place_longitude: -53.6536
 dv_has_place_latitude: 48.2838
@@ -146,7 +146,7 @@ coordinate_location: Point(-60.0 53.0)
 # [[Newfoundland-Labrador]] 
 
 name = `=this.dv_name` 
-name-abbr = `=this.dv_name-abbr` 
+has_name_abbr = `=this.dv_has_name_abbr` 
 Country :: [[../../Canada]]  
 Capital :: [[Newfoundland-Labrador/City/NFD~St._Johns]]  
 #is_a_/Place  

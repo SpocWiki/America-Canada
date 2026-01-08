@@ -19,7 +19,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../Geography/Place]]"
 dv_has_place_longitude: -71.27
 dv_has_place_latitude: 46.8
-dv_name: Quebec
+dv_has_name_: Quebec
 dv_Country: "[[../../../../Canada]]"
 dv_StateId: 36011
 dv_is_: {}

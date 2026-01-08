@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../Geography/Place]]"
 dv_has_place_longitude: -66.66666
 dv_has_place_latitude: 45.95
-dv_name: Fredericton
+dv_has_name_: Fredericton
 dv_Country: "[[../../../../Canada]]"
 dv_StateId: 36006
 ---

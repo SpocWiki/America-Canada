@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -123.3657
 dv_has_place_latitude: 48.42215
-dv_name: BC~Victoria
+dv_has_name_: BC~Victoria
 dv_Country: "[[../../../../../../Canada]]"
 dv_StateId: 36004
 dv_is_:

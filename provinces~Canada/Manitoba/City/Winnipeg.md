@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../Geography/Place]]"
 dv_has_place_longitude: -97.13917
 dv_has_place_latitude: 49.89944
-dv_name: Winnipeg
+dv_has_name_: Winnipeg
 dv_Country: "[[../../../../Canada]]"
 dv_StateId: 36005
 ---

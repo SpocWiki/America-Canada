@@ -1,6 +1,6 @@
 ---
-dv_name: Price Edward Island
-dv_name-abbr: PEI
+dv_has_name_: Price Edward Island
+dv_has_name_abbr: PEI
 dv_is_a_: "[[../../../../Geography/Place]]"
 dv_has_place_longitude: -63.1399
 dv_has_place_latitude: 46.24
@@ -153,7 +153,7 @@ Instagram_username: peigov
 # [[Prince_Edward_Island]] 
 
 name = `=this.dv_name` 
-name-abbr = `=this.dv_name-abbr` 
+has_name_abbr = `=this.dv_has_name_abbr` 
 Country :: [[../../Canada]]  
 Capital :: [[../City/Charlottetown]]  
 #is_a_/Place  
