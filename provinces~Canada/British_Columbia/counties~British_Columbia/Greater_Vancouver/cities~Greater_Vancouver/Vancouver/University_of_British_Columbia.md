@@ -1,4 +1,8 @@
-﻿---
+---
+dv_is_:
+  same_as: "[[../../../../../../../../../../WikiData/WD~University_of_British_Columbia,391028|WD~University_of_British_Columbia,391028]]"
+dv_is_same_as: "[[../../../../../../../../../../WikiData/WD~University_of_British_Columbia,391028|WD~University_of_British_Columbia,391028]]"
+
 has_time_started: 1908-01-01 
 aliases:
 has_id_wikidata: Q391028
@@ -245,7 +249,7 @@ IRS_Employer_Identification_Number: 98-6001255
 
 # [[University_of_British_Columbia]] 
 
-#is_/same_as :: [[../../../../../../../../../../WikiData/WD~University_of_British_Columbia,391028|WD~University_of_British_Columbia,391028]] 
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/text_of_/abstract 
 
@@ -262,4 +266,21 @@ IRS_Employer_Identification_Number: 98-6001255
 > Those affiliated with UBC include eight Nobel laureates, 75 Rhodes scholars, 231 Olympians with 65 medals won collectively, 306 fellows to the Royal Society of Canada, and 22 3M National Teaching Fellows. Among UBC's alums are Canadian Prime Ministers John Turner, Kim Campbell, Justin Trudeau, and the former prime minister of Bulgaria, Kiril Petkov.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/University%20of%20British%20Columbia) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~North/Canada/provinces~Canada/British_Columbia/counties~British_Columbia/Greater_Vancouver/cities~Greater_Vancouver/Vancouver/University_of_British_Columbia|University_of_British_Columbia]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/America~North/Canada/provinces~Canada/British_Columbia/counties~British_Columbia/Greater_Vancouver/cities~Greater_Vancouver/Vancouver/University_of_British_Columbia.public|University_of_British_Columbia.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/America~North/Canada/provinces~Canada/British_Columbia/counties~British_Columbia/Greater_Vancouver/cities~Greater_Vancouver/Vancouver/University_of_British_Columbia.internal|University_of_British_Columbia.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/America~North/Canada/provinces~Canada/British_Columbia/counties~British_Columbia/Greater_Vancouver/cities~Greater_Vancouver/Vancouver/University_of_British_Columbia.protect|University_of_British_Columbia.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/America~North/Canada/provinces~Canada/British_Columbia/counties~British_Columbia/Greater_Vancouver/cities~Greater_Vancouver/Vancouver/University_of_British_Columbia.private|University_of_British_Columbia.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/America~North/Canada/provinces~Canada/British_Columbia/counties~British_Columbia/Greater_Vancouver/cities~Greater_Vancouver/Vancouver/University_of_British_Columbia.personal|University_of_British_Columbia.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/America~North/Canada/provinces~Canada/British_Columbia/counties~British_Columbia/Greater_Vancouver/cities~Greater_Vancouver/Vancouver/University_of_British_Columbia.secret|University_of_British_Columbia.secret]] 
 

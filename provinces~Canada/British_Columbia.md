@@ -1,4 +1,13 @@
-﻿---
+---
+dv_name: British Columbia
+dv_name-abbr: BRC
+dv_is_a_: "[[../../../../Geography/Place]]"
+dv_has_place_longitude: -123.243
+dv_has_place_latitude: 48.8461
+dv_is_:
+  same_as: "[[_Standards/WikiData/WD~British_Columbia,1973]]"
+dv_is_same_as: "[[_Standards/WikiData/WD~British_Columbia,1973]]"
+
 has_time_started: 1871-01-01 
 aliases:
   - British Columbia
@@ -235,17 +244,17 @@ coordinates_of_geographic_center: Point(-123.997089 53.965561)
 
 # [[British_Columbia]]
 
-[name::British Columbia] 
-[name-abbr::BRC] 
+name = `=this.dv_name` 
+name-abbr = `=this.dv_name-abbr` 
 Country :: [[../../Canada]]  
 Capital :: [[Victoria]]  
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-123.243] 
-[has_place_latitude::48.8461] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
 [Population::] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~British_Columbia,1973]]
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/map 
 
@@ -284,19 +293,20 @@ maxZoom: 18
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/British%20Columbia)
 
+
 ## Confidential Links & Embeds: 
 
-### [British_Columbia](/_Standards/Earth/Continent/America~North/Canada/provinces~Canada/British_Columbia.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~North/Canada/provinces~Canada/British_Columbia|British_Columbia]] 
 
-### [British_Columbia.public](/_public/Earth/Continent/America~North/Canada/provinces~Canada/British_Columbia.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~North/Canada/provinces~Canada/British_Columbia.public|British_Columbia.public]] 
 
-### [British_Columbia.internal](/_internal/Earth/Continent/America~North/Canada/provinces~Canada/British_Columbia.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~North/Canada/provinces~Canada/British_Columbia.internal|British_Columbia.internal]] 
 
-### [British_Columbia.protect](/_protect/Earth/Continent/America~North/Canada/provinces~Canada/British_Columbia.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~North/Canada/provinces~Canada/British_Columbia.protect|British_Columbia.protect]] 
 
-### [British_Columbia.private](/_private/Earth/Continent/America~North/Canada/provinces~Canada/British_Columbia.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~North/Canada/provinces~Canada/British_Columbia.private|British_Columbia.private]] 
 
-### [British_Columbia.personal](/_personal/Earth/Continent/America~North/Canada/provinces~Canada/British_Columbia.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~North/Canada/provinces~Canada/British_Columbia.personal|British_Columbia.personal]] 
 
-### [British_Columbia.secret](/_secret/Earth/Continent/America~North/Canada/provinces~Canada/British_Columbia.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~North/Canada/provinces~Canada/British_Columbia.secret|British_Columbia.secret]] 
 

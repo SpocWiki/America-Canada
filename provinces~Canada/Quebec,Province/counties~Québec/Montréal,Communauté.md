@@ -1,4 +1,15 @@
-﻿---
+---
+dv_"Concept", "Montreal: pvr64"
+dv_is_a_: "[[../../../../../../Geography/Place]]"
+dv_has_place_longitude: -73.6
+dv_has_place_latitude: 45.5
+dv_name: Montreal
+dv_StateId: 36011
+dv_is_:
+  same_as: "[[../../../../../../../WikiData/WD~Montreal,340|WD~Montreal,340]]"
+dv_concept-montreal: pvr64"
+dv_is_same_as: "[[../../../../../../../WikiData/WD~Montreal,340|WD~Montreal,340]]"
+
 has_time_started: 1642-05-17 
 aliases:
   - Ville-Marie
@@ -225,7 +236,7 @@ ISNI: 0000000121501478
 U_S_National_Archives_Identifier: 10045602
 Statistics_Canada_Geographic_code: 2466023
 Provenio_UUID: cfb2d015-fe24-4175-986b-139e738eccd4
-Wolfram_Language_entity_code: Entity["Concept", "Montreal::pvr64"]
+Wolfram_Language_entity_code: Entity"Concept", "Montreal = `=this.dv_"Concept", "Montreal`
 IMDb_keyword: montreal-quebec-canada
 IPA_transcription: mɔ̃ʁeal
 Instagram_username: mtl_ville
@@ -237,17 +248,17 @@ Libris_URI: pm132xt75tscnrl
 # [[Montréal,Communauté]] 
 
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-73.6] 
-[has_place_latitude::45.5] 
-[name::Montreal] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
 Country :: [[../../../../Canada]]  
-[StateId::36011] 
+StateId = `=this.dv_StateId` 
 [Population::] 
 
 
-#is_/same_as :: [[../../../../../../../WikiData/WD~Montreal,340|WD~Montreal,340]] 
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/map 
 
@@ -288,19 +299,21 @@ maxZoom: 18
 > [Wikipedia](https://en.wikipedia.org/wiki/Montreal) 
 
 [[montrea]]
+
+
 ## Confidential Links & Embeds: 
 
-### [Montreal](/_Standards/Earth/Continent/America~North/Canada/provinces~Canada/Quebec,Province/City/Montreal.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~North/Canada/provinces~Canada/Quebec,Province/counties~Québec/Montréal,Communauté|Montréal,Communauté]] 
 
-### [Montreal.public](/_public/Earth/Continent/America~North/Canada/provinces~Canada/Quebec,Province/City/Montreal.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~North/Canada/provinces~Canada/Quebec,Province/counties~Québec/Montréal,Communauté.public|Montréal,Communauté.public]] 
 
-### [Montreal.internal](/_internal/Earth/Continent/America~North/Canada/provinces~Canada/Quebec,Province/City/Montreal.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~North/Canada/provinces~Canada/Quebec,Province/counties~Québec/Montréal,Communauté.internal|Montréal,Communauté.internal]] 
 
-### [Montreal.protect](/_protect/Earth/Continent/America~North/Canada/provinces~Canada/Quebec,Province/City/Montreal.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~North/Canada/provinces~Canada/Quebec,Province/counties~Québec/Montréal,Communauté.protect|Montréal,Communauté.protect]] 
 
-### [Montreal.private](/_private/Earth/Continent/America~North/Canada/provinces~Canada/Quebec,Province/City/Montreal.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~North/Canada/provinces~Canada/Quebec,Province/counties~Québec/Montréal,Communauté.private|Montréal,Communauté.private]] 
 
-### [Montreal.personal](/_personal/Earth/Continent/America~North/Canada/provinces~Canada/Quebec,Province/City/Montreal.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~North/Canada/provinces~Canada/Quebec,Province/counties~Québec/Montréal,Communauté.personal|Montréal,Communauté.personal]] 
 
-### [Montreal.secret](/_secret/Earth/Continent/America~North/Canada/provinces~Canada/Quebec,Province/City/Montreal.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~North/Canada/provinces~Canada/Quebec,Province/counties~Québec/Montréal,Communauté.secret|Montréal,Communauté.secret]] 
 

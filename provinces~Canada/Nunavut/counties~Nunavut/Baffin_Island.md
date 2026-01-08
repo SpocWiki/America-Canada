@@ -1,7 +1,12 @@
+---
+dv_is_:
+  same_as: "[[../../../../../../../WikiData/WD~Baffin_Island,81178|WD~Baffin_Island,81178]]"
+dv_is_same_as: "[[../../../../../../../WikiData/WD~Baffin_Island,81178|WD~Baffin_Island,81178]]"
+---
 
 # [[Baffin_Island]] 
 
-#is_/same_as :: [[../../../../../../../WikiData/WD~Baffin_Island,81178|WD~Baffin_Island,81178]] 
+is_same_as = `=this.dv_is_same_as`
 
 
 ## #has_/text_of_/abstract 
@@ -18,4 +23,20 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Baffin%20Island) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~North/Canada/provinces~Canada/Nunavut/counties~Nunavut/Baffin_Island|Baffin_Island]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/America~North/Canada/provinces~Canada/Nunavut/counties~Nunavut/Baffin_Island.public|Baffin_Island.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/America~North/Canada/provinces~Canada/Nunavut/counties~Nunavut/Baffin_Island.internal|Baffin_Island.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/America~North/Canada/provinces~Canada/Nunavut/counties~Nunavut/Baffin_Island.protect|Baffin_Island.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/America~North/Canada/provinces~Canada/Nunavut/counties~Nunavut/Baffin_Island.private|Baffin_Island.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/America~North/Canada/provinces~Canada/Nunavut/counties~Nunavut/Baffin_Island.personal|Baffin_Island.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/America~North/Canada/provinces~Canada/Nunavut/counties~Nunavut/Baffin_Island.secret|Baffin_Island.secret]] 
 

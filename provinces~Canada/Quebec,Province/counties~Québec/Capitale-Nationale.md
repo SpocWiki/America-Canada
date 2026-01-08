@@ -7,3 +7,20 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Capitale-Nationale) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~North/Canada/provinces~Canada/Quebec,Province/counties~Québec/Capitale-Nationale|Capitale-Nationale]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/America~North/Canada/provinces~Canada/Quebec,Province/counties~Québec/Capitale-Nationale.public|Capitale-Nationale.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/America~North/Canada/provinces~Canada/Quebec,Province/counties~Québec/Capitale-Nationale.internal|Capitale-Nationale.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/America~North/Canada/provinces~Canada/Quebec,Province/counties~Québec/Capitale-Nationale.protect|Capitale-Nationale.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/America~North/Canada/provinces~Canada/Quebec,Province/counties~Québec/Capitale-Nationale.private|Capitale-Nationale.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/America~North/Canada/provinces~Canada/Quebec,Province/counties~Québec/Capitale-Nationale.personal|Capitale-Nationale.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/America~North/Canada/provinces~Canada/Quebec,Province/counties~Québec/Capitale-Nationale.secret|Capitale-Nationale.secret]] 
+

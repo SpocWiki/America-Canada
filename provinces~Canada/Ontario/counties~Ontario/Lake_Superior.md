@@ -8,97 +8,97 @@ location:
   - -87.760021944
 coordinate_location: Point(-87.760021944 47.528816111)
 part_of:
-  - '[[_Standards/WikiData/WD~Canada_United_States_border,119515]]'
-  - '[[_Standards/WikiData/WD~Great_Lakes,7347]]'
+  - "[[_Standards/WikiData/WD~Canada_United_States_border,119515]]"
+  - "[[_Standards/WikiData/WD~Great_Lakes,7347]]"
 instance_of:
-  - '[[_Standards/WikiData/WD~glacial_lake,211302]]'
-  - '[[_Standards/WikiData/WD~rift_lake,6341928]]'
-  - '[[_Standards/WikiData/WD~lake,23397]]'
+  - "[[_Standards/WikiData/WD~glacial_lake,211302]]"
+  - "[[_Standards/WikiData/WD~rift_lake,6341928]]"
+  - "[[_Standards/WikiData/WD~lake,23397]]"
 inflows:
-  - '[[_Standards/WikiData/WD~Aguasabon_River,397996]]'
-  - '[[_Standards/WikiData/WD~Saint_Louis_River,1273955]]'
-  - '[[_Standards/WikiData/WD~Eagle_River,1276818]]'
-  - '[[_Standards/WikiData/WD~Pigeon_River,1485122]]'
-  - '[[_Standards/WikiData/WD~Michipicoten_River,1524764]]'
-  - '[[_Standards/WikiData/WD~Pic_River,1710848]]'
-  - '[[_Standards/WikiData/WD~Magpie_River,1884687]]'
-  - '[[_Standards/WikiData/WD~Kaministiquia_River,1888146]]'
-  - '[[_Standards/WikiData/WD~White_River,2566970]]'
-  - '[[_Standards/WikiData/WD~Agawa_River,4691630]]'
-  - '[[_Standards/WikiData/WD~Au_Train_River,4818985]]'
-  - '[[_Standards/WikiData/WD~Baldhead_River,4850424]]'
-  - '[[_Standards/WikiData/WD~Big_Garlic_River,4905757]]'
-  - '[[_Standards/WikiData/WD~Black_River,4921619]]'
-  - '[[_Standards/WikiData/WD~Black_Sturgeon_River,4921930]]'
-  - '[[_Standards/WikiData/WD~Blind_Sucker_River,4926615]]'
-  - '[[_Standards/WikiData/WD~Bois_Brule_River,4938419]]'
-  - '[[_Standards/WikiData/WD~Brule_River,4978769]]'
-  - '[[_Standards/WikiData/WD~Carp_River,5045582]]'
-  - '[[_Standards/WikiData/WD~Carp_River,5045584]]'
-  - '[[_Standards/WikiData/WD~Cascade_River,5048161]]'
-  - '[[_Standards/WikiData/WD~Coldwater_River,5142588]]'
-  - '[[_Standards/WikiData/WD~Dead_River,5245373]]'
-  - '[[_Standards/WikiData/WD~Falls_River,5432490]]'
-  - '[[_Standards/WikiData/WD~Firesteel_River,5451964]]'
-  - '[[_Standards/WikiData/WD~Floodwood_River,5460138]]'
-  - '[[_Standards/WikiData/WD~Goulais_River,5588216]]'
-  - '[[_Standards/WikiData/WD~Hewitson_River,5748412]]'
-  - '[[_Standards/WikiData/WD~Hurricane_River,5948294]]'
-  - '[[_Standards/WikiData/WD~Little_Carp_River,6649445]]'
-  - '[[_Standards/WikiData/WD~Little_Sucker_River,6652094]]'
-  - '[[_Standards/WikiData/WD~Manitou_River,6750253]]'
-  - '[[_Standards/WikiData/WD~Miners_River,6864445]]'
-  - '[[_Standards/WikiData/WD~Montreal_River,6906320]]'
-  - '[[_Standards/WikiData/WD~Mosquito_River,6916492]]'
-  - '[[_Standards/WikiData/WD~Nemadji_River,6990897]]'
-  - '[[_Standards/WikiData/WD~Onion_River,7093922]]'
-  - '[[_Standards/WikiData/WD~Ontonagon_River,7095064]]'
-  - '[[_Standards/WikiData/WD~Poplar_River,7229422]]'
-  - '[[_Standards/WikiData/WD~Presque_Isle_River,7241591]]'
-  - '[[_Standards/WikiData/WD~Pukaskwa_River,7259088]]'
-  - '[[_Standards/WikiData/WD~Reservation_River,7315224]]'
-  - '[[_Standards/WikiData/WD~Sand_River,7415867]]'
-  - '[[_Standards/WikiData/WD~Sand_River,7415868]]'
-  - '[[_Standards/WikiData/WD~Split_Rock_River,7578666]]'
-  - '[[_Standards/WikiData/WD~Steel_River,7605703]]'
-  - '[[_Standards/WikiData/WD~Tahquamenon_River,7675645]]'
-  - '[[_Standards/WikiData/WD~Temperance_River,7698308]]'
-  - '[[_Standards/WikiData/WD~Two_Hearted_River,7859003]]'
-  - '[[_Standards/WikiData/WD~Gooseberry_River,14177621]]'
-  - '[[_Standards/WikiData/WD~Huron_River,14716152]]'
-  - '[[_Standards/WikiData/WD~Little_Huron_River,14716196]]'
-  - '[[_Standards/WikiData/WD~Cascade_River,15108651]]'
-  - '[[_Standards/WikiData/WD~Dog_River,15109464]]'
-  - '[[_Standards/WikiData/WD~Wolf_River,16903602]]'
-  - '[[_Standards/WikiData/WD~Q21426605,21426605]]'
-  - '[[_Standards/WikiData/WD~Doré_River,22586635]]'
+  - "[[_Standards/WikiData/WD~Aguasabon_River,397996]]"
+  - "[[_Standards/WikiData/WD~Saint_Louis_River,1273955]]"
+  - "[[_Standards/WikiData/WD~Eagle_River,1276818]]"
+  - "[[_Standards/WikiData/WD~Pigeon_River,1485122]]"
+  - "[[_Standards/WikiData/WD~Michipicoten_River,1524764]]"
+  - "[[_Standards/WikiData/WD~Pic_River,1710848]]"
+  - "[[_Standards/WikiData/WD~Magpie_River,1884687]]"
+  - "[[_Standards/WikiData/WD~Kaministiquia_River,1888146]]"
+  - "[[_Standards/WikiData/WD~White_River,2566970]]"
+  - "[[_Standards/WikiData/WD~Agawa_River,4691630]]"
+  - "[[_Standards/WikiData/WD~Au_Train_River,4818985]]"
+  - "[[_Standards/WikiData/WD~Baldhead_River,4850424]]"
+  - "[[_Standards/WikiData/WD~Big_Garlic_River,4905757]]"
+  - "[[_Standards/WikiData/WD~Black_River,4921619]]"
+  - "[[_Standards/WikiData/WD~Black_Sturgeon_River,4921930]]"
+  - "[[_Standards/WikiData/WD~Blind_Sucker_River,4926615]]"
+  - "[[_Standards/WikiData/WD~Bois_Brule_River,4938419]]"
+  - "[[_Standards/WikiData/WD~Brule_River,4978769]]"
+  - "[[_Standards/WikiData/WD~Carp_River,5045582]]"
+  - "[[_Standards/WikiData/WD~Carp_River,5045584]]"
+  - "[[_Standards/WikiData/WD~Cascade_River,5048161]]"
+  - "[[_Standards/WikiData/WD~Coldwater_River,5142588]]"
+  - "[[_Standards/WikiData/WD~Dead_River,5245373]]"
+  - "[[_Standards/WikiData/WD~Falls_River,5432490]]"
+  - "[[_Standards/WikiData/WD~Firesteel_River,5451964]]"
+  - "[[_Standards/WikiData/WD~Floodwood_River,5460138]]"
+  - "[[_Standards/WikiData/WD~Goulais_River,5588216]]"
+  - "[[_Standards/WikiData/WD~Hewitson_River,5748412]]"
+  - "[[_Standards/WikiData/WD~Hurricane_River,5948294]]"
+  - "[[_Standards/WikiData/WD~Little_Carp_River,6649445]]"
+  - "[[_Standards/WikiData/WD~Little_Sucker_River,6652094]]"
+  - "[[_Standards/WikiData/WD~Manitou_River,6750253]]"
+  - "[[_Standards/WikiData/WD~Miners_River,6864445]]"
+  - "[[_Standards/WikiData/WD~Montreal_River,6906320]]"
+  - "[[_Standards/WikiData/WD~Mosquito_River,6916492]]"
+  - "[[_Standards/WikiData/WD~Nemadji_River,6990897]]"
+  - "[[_Standards/WikiData/WD~Onion_River,7093922]]"
+  - "[[_Standards/WikiData/WD~Ontonagon_River,7095064]]"
+  - "[[_Standards/WikiData/WD~Poplar_River,7229422]]"
+  - "[[_Standards/WikiData/WD~Presque_Isle_River,7241591]]"
+  - "[[_Standards/WikiData/WD~Pukaskwa_River,7259088]]"
+  - "[[_Standards/WikiData/WD~Reservation_River,7315224]]"
+  - "[[_Standards/WikiData/WD~Sand_River,7415867]]"
+  - "[[_Standards/WikiData/WD~Sand_River,7415868]]"
+  - "[[_Standards/WikiData/WD~Split_Rock_River,7578666]]"
+  - "[[_Standards/WikiData/WD~Steel_River,7605703]]"
+  - "[[_Standards/WikiData/WD~Tahquamenon_River,7675645]]"
+  - "[[_Standards/WikiData/WD~Temperance_River,7698308]]"
+  - "[[_Standards/WikiData/WD~Two_Hearted_River,7859003]]"
+  - "[[_Standards/WikiData/WD~Gooseberry_River,14177621]]"
+  - "[[_Standards/WikiData/WD~Huron_River,14716152]]"
+  - "[[_Standards/WikiData/WD~Little_Huron_River,14716196]]"
+  - "[[_Standards/WikiData/WD~Cascade_River,15108651]]"
+  - "[[_Standards/WikiData/WD~Dog_River,15109464]]"
+  - "[[_Standards/WikiData/WD~Wolf_River,16903602]]"
+  - "[[_Standards/WikiData/WD~Q21426605,21426605]]"
+  - "[[_Standards/WikiData/WD~Doré_River,22586635]]"
 described_by_source:
-  - '[[../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-outflows: '[[_Standards/WikiData/WD~St._Marys_River,940488]]'
-connects_with: '[[_Standards/WikiData/WD~Keweenaw_Waterway,6397950]]'
+  - "[[../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+outflows: "[[_Standards/WikiData/WD~St._Marys_River,940488]]"
+connects_with: "[[_Standards/WikiData/WD~Keweenaw_Waterway,6397950]]"
 has_part_s_:
-  - '[[_Standards/WikiData/WD~Thunder_Bay,9298873]]'
-  - '[[_Standards/WikiData/WD~Nipigon_Bay,22353241]]'
-  - '[[_Standards/WikiData/WD~Sturgeon_Bay,22422228]]'
-  - '[[_Standards/WikiData/WD~Pays_Plat_Bay,22503969]]'
-  - '[[_Standards/WikiData/WD~Black_Bay,22554353]]'
-different_from: '[[_Standards/WikiData/WD~Lake_Superior,35734889]]'
-drainage_basin: '[[_Standards/WikiData/WD~Lake_Superior_drainage_basin,63345427]]'
+  - "[[_Standards/WikiData/WD~Thunder_Bay,9298873]]"
+  - "[[_Standards/WikiData/WD~Nipigon_Bay,22353241]]"
+  - "[[_Standards/WikiData/WD~Sturgeon_Bay,22422228]]"
+  - "[[_Standards/WikiData/WD~Pays_Plat_Bay,22503969]]"
+  - "[[_Standards/WikiData/WD~Black_Bay,22554353]]"
+different_from: "[[_Standards/WikiData/WD~Lake_Superior,35734889]]"
+drainage_basin: "[[_Standards/WikiData/WD~Lake_Superior_drainage_basin,63345427]]"
 located_in_the_administrative_territorial_entity:
-  - '[[_Standards/WikiData/WD~Michigan,1166]]'
-  - '[[_Standards/WikiData/WD~Minnesota,1527]]'
-  - '[[_Standards/WikiData/WD~Wisconsin,1537]]'
-  - '[[_Standards/WikiData/WD~Ontario,1904]]'
+  - "[[_Standards/WikiData/WD~Michigan,1166]]"
+  - "[[_Standards/WikiData/WD~Minnesota,1527]]"
+  - "[[_Standards/WikiData/WD~Wisconsin,1537]]"
+  - "[[_Standards/WikiData/WD~Ontario,1904]]"
 basin_country:
-  - '[[_Standards/WikiData/WD~Canada,16]]'
-  - '[[_Standards/WikiData/WD~United_States,30]]'
+  - "[[_Standards/WikiData/WD~Canada,16]]"
+  - "[[_Standards/WikiData/WD~United_States,30]]"
 country:
-  - '[[_Standards/WikiData/WD~Canada,16]]'
-  - '[[_Standards/WikiData/WD~United_States,30]]'
+  - "[[_Standards/WikiData/WD~Canada,16]]"
+  - "[[_Standards/WikiData/WD~United_States,30]]"
 volume_as_quantity:
   - 12100000
   - 12100
@@ -118,16 +118,23 @@ bathymetry_image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Lake%20Superior%20bathymetry%20map%2C%20deepest%20point.png
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Lake%20Superior%2C%20ISS.jpg
 Wolfram_Language_entity_code:
-  - Entity["Concept", "LakeSuperior::3xnq3"]
-  - Entity["Lake", "LakeSuperior::52tvr"]
+  - Entity"Concept", "LakeSuperior = `=this.dv_"Concept", "LakeSuperior`
+  - Entity"Lake", "LakeSuperior = `=this.dv_"Lake", "LakeSuperior`
 Commons_category: Lake Superior
 subreddit: LakeSuperior
 native_label: ᑭᒋᑲᒥ
+dv_"Concept", "LakeSuperior: 3xnq3"
+dv_"Lake", "LakeSuperior: 52tvr"
+dv_is_:
+  same_as: "[[../../../../../../../WikiData/WD~Lake_Superior,1066]]"
+dv_concept-lakesuperior: 3xnq3"
+dv_lake-lakesuperior: 52tvr"
+dv_is_same_as: "[[../../../../../../../WikiData/WD~Lake_Superior,1066]]"
 ---
 
 # [[Lake_Superior]] 
 
-#is_/same_as :: [[WD~Lake_Superior,1066]] 
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/map 
 
@@ -158,4 +165,21 @@ markerFile: [[Lake_Superior]]
 > It drains into Lake Huron via St. Marys River, then through the lower Great Lakes to the St. Lawrence River and ultimately the Atlantic Ocean.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Lake%20Superior) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~North/Canada/provinces~Canada/Ontario/counties~Ontario/Lake_Superior|Lake_Superior]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/America~North/Canada/provinces~Canada/Ontario/counties~Ontario/Lake_Superior.public|Lake_Superior.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/America~North/Canada/provinces~Canada/Ontario/counties~Ontario/Lake_Superior.internal|Lake_Superior.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/America~North/Canada/provinces~Canada/Ontario/counties~Ontario/Lake_Superior.protect|Lake_Superior.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/America~North/Canada/provinces~Canada/Ontario/counties~Ontario/Lake_Superior.private|Lake_Superior.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/America~North/Canada/provinces~Canada/Ontario/counties~Ontario/Lake_Superior.personal|Lake_Superior.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/America~North/Canada/provinces~Canada/Ontario/counties~Ontario/Lake_Superior.secret|Lake_Superior.secret]] 
 

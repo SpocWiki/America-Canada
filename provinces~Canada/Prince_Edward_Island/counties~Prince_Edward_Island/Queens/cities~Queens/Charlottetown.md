@@ -14,15 +14,21 @@ tags:
 SpocWebEntityId: 36122
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: -63.1399
+dv_has_place_latitude: 46.24
+dv_name: Charlottetown
+dv_Country: "[[../../Canada]]"
+dv_StateId: 36010
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-63.1399] 
-[has_place_latitude::46.24] 
-[name::Charlottetown] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[../../Canada]]  
-[StateId::36010] 
+Country = `=this.dv_Country`
+StateId = `=this.dv_StateId` 
 [Population::] 
 
 
@@ -38,17 +44,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Charlottetown](/_Standards/Earth/Continent/America~North/Canada/provinces~Canada/Prince_Edward_Island/counties~Prince_Edward_Island/Queens/cities~Queens/Charlottetown.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~North/Canada/provinces~Canada/Prince_Edward_Island/counties~Prince_Edward_Island/Queens/cities~Queens/Charlottetown|Charlottetown]] 
 
-### [Charlottetown.public](/_public/Earth/Continent/America~North/Canada/provinces~Canada/Prince_Edward_Island/counties~Prince_Edward_Island/Queens/cities~Queens/Charlottetown.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~North/Canada/provinces~Canada/Prince_Edward_Island/counties~Prince_Edward_Island/Queens/cities~Queens/Charlottetown.public|Charlottetown.public]] 
 
-### [Charlottetown.internal](/_internal/Earth/Continent/America~North/Canada/provinces~Canada/Prince_Edward_Island/counties~Prince_Edward_Island/Queens/cities~Queens/Charlottetown.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~North/Canada/provinces~Canada/Prince_Edward_Island/counties~Prince_Edward_Island/Queens/cities~Queens/Charlottetown.internal|Charlottetown.internal]] 
 
-### [Charlottetown.protect](/_protect/Earth/Continent/America~North/Canada/provinces~Canada/Prince_Edward_Island/counties~Prince_Edward_Island/Queens/cities~Queens/Charlottetown.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~North/Canada/provinces~Canada/Prince_Edward_Island/counties~Prince_Edward_Island/Queens/cities~Queens/Charlottetown.protect|Charlottetown.protect]] 
 
-### [Charlottetown.private](/_private/Earth/Continent/America~North/Canada/provinces~Canada/Prince_Edward_Island/counties~Prince_Edward_Island/Queens/cities~Queens/Charlottetown.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~North/Canada/provinces~Canada/Prince_Edward_Island/counties~Prince_Edward_Island/Queens/cities~Queens/Charlottetown.private|Charlottetown.private]] 
 
-### [Charlottetown.personal](/_personal/Earth/Continent/America~North/Canada/provinces~Canada/Prince_Edward_Island/counties~Prince_Edward_Island/Queens/cities~Queens/Charlottetown.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~North/Canada/provinces~Canada/Prince_Edward_Island/counties~Prince_Edward_Island/Queens/cities~Queens/Charlottetown.personal|Charlottetown.personal]] 
 
-### [Charlottetown.secret](/_secret/Earth/Continent/America~North/Canada/provinces~Canada/Prince_Edward_Island/counties~Prince_Edward_Island/Queens/cities~Queens/Charlottetown.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~North/Canada/provinces~Canada/Prince_Edward_Island/counties~Prince_Edward_Island/Queens/cities~Queens/Charlottetown.secret|Charlottetown.secret]] 
 

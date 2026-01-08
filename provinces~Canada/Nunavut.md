@@ -1,4 +1,8 @@
-﻿---
+---
+dv_is_:
+  same_as: "[[_Standards/WikiData/WD~Nunavut,2023]]"
+dv_is_same_as: "[[_Standards/WikiData/WD~Nunavut,2023]]"
+
 has_time_started: 1999-04-01 
 aliases:
   - Nunavut
@@ -154,7 +158,7 @@ coordinates_of_southernmost_point: Point(-79.077777777 51.640277777)
 
 # [[Nunavut]]
 
-#is_/same_as :: [[_Standards/WikiData/WD~Nunavut,2023]]
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/map 
 
@@ -188,17 +192,17 @@ defaultZoom: 3
 
 ## Confidential Links & Embeds: 
 
-### [Nunavut](/_Standards/Earth/Continent/America~North/Canada/provinces~Canada/Nunavut.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~North/Canada/provinces~Canada/Nunavut|Nunavut]] 
 
-### [Nunavut.public](/_public/Earth/Continent/America~North/Canada/provinces~Canada/Nunavut.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~North/Canada/provinces~Canada/Nunavut.public|Nunavut.public]] 
 
-### [Nunavut.internal](/_internal/Earth/Continent/America~North/Canada/provinces~Canada/Nunavut.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~North/Canada/provinces~Canada/Nunavut.internal|Nunavut.internal]] 
 
-### [Nunavut.protect](/_protect/Earth/Continent/America~North/Canada/provinces~Canada/Nunavut.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~North/Canada/provinces~Canada/Nunavut.protect|Nunavut.protect]] 
 
-### [Nunavut.private](/_private/Earth/Continent/America~North/Canada/provinces~Canada/Nunavut.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~North/Canada/provinces~Canada/Nunavut.private|Nunavut.private]] 
 
-### [Nunavut.personal](/_personal/Earth/Continent/America~North/Canada/provinces~Canada/Nunavut.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~North/Canada/provinces~Canada/Nunavut.personal|Nunavut.personal]] 
 
-### [Nunavut.secret](/_secret/Earth/Continent/America~North/Canada/provinces~Canada/Nunavut.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~North/Canada/provinces~Canada/Nunavut.secret|Nunavut.secret]] 
 

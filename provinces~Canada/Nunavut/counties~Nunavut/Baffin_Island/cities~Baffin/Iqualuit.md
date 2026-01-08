@@ -14,18 +14,23 @@ tags:
 SpocWebEntityId: 36124
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: -68.51972
+dv_has_place_latitude: 63.74861
+dv_name: Iqualuit
+dv_Country: "[[../../../../../../Canada]]"
 ---
 
 # [[Iqualuit]] 
 
 
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-68.51972] 
-[has_place_latitude::63.74861] 
-[name::Iqualuit] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[../../../../../../Canada]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -42,17 +47,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Iqualuit](/_Standards/Earth/Continent/America~North/Canada/provinces~Canada/Nunavut/City/Iqualuit.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~North/Canada/provinces~Canada/Nunavut/counties~Nunavut/Baffin_Island/cities~Baffin/Iqualuit|Iqualuit]] 
 
-### [Iqualuit.public](/_public/Earth/Continent/America~North/Canada/provinces~Canada/Nunavut/City/Iqualuit.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~North/Canada/provinces~Canada/Nunavut/counties~Nunavut/Baffin_Island/cities~Baffin/Iqualuit.public|Iqualuit.public]] 
 
-### [Iqualuit.internal](/_internal/Earth/Continent/America~North/Canada/provinces~Canada/Nunavut/City/Iqualuit.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~North/Canada/provinces~Canada/Nunavut/counties~Nunavut/Baffin_Island/cities~Baffin/Iqualuit.internal|Iqualuit.internal]] 
 
-### [Iqualuit.protect](/_protect/Earth/Continent/America~North/Canada/provinces~Canada/Nunavut/City/Iqualuit.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~North/Canada/provinces~Canada/Nunavut/counties~Nunavut/Baffin_Island/cities~Baffin/Iqualuit.protect|Iqualuit.protect]] 
 
-### [Iqualuit.private](/_private/Earth/Continent/America~North/Canada/provinces~Canada/Nunavut/City/Iqualuit.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~North/Canada/provinces~Canada/Nunavut/counties~Nunavut/Baffin_Island/cities~Baffin/Iqualuit.private|Iqualuit.private]] 
 
-### [Iqualuit.personal](/_personal/Earth/Continent/America~North/Canada/provinces~Canada/Nunavut/City/Iqualuit.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~North/Canada/provinces~Canada/Nunavut/counties~Nunavut/Baffin_Island/cities~Baffin/Iqualuit.personal|Iqualuit.personal]] 
 
-### [Iqualuit.secret](/_secret/Earth/Continent/America~North/Canada/provinces~Canada/Nunavut/City/Iqualuit.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~North/Canada/provinces~Canada/Nunavut/counties~Nunavut/Baffin_Island/cities~Baffin/Iqualuit.secret|Iqualuit.secret]] 
 

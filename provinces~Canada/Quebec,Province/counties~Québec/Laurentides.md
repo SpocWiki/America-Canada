@@ -9,3 +9,20 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Laurentides) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~North/Canada/provinces~Canada/Quebec,Province/counties~Québec/Laurentides|Laurentides]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/America~North/Canada/provinces~Canada/Quebec,Province/counties~Québec/Laurentides.public|Laurentides.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/America~North/Canada/provinces~Canada/Quebec,Province/counties~Québec/Laurentides.internal|Laurentides.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/America~North/Canada/provinces~Canada/Quebec,Province/counties~Québec/Laurentides.protect|Laurentides.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/America~North/Canada/provinces~Canada/Quebec,Province/counties~Québec/Laurentides.private|Laurentides.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/America~North/Canada/provinces~Canada/Quebec,Province/counties~Québec/Laurentides.personal|Laurentides.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/America~North/Canada/provinces~Canada/Quebec,Province/counties~Québec/Laurentides.secret|Laurentides.secret]] 
+

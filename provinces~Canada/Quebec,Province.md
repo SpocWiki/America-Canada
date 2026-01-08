@@ -1,4 +1,13 @@
-﻿---
+---
+dv_name: Quebeck
+dv_name-abbr: QUE
+dv_is_a_: "[[../../../../Geography/Place]]"
+dv_has_place_longitude: -72.435
+dv_has_place_latitude: 46.15
+dv_is_:
+  same_as: "[[../../../../../WikiData/WD~Quebec,176|WD~Quebec,176]]"
+dv_is_same_as: "[[../../../../../WikiData/WD~Quebec,176|WD~Quebec,176]]"
+
 has_time_started: 1867-07-01 
 aliases:
   - Québec
@@ -205,17 +214,17 @@ IMDb_keyword: quebec
 
 # [[Quebec,Province]] 
 
-[name::Quebeck] 
-[name-abbr::QUE] 
+name = `=this.dv_name` 
+name-abbr = `=this.dv_name-abbr` 
 Country :: [[../../Canada]]  
 Capital :: [[./City/Quebec]]   
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-72.435] 
-[has_place_latitude::46.15] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
 [Population::] 
 
-#is_/same_as ::  [[../../../../../WikiData/WD~Quebec,176|WD~Quebec,176]] 
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/map 
 
@@ -265,20 +274,19 @@ maxZoom: 18
 > [Wikipedia](https://en.wikipedia.org/wiki/Quebec) 
 
 
-
 ## Confidential Links & Embeds: 
 
-### [Quebec,Province](/_Standards/Earth/Continent/America~North/Canada/provinces~Canada/Quebec,Province.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~North/Canada/provinces~Canada/Quebec,Province|Quebec,Province]] 
 
-### [Quebec,Province.public](/_public/Earth/Continent/America~North/Canada/provinces~Canada/Quebec,Province.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~North/Canada/provinces~Canada/Quebec,Province.public|Quebec,Province.public]] 
 
-### [Quebec,Province.internal](/_internal/Earth/Continent/America~North/Canada/provinces~Canada/Quebec,Province.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~North/Canada/provinces~Canada/Quebec,Province.internal|Quebec,Province.internal]] 
 
-### [Quebec,Province.protect](/_protect/Earth/Continent/America~North/Canada/provinces~Canada/Quebec,Province.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~North/Canada/provinces~Canada/Quebec,Province.protect|Quebec,Province.protect]] 
 
-### [Quebec,Province.private](/_private/Earth/Continent/America~North/Canada/provinces~Canada/Quebec,Province.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~North/Canada/provinces~Canada/Quebec,Province.private|Quebec,Province.private]] 
 
-### [Quebec,Province.personal](/_personal/Earth/Continent/America~North/Canada/provinces~Canada/Quebec,Province.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~North/Canada/provinces~Canada/Quebec,Province.personal|Quebec,Province.personal]] 
 
-### [Quebec,Province.secret](/_secret/Earth/Continent/America~North/Canada/provinces~Canada/Quebec,Province.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~North/Canada/provinces~Canada/Quebec,Province.secret|Quebec,Province.secret]] 
 

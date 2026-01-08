@@ -1,4 +1,13 @@
-﻿---
+---
+dv_name: Nova Scotia
+dv_name-abbr: NVS
+dv_is_a_: "[[../../../../Geography/Place]]"
+dv_has_place_longitude: -63.61
+dv_has_place_latitude: 44.67
+dv_is_:
+  same_as: "[[_Standards/WikiData/WD~Nova_Scotia,1952]]"
+dv_is_same_as: "[[_Standards/WikiData/WD~Nova_Scotia,1952]]"
+
 has_time_started: 1867-01-01 
 aliases:
   - Nova Scotia
@@ -148,18 +157,18 @@ coordinates_of_easternmost_point: Point(-59.663611111 46.038611111)
 
 # [[Nova_Scotia]] 
 
-[name::Nova Scotia] 
-[name-abbr::NVS] 
+name = `=this.dv_name` 
+name-abbr = `=this.dv_name-abbr` 
 Country :: [[../../Canada]]  
 Capital :: [[../City/NS~Halifax]]  
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-63.61] 
-[has_place_latitude::44.67] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
 [Population::] 
 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Nova_Scotia,1952]] 
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/map 
 
@@ -188,17 +197,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Nova_Scotia](/_Standards/Earth/Continent/America~North/Canada/provinces~Canada/Nova_Scotia.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~North/Canada/provinces~Canada/Nova_Scotia|Nova_Scotia]] 
 
-### [Nova_Scotia.public](/_public/Earth/Continent/America~North/Canada/provinces~Canada/Nova_Scotia.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~North/Canada/provinces~Canada/Nova_Scotia.public|Nova_Scotia.public]] 
 
-### [Nova_Scotia.internal](/_internal/Earth/Continent/America~North/Canada/provinces~Canada/Nova_Scotia.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~North/Canada/provinces~Canada/Nova_Scotia.internal|Nova_Scotia.internal]] 
 
-### [Nova_Scotia.protect](/_protect/Earth/Continent/America~North/Canada/provinces~Canada/Nova_Scotia.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~North/Canada/provinces~Canada/Nova_Scotia.protect|Nova_Scotia.protect]] 
 
-### [Nova_Scotia.private](/_private/Earth/Continent/America~North/Canada/provinces~Canada/Nova_Scotia.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~North/Canada/provinces~Canada/Nova_Scotia.private|Nova_Scotia.private]] 
 
-### [Nova_Scotia.personal](/_personal/Earth/Continent/America~North/Canada/provinces~Canada/Nova_Scotia.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~North/Canada/provinces~Canada/Nova_Scotia.personal|Nova_Scotia.personal]] 
 
-### [Nova_Scotia.secret](/_secret/Earth/Continent/America~North/Canada/provinces~Canada/Nova_Scotia.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~North/Canada/provinces~Canada/Nova_Scotia.secret|Nova_Scotia.secret]] 
 

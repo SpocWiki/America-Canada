@@ -37,11 +37,14 @@ bathymetry_image: http://commons.wikimedia.org/wiki/Special:FilePath/Great%20Lak
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Niagara%20Falls%20USA%20Canada%20from%20Skylon%20Tower%20on%202002-05-28%2C%20full%20size.jpg
 nighttime_view: http://commons.wikimedia.org/wiki/Special:FilePath/Niagra%20Falls%20at%20night2.jpg
 Libris_URI: jgvxx7920mk0xt6
+dv_is_:
+  same_as: "[[../../../../../../../../../WikiData/WD~Niagara_Falls,34221|WD~Niagara_Falls,34221]]"
+dv_is_same_as: "[[../../../../../../../../../WikiData/WD~Niagara_Falls,34221|WD~Niagara_Falls,34221]]"
 ---
 
 # [[Niagara_Falls]] 
 
-#is_/same_as :: [[../../../../../../../../../WikiData/WD~Niagara_Falls,34221|WD~Niagara_Falls,34221]]  
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/text_of_/abstract 
 
@@ -53,4 +56,21 @@ Libris_URI: jgvxx7920mk0xt6
 > Niagara Falls is 27 km (17 mi) northwest of Buffalo, New York, and 69 km (43 mi) southeast of Toronto, between the twin cities of Niagara Falls, Ontario, and Niagara Falls, New York. Niagara Falls was formed when glaciers receded at the end of the Wisconsin glaciation (the last ice age), and water from the newly formed Great Lakes carved a path over and through the Niagara Escarpment en route to the Atlantic Ocean.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Niagara%20Falls) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~North/Canada/provinces~Canada/Ontario/counties~Ontario/Niagara/cities~Niagara/Niagara_Falls|Niagara_Falls]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/America~North/Canada/provinces~Canada/Ontario/counties~Ontario/Niagara/cities~Niagara/Niagara_Falls.public|Niagara_Falls.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/America~North/Canada/provinces~Canada/Ontario/counties~Ontario/Niagara/cities~Niagara/Niagara_Falls.internal|Niagara_Falls.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/America~North/Canada/provinces~Canada/Ontario/counties~Ontario/Niagara/cities~Niagara/Niagara_Falls.protect|Niagara_Falls.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/America~North/Canada/provinces~Canada/Ontario/counties~Ontario/Niagara/cities~Niagara/Niagara_Falls.private|Niagara_Falls.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/America~North/Canada/provinces~Canada/Ontario/counties~Ontario/Niagara/cities~Niagara/Niagara_Falls.personal|Niagara_Falls.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/America~North/Canada/provinces~Canada/Ontario/counties~Ontario/Niagara/cities~Niagara/Niagara_Falls.secret|Niagara_Falls.secret]] 
 

@@ -15,3 +15,20 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Kitikmeot%20Region) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~North/Canada/provinces~Canada/Nunavut/counties~Nunavut/Kitikmeot|Kitikmeot]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/America~North/Canada/provinces~Canada/Nunavut/counties~Nunavut/Kitikmeot.public|Kitikmeot.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/America~North/Canada/provinces~Canada/Nunavut/counties~Nunavut/Kitikmeot.internal|Kitikmeot.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/America~North/Canada/provinces~Canada/Nunavut/counties~Nunavut/Kitikmeot.protect|Kitikmeot.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/America~North/Canada/provinces~Canada/Nunavut/counties~Nunavut/Kitikmeot.private|Kitikmeot.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/America~North/Canada/provinces~Canada/Nunavut/counties~Nunavut/Kitikmeot.personal|Kitikmeot.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/America~North/Canada/provinces~Canada/Nunavut/counties~Nunavut/Kitikmeot.secret|Kitikmeot.secret]] 
+

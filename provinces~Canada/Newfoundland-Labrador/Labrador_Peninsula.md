@@ -30,11 +30,14 @@ Commons_category: Labrador
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Labrador-Peninsula.PNG
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Labrador-Peninsula.PNG
 native_label: Labrador Peninsula
+dv_is_:
+  same_as: "[[../../../../../../WikiData/WD~Labrador_Peninsula,84170]]"
+dv_is_same_as: "[[../../../../../../WikiData/WD~Labrador_Peninsula,84170]]"
 ---
 
 # [[Labrador_Peninsula]] 
 
-#is_/same_as :: [[WD~Labrador_Peninsula,84170]] 
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/map 
 
@@ -66,4 +69,21 @@ maxZoom: 18
 > It has an area of 1,400,000 km2 (541,000 sq mi).
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Labrador%20Peninsula) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~North/Canada/provinces~Canada/Newfoundland-Labrador/Labrador_Peninsula|Labrador_Peninsula]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/America~North/Canada/provinces~Canada/Newfoundland-Labrador/Labrador_Peninsula.public|Labrador_Peninsula.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/America~North/Canada/provinces~Canada/Newfoundland-Labrador/Labrador_Peninsula.internal|Labrador_Peninsula.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/America~North/Canada/provinces~Canada/Newfoundland-Labrador/Labrador_Peninsula.protect|Labrador_Peninsula.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/America~North/Canada/provinces~Canada/Newfoundland-Labrador/Labrador_Peninsula.private|Labrador_Peninsula.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/America~North/Canada/provinces~Canada/Newfoundland-Labrador/Labrador_Peninsula.personal|Labrador_Peninsula.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/America~North/Canada/provinces~Canada/Newfoundland-Labrador/Labrador_Peninsula.secret|Labrador_Peninsula.secret]] 
 

@@ -322,17 +322,17 @@ filters:
 
 ## Confidential Links & Embeds: 
 
-### [_CountryStateDB](/_Standards/Earth/Continent/America~North/Canada/provinces~Canada/_CountryStateDB.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~North/Canada/provinces~Canada/_CountryStateDB|_CountryStateDB]] 
 
-### [_CountryStateDB.public](/_public/Earth/Continent/America~North/Canada/provinces~Canada/_CountryStateDB.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~North/Canada/provinces~Canada/_CountryStateDB.public|_CountryStateDB.public]] 
 
-### [_CountryStateDB.internal](/_internal/Earth/Continent/America~North/Canada/provinces~Canada/_CountryStateDB.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~North/Canada/provinces~Canada/_CountryStateDB.internal|_CountryStateDB.internal]] 
 
-### [_CountryStateDB.protect](/_protect/Earth/Continent/America~North/Canada/provinces~Canada/_CountryStateDB.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~North/Canada/provinces~Canada/_CountryStateDB.protect|_CountryStateDB.protect]] 
 
-### [_CountryStateDB.private](/_private/Earth/Continent/America~North/Canada/provinces~Canada/_CountryStateDB.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~North/Canada/provinces~Canada/_CountryStateDB.private|_CountryStateDB.private]] 
 
-### [_CountryStateDB.personal](/_personal/Earth/Continent/America~North/Canada/provinces~Canada/_CountryStateDB.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~North/Canada/provinces~Canada/_CountryStateDB.personal|_CountryStateDB.personal]] 
 
-### [_CountryStateDB.secret](/_secret/Earth/Continent/America~North/Canada/provinces~Canada/_CountryStateDB.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~North/Canada/provinces~Canada/_CountryStateDB.secret|_CountryStateDB.secret]] 
 

@@ -16,22 +16,29 @@ tags:
 SpocWebEntityId: 33576
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../Geography/Place]]"
+dv_has_place_longitude: -71.27
+dv_has_place_latitude: 46.8
+dv_name: Quebec
+dv_Country: "[[../../../../Canada]]"
+dv_StateId: 36011
+dv_is_: {}
 ---
 
 # [[Québec,Communauté]]
 
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-71.27] 
-[has_place_latitude::46.8] 
-[name::Quebec] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[../../../../Canada]]  
-[StateId::36011] 
+Country = `=this.dv_Country`
+StateId = `=this.dv_StateId` 
 [Population::] 
 
 
-#is_/same_as :: 
+is_a_ = `=this.dv_is_a_`
 
 ## #has_/map 
 
@@ -66,19 +73,20 @@ maxZoom: 18
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Quebec%20City)
 
+
 ## Confidential Links & Embeds: 
 
-### [Quebeck,City](/_Standards/Earth/Continent/America~North/Canada/provinces~Canada/Quebec,Province/City/Quebeck,City.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~North/Canada/provinces~Canada/Quebec,Province/counties~Québec/Québec,Communauté|Québec,Communauté]] 
 
-### [Quebeck,City.public](/_public/Earth/Continent/America~North/Canada/provinces~Canada/Quebec,Province/City/Quebeck,City.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~North/Canada/provinces~Canada/Quebec,Province/counties~Québec/Québec,Communauté.public|Québec,Communauté.public]] 
 
-### [Quebeck,City.internal](/_internal/Earth/Continent/America~North/Canada/provinces~Canada/Quebec,Province/City/Quebeck,City.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~North/Canada/provinces~Canada/Quebec,Province/counties~Québec/Québec,Communauté.internal|Québec,Communauté.internal]] 
 
-### [Quebeck,City.protect](/_protect/Earth/Continent/America~North/Canada/provinces~Canada/Quebec,Province/City/Quebeck,City.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~North/Canada/provinces~Canada/Quebec,Province/counties~Québec/Québec,Communauté.protect|Québec,Communauté.protect]] 
 
-### [Quebeck,City.private](/_private/Earth/Continent/America~North/Canada/provinces~Canada/Quebec,Province/City/Quebeck,City.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~North/Canada/provinces~Canada/Quebec,Province/counties~Québec/Québec,Communauté.private|Québec,Communauté.private]] 
 
-### [Quebeck,City.personal](/_personal/Earth/Continent/America~North/Canada/provinces~Canada/Quebec,Province/City/Quebeck,City.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~North/Canada/provinces~Canada/Quebec,Province/counties~Québec/Québec,Communauté.personal|Québec,Communauté.personal]] 
 
-### [Quebeck,City.secret](/_secret/Earth/Continent/America~North/Canada/provinces~Canada/Quebec,Province/City/Quebeck,City.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~North/Canada/provinces~Canada/Quebec,Province/counties~Québec/Québec,Communauté.secret|Québec,Communauté.secret]] 
 

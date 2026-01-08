@@ -14,15 +14,21 @@ tags:
 SpocWebEntityId: 36125
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../Geography/Place]]"
+dv_has_place_longitude: -135.05
+dv_has_place_latitude: 60.71667
+dv_name: Whitehorse
+dv_Country: "[[../../../../Canada]]"
+dv_StateId: 36014
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-135.05] 
-[has_place_latitude::60.71667] 
-[name::Whitehorse] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[../../../../Canada]]  
-[StateId::36014] 
+Country = `=this.dv_Country`
+StateId = `=this.dv_StateId` 
 [Population::] 
 
 
@@ -38,17 +44,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Whitehorse](/_Standards/Earth/Continent/America~North/Canada/provinces~Canada/Yukon_Territory/City/Whitehorse.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~North/Canada/provinces~Canada/Yukon_Territory/City/Whitehorse|Whitehorse]] 
 
-### [Whitehorse.public](/_public/Earth/Continent/America~North/Canada/provinces~Canada/Yukon_Territory/City/Whitehorse.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~North/Canada/provinces~Canada/Yukon_Territory/City/Whitehorse.public|Whitehorse.public]] 
 
-### [Whitehorse.internal](/_internal/Earth/Continent/America~North/Canada/provinces~Canada/Yukon_Territory/City/Whitehorse.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~North/Canada/provinces~Canada/Yukon_Territory/City/Whitehorse.internal|Whitehorse.internal]] 
 
-### [Whitehorse.protect](/_protect/Earth/Continent/America~North/Canada/provinces~Canada/Yukon_Territory/City/Whitehorse.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~North/Canada/provinces~Canada/Yukon_Territory/City/Whitehorse.protect|Whitehorse.protect]] 
 
-### [Whitehorse.private](/_private/Earth/Continent/America~North/Canada/provinces~Canada/Yukon_Territory/City/Whitehorse.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~North/Canada/provinces~Canada/Yukon_Territory/City/Whitehorse.private|Whitehorse.private]] 
 
-### [Whitehorse.personal](/_personal/Earth/Continent/America~North/Canada/provinces~Canada/Yukon_Territory/City/Whitehorse.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~North/Canada/provinces~Canada/Yukon_Territory/City/Whitehorse.personal|Whitehorse.personal]] 
 
-### [Whitehorse.secret](/_secret/Earth/Continent/America~North/Canada/provinces~Canada/Yukon_Territory/City/Whitehorse.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~North/Canada/provinces~Canada/Yukon_Territory/City/Whitehorse.secret|Whitehorse.secret]] 
 

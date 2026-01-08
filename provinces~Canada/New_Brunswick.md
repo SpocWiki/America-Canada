@@ -1,4 +1,13 @@
-﻿---
+---
+dv_name: New Brunswick
+dv_name-abbr: NWB
+dv_is_a_: "[[../../../../Geography/Place]]"
+dv_has_place_longitude: -66.6667
+dv_has_place_latitude: 45.95
+dv_is_:
+  same_as: "[[_Standards/WikiData/WD~New_Brunswick,1965]]"
+dv_is_same_as: "[[_Standards/WikiData/WD~New_Brunswick,1965]]"
+
 has_time_started: 1867-07-01 
 aliases:
   - New Brunswick
@@ -154,17 +163,17 @@ Facebook_username: GovNB
 
 # [[New_Brunswick]] 
 
-[name::New Brunswick] 
-[name-abbr::NWB] 
+name = `=this.dv_name` 
+name-abbr = `=this.dv_name-abbr` 
 Country :: [[../../Canada]]  
 Capital :: [[New_Brunswick/City/Fredericton]]  
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-66.6667] 
-[has_place_latitude::45.95] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
 [Population::] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~New_Brunswick,1965]]
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/map 
 
@@ -196,19 +205,20 @@ maxZoom: 18
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/New%20Brunswick)
 
+
 ## Confidential Links & Embeds: 
 
-### [New_Brunswick](/_Standards/Earth/Continent/America~North/Canada/provinces~Canada/New_Brunswick.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~North/Canada/provinces~Canada/New_Brunswick|New_Brunswick]] 
 
-### [New_Brunswick.public](/_public/Earth/Continent/America~North/Canada/provinces~Canada/New_Brunswick.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~North/Canada/provinces~Canada/New_Brunswick.public|New_Brunswick.public]] 
 
-### [New_Brunswick.internal](/_internal/Earth/Continent/America~North/Canada/provinces~Canada/New_Brunswick.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~North/Canada/provinces~Canada/New_Brunswick.internal|New_Brunswick.internal]] 
 
-### [New_Brunswick.protect](/_protect/Earth/Continent/America~North/Canada/provinces~Canada/New_Brunswick.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~North/Canada/provinces~Canada/New_Brunswick.protect|New_Brunswick.protect]] 
 
-### [New_Brunswick.private](/_private/Earth/Continent/America~North/Canada/provinces~Canada/New_Brunswick.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~North/Canada/provinces~Canada/New_Brunswick.private|New_Brunswick.private]] 
 
-### [New_Brunswick.personal](/_personal/Earth/Continent/America~North/Canada/provinces~Canada/New_Brunswick.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~North/Canada/provinces~Canada/New_Brunswick.personal|New_Brunswick.personal]] 
 
-### [New_Brunswick.secret](/_secret/Earth/Continent/America~North/Canada/provinces~Canada/New_Brunswick.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~North/Canada/provinces~Canada/New_Brunswick.secret|New_Brunswick.secret]] 
 

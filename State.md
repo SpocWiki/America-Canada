@@ -40,17 +40,17 @@ markerFolder: ./State/
 
 ## Confidential Links & Embeds: 
 
-### [State](/_Standards/Earth/Continent/America~North/Canada/State.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~North/Canada/State|State]] 
 
-### [State.public](/_public/Earth/Continent/America~North/Canada/State.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~North/Canada/State.public|State.public]] 
 
-### [State.internal](/_internal/Earth/Continent/America~North/Canada/State.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~North/Canada/State.internal|State.internal]] 
 
-### [State.protect](/_protect/Earth/Continent/America~North/Canada/State.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~North/Canada/State.protect|State.protect]] 
 
-### [State.private](/_private/Earth/Continent/America~North/Canada/State.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~North/Canada/State.private|State.private]] 
 
-### [State.personal](/_personal/Earth/Continent/America~North/Canada/State.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~North/Canada/State.personal|State.personal]] 
 
-### [State.secret](/_secret/Earth/Continent/America~North/Canada/State.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~North/Canada/State.secret|State.secret]] 
 

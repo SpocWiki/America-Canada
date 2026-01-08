@@ -1,4 +1,13 @@
-﻿---
+---
+dv_name: Price Edward Island
+dv_name-abbr: PEI
+dv_is_a_: "[[../../../../Geography/Place]]"
+dv_has_place_longitude: -63.1399
+dv_has_place_latitude: 46.24
+dv_is_:
+  same_as: "[[_Standards/WikiData/WD~Prince_Edward_Island,1978]]"
+dv_is_same_as: "[[_Standards/WikiData/WD~Prince_Edward_Island,1978]]"
+
 has_time_started: 1769-06-28 
 aliases:
   - Price Edward Island
@@ -143,18 +152,18 @@ Instagram_username: peigov
 
 # [[Prince_Edward_Island]] 
 
-[name::Price Edward Island] 
-[name-abbr::PEI] 
+name = `=this.dv_name` 
+name-abbr = `=this.dv_name-abbr` 
 Country :: [[../../Canada]]  
 Capital :: [[../City/Charlottetown]]  
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-63.1399] 
-[has_place_latitude::46.24] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
 [Population::] 
 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Prince_Edward_Island,1978]] 
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/map 
 
@@ -182,19 +191,20 @@ maxZoom: 18
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Prince%20Edward%20Island) 
 
+
 ## Confidential Links & Embeds: 
 
-### [Prince_Edward_Island](/_Standards/Earth/Continent/America~North/Canada/provinces~Canada/Prince_Edward_Island.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~North/Canada/provinces~Canada/Prince_Edward_Island|Prince_Edward_Island]] 
 
-### [Prince_Edward_Island.public](/_public/Earth/Continent/America~North/Canada/provinces~Canada/Prince_Edward_Island.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~North/Canada/provinces~Canada/Prince_Edward_Island.public|Prince_Edward_Island.public]] 
 
-### [Prince_Edward_Island.internal](/_internal/Earth/Continent/America~North/Canada/provinces~Canada/Prince_Edward_Island.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~North/Canada/provinces~Canada/Prince_Edward_Island.internal|Prince_Edward_Island.internal]] 
 
-### [Prince_Edward_Island.protect](/_protect/Earth/Continent/America~North/Canada/provinces~Canada/Prince_Edward_Island.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~North/Canada/provinces~Canada/Prince_Edward_Island.protect|Prince_Edward_Island.protect]] 
 
-### [Prince_Edward_Island.private](/_private/Earth/Continent/America~North/Canada/provinces~Canada/Prince_Edward_Island.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~North/Canada/provinces~Canada/Prince_Edward_Island.private|Prince_Edward_Island.private]] 
 
-### [Prince_Edward_Island.personal](/_personal/Earth/Continent/America~North/Canada/provinces~Canada/Prince_Edward_Island.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~North/Canada/provinces~Canada/Prince_Edward_Island.personal|Prince_Edward_Island.personal]] 
 
-### [Prince_Edward_Island.secret](/_secret/Earth/Continent/America~North/Canada/provinces~Canada/Prince_Edward_Island.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~North/Canada/provinces~Canada/Prince_Edward_Island.secret|Prince_Edward_Island.secret]] 
 

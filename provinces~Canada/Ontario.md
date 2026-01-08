@@ -1,4 +1,13 @@
-﻿---
+---
+dv_name: Ontario
+dv_name-abbr: ONT
+dv_is_a_: "[[../../../../Geography/Place]]"
+dv_has_place_longitude: -77.535
+dv_has_place_latitude: 44.37
+dv_is_:
+  same_as: "[[../../../../../WikiData/WD~Ontario,1904|WD~Ontario,1904]]"
+dv_is_same_as: "[[../../../../../WikiData/WD~Ontario,1904|WD~Ontario,1904]]"
+
 has_time_started: 1867-07-01 
 aliases:
   - Ontario
@@ -175,17 +184,17 @@ GitHub_topic: ontario
 
 # [[Ontario]] 
 
-[name::Ontario] 
-[name-abbr::ONT] 
+name = `=this.dv_name` 
+name-abbr = `=this.dv_name-abbr` 
 Country :: [[../../Canada]]  
 Capital :: [[Ontario/counties~Ontario/Toronto]]  
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-77.535] 
-[has_place_latitude::44.37] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
 [Population::] 
 
-#is_/same_as :: [[../../../../../WikiData/WD~Ontario,1904|WD~Ontario,1904]] 
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/map 
 
@@ -211,19 +220,20 @@ maxZoom: 18
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Ontario)
 
+
 ## Confidential Links & Embeds: 
 
-### [Ontario](/_Standards/Earth/Continent/America~North/Canada/provinces~Canada/Ontario.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~North/Canada/provinces~Canada/Ontario|Ontario]] 
 
-### [Ontario.public](/_public/Earth/Continent/America~North/Canada/provinces~Canada/Ontario.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~North/Canada/provinces~Canada/Ontario.public|Ontario.public]] 
 
-### [Ontario.internal](/_internal/Earth/Continent/America~North/Canada/provinces~Canada/Ontario.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~North/Canada/provinces~Canada/Ontario.internal|Ontario.internal]] 
 
-### [Ontario.protect](/_protect/Earth/Continent/America~North/Canada/provinces~Canada/Ontario.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~North/Canada/provinces~Canada/Ontario.protect|Ontario.protect]] 
 
-### [Ontario.private](/_private/Earth/Continent/America~North/Canada/provinces~Canada/Ontario.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~North/Canada/provinces~Canada/Ontario.private|Ontario.private]] 
 
-### [Ontario.personal](/_personal/Earth/Continent/America~North/Canada/provinces~Canada/Ontario.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~North/Canada/provinces~Canada/Ontario.personal|Ontario.personal]] 
 
-### [Ontario.secret](/_secret/Earth/Continent/America~North/Canada/provinces~Canada/Ontario.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~North/Canada/provinces~Canada/Ontario.secret|Ontario.secret]] 
 

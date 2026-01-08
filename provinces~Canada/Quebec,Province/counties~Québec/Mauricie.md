@@ -9,3 +9,20 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Mauricie) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~North/Canada/provinces~Canada/Quebec,Province/counties~Québec/Mauricie|Mauricie]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/America~North/Canada/provinces~Canada/Quebec,Province/counties~Québec/Mauricie.public|Mauricie.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/America~North/Canada/provinces~Canada/Quebec,Province/counties~Québec/Mauricie.internal|Mauricie.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/America~North/Canada/provinces~Canada/Quebec,Province/counties~Québec/Mauricie.protect|Mauricie.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/America~North/Canada/provinces~Canada/Quebec,Province/counties~Québec/Mauricie.private|Mauricie.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/America~North/Canada/provinces~Canada/Quebec,Province/counties~Québec/Mauricie.personal|Mauricie.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/America~North/Canada/provinces~Canada/Quebec,Province/counties~Québec/Mauricie.secret|Mauricie.secret]] 
+

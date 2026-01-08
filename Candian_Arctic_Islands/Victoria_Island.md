@@ -33,11 +33,14 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Wfm%20victoria%20islan
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Victoria%20Island%2C%20Canada.svg
 Commons_category: Victoria Island, Canada
 native_label: Kitlineq
+dv_is_:
+  same_as: "[[../../../../../WikiData/WD~Victoria_Island,158129|WD~Victoria_Island,158129]]"
+dv_is_same_as: "[[../../../../../WikiData/WD~Victoria_Island,158129|WD~Victoria_Island,158129]]"
 ---
 
 # [[Victoria_Island]] 
 
-#is_/same_as :: [[../../../../../WikiData/WD~Victoria_Island,158129|WD~Victoria_Island,158129]] 
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/map  
 
@@ -71,4 +74,21 @@ markerFile: [[Victoria_Island]]
 > The island is named after Queen Victoria, the Canadian sovereign from 1867 to 1901 (though she first became Queen in 1837). The features bearing the name "Prince Albert" are named after her consort, Albert.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Victoria%20Island) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~North/Canada/Candian_Arctic_Islands/Victoria_Island|Victoria_Island]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/America~North/Canada/Candian_Arctic_Islands/Victoria_Island.public|Victoria_Island.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/America~North/Canada/Candian_Arctic_Islands/Victoria_Island.internal|Victoria_Island.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/America~North/Canada/Candian_Arctic_Islands/Victoria_Island.protect|Victoria_Island.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/America~North/Canada/Candian_Arctic_Islands/Victoria_Island.private|Victoria_Island.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/America~North/Canada/Candian_Arctic_Islands/Victoria_Island.personal|Victoria_Island.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/America~North/Canada/Candian_Arctic_Islands/Victoria_Island.secret|Victoria_Island.secret]] 
 

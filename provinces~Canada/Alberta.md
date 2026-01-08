@@ -1,4 +1,13 @@
-﻿---
+---
+dv_name: Alberta
+dv_name-abbr: ALB
+dv_is_a_: "[[../../../../Geography/Place]]"
+dv_has_place_longitude: -113.517
+dv_has_place_latitude: 53.5667
+dv_is_:
+  same_as: "[[_Standards/WikiData/WD~Alberta,1951]]"
+dv_is_same_as: "[[_Standards/WikiData/WD~Alberta,1951]]"
+
 has_time_started: 1905-09-01 
 aliases:
   - Alberta
@@ -199,17 +208,17 @@ inception: 1905-09-01T00:00:00Z
 
 # [[Alberta]] 
 
-[name::Alberta] 
-[name-abbr::ALB] 
+name = `=this.dv_name` 
+name-abbr = `=this.dv_name-abbr` 
 Country :: [[../../Canada]]  
 Capital :: [[Alberta/City/Edmonton]]  
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-113.517] 
-[has_place_latitude::53.5667] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
 [Population::] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Alberta,1951]] 
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/map 
 
@@ -239,19 +248,20 @@ maxZoom: 18
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Alberta) 
 
+
 ## Confidential Links & Embeds: 
 
-### [Alberta](/_Standards/Earth/Continent/America~North/Canada/provinces~Canada/Alberta.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~North/Canada/provinces~Canada/Alberta|Alberta]] 
 
-### [Alberta.public](/_public/Earth/Continent/America~North/Canada/provinces~Canada/Alberta.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~North/Canada/provinces~Canada/Alberta.public|Alberta.public]] 
 
-### [Alberta.internal](/_internal/Earth/Continent/America~North/Canada/provinces~Canada/Alberta.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~North/Canada/provinces~Canada/Alberta.internal|Alberta.internal]] 
 
-### [Alberta.protect](/_protect/Earth/Continent/America~North/Canada/provinces~Canada/Alberta.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~North/Canada/provinces~Canada/Alberta.protect|Alberta.protect]] 
 
-### [Alberta.private](/_private/Earth/Continent/America~North/Canada/provinces~Canada/Alberta.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~North/Canada/provinces~Canada/Alberta.private|Alberta.private]] 
 
-### [Alberta.personal](/_personal/Earth/Continent/America~North/Canada/provinces~Canada/Alberta.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~North/Canada/provinces~Canada/Alberta.personal|Alberta.personal]] 
 
-### [Alberta.secret](/_secret/Earth/Continent/America~North/Canada/provinces~Canada/Alberta.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~North/Canada/provinces~Canada/Alberta.secret|Alberta.secret]] 
 

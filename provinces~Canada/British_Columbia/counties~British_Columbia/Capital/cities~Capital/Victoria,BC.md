@@ -14,20 +14,29 @@ tags:
 SpocWebEntityId: 36117
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: -123.3657
+dv_has_place_latitude: 48.42215
+dv_name: BC~Victoria
+dv_Country: "[[../../../../../../Canada]]"
+dv_StateId: 36004
+dv_is_:
+  same_as: "[[Victoria,]]"
+dv_is_same_as: "[[Victoria,]]"
 ---
 
 # [[Victoria,BC]] 
 
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-123.3657] 
-[has_place_latitude::48.42215] 
-[name::BC~Victoria] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[../../../../../../Canada]]  
-[StateId::36004] 
+Country = `=this.dv_Country`
+StateId = `=this.dv_StateId` 
 [Population::] 
-#is_/same_as :: [[Victoria,]]
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/map 
 
@@ -42,17 +51,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [BC~Victoria](/_Standards/Earth/Continent/America~North/Canada/provinces~Canada/British_Columbia/City/BC~Victoria.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~North/Canada/provinces~Canada/British_Columbia/counties~British_Columbia/Capital/cities~Capital/Victoria,BC|Victoria,BC]] 
 
-### [BC~Victoria.public](/_public/Earth/Continent/America~North/Canada/provinces~Canada/British_Columbia/City/BC~Victoria.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~North/Canada/provinces~Canada/British_Columbia/counties~British_Columbia/Capital/cities~Capital/Victoria,BC.public|Victoria,BC.public]] 
 
-### [BC~Victoria.internal](/_internal/Earth/Continent/America~North/Canada/provinces~Canada/British_Columbia/City/BC~Victoria.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~North/Canada/provinces~Canada/British_Columbia/counties~British_Columbia/Capital/cities~Capital/Victoria,BC.internal|Victoria,BC.internal]] 
 
-### [BC~Victoria.protect](/_protect/Earth/Continent/America~North/Canada/provinces~Canada/British_Columbia/City/BC~Victoria.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~North/Canada/provinces~Canada/British_Columbia/counties~British_Columbia/Capital/cities~Capital/Victoria,BC.protect|Victoria,BC.protect]] 
 
-### [BC~Victoria.private](/_private/Earth/Continent/America~North/Canada/provinces~Canada/British_Columbia/City/BC~Victoria.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~North/Canada/provinces~Canada/British_Columbia/counties~British_Columbia/Capital/cities~Capital/Victoria,BC.private|Victoria,BC.private]] 
 
-### [BC~Victoria.personal](/_personal/Earth/Continent/America~North/Canada/provinces~Canada/British_Columbia/City/BC~Victoria.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~North/Canada/provinces~Canada/British_Columbia/counties~British_Columbia/Capital/cities~Capital/Victoria,BC.personal|Victoria,BC.personal]] 
 
-### [BC~Victoria.secret](/_secret/Earth/Continent/America~North/Canada/provinces~Canada/British_Columbia/City/BC~Victoria.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~North/Canada/provinces~Canada/British_Columbia/counties~British_Columbia/Capital/cities~Capital/Victoria,BC.secret|Victoria,BC.secret]] 
 

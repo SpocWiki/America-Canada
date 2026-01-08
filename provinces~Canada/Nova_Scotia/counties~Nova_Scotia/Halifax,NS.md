@@ -14,15 +14,21 @@ tags:
 SpocWebEntityId: 36121
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../Geography/Place]]"
+dv_has_place_longitude: -63.61
+dv_has_place_latitude: 44.67
+dv_name: NS~Halifax
+dv_Country: "[[../../Canada]]"
+dv_StateId: 36008
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-63.61] 
-[has_place_latitude::44.67] 
-[name::NS~Halifax] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[../../Canada]]  
-[StateId::36008] 
+Country = `=this.dv_Country`
+StateId = `=this.dv_StateId` 
 [Population::] 
 
 
@@ -38,17 +44,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Halifax,NS](/_Standards/Earth/Continent/America~North/Canada/provinces~Canada/Nova_Scotia/counties~Nova_Scotia/Halifax,NS.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~North/Canada/provinces~Canada/Nova_Scotia/counties~Nova_Scotia/Halifax,NS|Halifax,NS]] 
 
-### [Halifax,NS.public](/_public/Earth/Continent/America~North/Canada/provinces~Canada/Nova_Scotia/counties~Nova_Scotia/Halifax,NS.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~North/Canada/provinces~Canada/Nova_Scotia/counties~Nova_Scotia/Halifax,NS.public|Halifax,NS.public]] 
 
-### [Halifax,NS.internal](/_internal/Earth/Continent/America~North/Canada/provinces~Canada/Nova_Scotia/counties~Nova_Scotia/Halifax,NS.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~North/Canada/provinces~Canada/Nova_Scotia/counties~Nova_Scotia/Halifax,NS.internal|Halifax,NS.internal]] 
 
-### [Halifax,NS.protect](/_protect/Earth/Continent/America~North/Canada/provinces~Canada/Nova_Scotia/counties~Nova_Scotia/Halifax,NS.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~North/Canada/provinces~Canada/Nova_Scotia/counties~Nova_Scotia/Halifax,NS.protect|Halifax,NS.protect]] 
 
-### [Halifax,NS.private](/_private/Earth/Continent/America~North/Canada/provinces~Canada/Nova_Scotia/counties~Nova_Scotia/Halifax,NS.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~North/Canada/provinces~Canada/Nova_Scotia/counties~Nova_Scotia/Halifax,NS.private|Halifax,NS.private]] 
 
-### [Halifax,NS.personal](/_personal/Earth/Continent/America~North/Canada/provinces~Canada/Nova_Scotia/counties~Nova_Scotia/Halifax,NS.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~North/Canada/provinces~Canada/Nova_Scotia/counties~Nova_Scotia/Halifax,NS.personal|Halifax,NS.personal]] 
 
-### [Halifax,NS.secret](/_secret/Earth/Continent/America~North/Canada/provinces~Canada/Nova_Scotia/counties~Nova_Scotia/Halifax,NS.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~North/Canada/provinces~Canada/Nova_Scotia/counties~Nova_Scotia/Halifax,NS.secret|Halifax,NS.secret]] 
 

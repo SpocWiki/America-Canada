@@ -14,18 +14,24 @@ tags:
 SpocWebEntityId: 36123
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: -114.3975
+dv_has_place_latitude: 62.44222
+dv_name: Yellowknife
+dv_Country: "[[../../../../../../Canada]]"
+dv_StateId: 36013
 ---
 
 # [[Yellowknife]] 
 
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-114.3975] 
-[has_place_latitude::62.44222] 
-[name::Yellowknife] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[../../../../../../Canada]]  
-[StateId::36013] 
+Country = `=this.dv_Country`
+StateId = `=this.dv_StateId` 
 [Population::] 
 
 
@@ -47,17 +53,17 @@ markerFile: [[Yellowknife]]
 
 ## Confidential Links & Embeds: 
 
-### [Yellowknife](/_Standards/Earth/Continent/America~North/Canada/provinces~Canada/Northwest_Territories/City/Yellowknife.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~North/Canada/provinces~Canada/Northwest_Territories/counties~Northwest_Territories/Fort_Smith/cities~Fort_Smith/Yellowknife|Yellowknife]] 
 
-### [Yellowknife.public](/_public/Earth/Continent/America~North/Canada/provinces~Canada/Northwest_Territories/City/Yellowknife.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~North/Canada/provinces~Canada/Northwest_Territories/counties~Northwest_Territories/Fort_Smith/cities~Fort_Smith/Yellowknife.public|Yellowknife.public]] 
 
-### [Yellowknife.internal](/_internal/Earth/Continent/America~North/Canada/provinces~Canada/Northwest_Territories/City/Yellowknife.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~North/Canada/provinces~Canada/Northwest_Territories/counties~Northwest_Territories/Fort_Smith/cities~Fort_Smith/Yellowknife.internal|Yellowknife.internal]] 
 
-### [Yellowknife.protect](/_protect/Earth/Continent/America~North/Canada/provinces~Canada/Northwest_Territories/City/Yellowknife.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~North/Canada/provinces~Canada/Northwest_Territories/counties~Northwest_Territories/Fort_Smith/cities~Fort_Smith/Yellowknife.protect|Yellowknife.protect]] 
 
-### [Yellowknife.private](/_private/Earth/Continent/America~North/Canada/provinces~Canada/Northwest_Territories/City/Yellowknife.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~North/Canada/provinces~Canada/Northwest_Territories/counties~Northwest_Territories/Fort_Smith/cities~Fort_Smith/Yellowknife.private|Yellowknife.private]] 
 
-### [Yellowknife.personal](/_personal/Earth/Continent/America~North/Canada/provinces~Canada/Northwest_Territories/City/Yellowknife.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~North/Canada/provinces~Canada/Northwest_Territories/counties~Northwest_Territories/Fort_Smith/cities~Fort_Smith/Yellowknife.personal|Yellowknife.personal]] 
 
-### [Yellowknife.secret](/_secret/Earth/Continent/America~North/Canada/provinces~Canada/Northwest_Territories/City/Yellowknife.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~North/Canada/provinces~Canada/Northwest_Territories/counties~Northwest_Territories/Fort_Smith/cities~Fort_Smith/Yellowknife.secret|Yellowknife.secret]] 
 

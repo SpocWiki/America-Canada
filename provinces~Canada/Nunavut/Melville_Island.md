@@ -1,34 +1,34 @@
 ---
 aliases:
-  - 'Melville Island (French: île Melville; Inuktitut: ᐃᓗᓪᓕᖅ, Ilulliq'
+  - "Melville Island (French: île Melville; Inuktitut: ᐃᓗᓪᓕᖅ, Ilulliq"
   - Melville_Island
   - Melville Island
 has_id_wikidata: Q134116
 location:
   - 75.50135
   - -113.50515
-part_of: '[[_Standards/WikiData/WD~Canadian_Arctic_Archipelago,85377]]'
-located_in_on_physical_feature: '[[_Standards/WikiData/WD~Queen_Elizabeth_Islands,216533]]'
-named_after: '[[_Standards/WikiData/WD~Robert_Dundas,_2nd_Viscount_Melville,267061]]'
+part_of: "[[_Standards/WikiData/WD~Canadian_Arctic_Archipelago,85377]]"
+located_in_on_physical_feature: "[[_Standards/WikiData/WD~Queen_Elizabeth_Islands,216533]]"
+named_after: "[[_Standards/WikiData/WD~Robert_Dundas,_2nd_Viscount_Melville,267061]]"
 described_by_source:
-  - '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Беларуская_энцыклапедыя_У_18_т._Т._10_Малайзія_Мугаджары,17398631]]'
-  - '[[_Standards/WikiData/WD~Geographic_names_of_the_world_Toponymic_dictionary,18405384]]'
-  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-  - '[[_Standards/WikiData/WD~Q120475222,120475222]]'
+  - "[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Беларуская_энцыклапедыя_У_18_т._Т._10_Малайзія_Мугаджары,17398631]]"
+  - "[[_Standards/WikiData/WD~Geographic_names_of_the_world_Toponymic_dictionary,18405384]]"
+  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
+  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+  - "[[_Standards/WikiData/WD~Q120475222,120475222]]"
 located_in_or_next_to_body_of_water:
-  - '[[_Standards/WikiData/WD~Lancaster_Sound,1285117]]'
-  - '[[_Standards/WikiData/WD~Viscount_Melville_Sound,5605258]]'
+  - "[[_Standards/WikiData/WD~Lancaster_Sound,1285117]]"
+  - "[[_Standards/WikiData/WD~Viscount_Melville_Sound,5605258]]"
 coordinate_location:
   - Point(-113.50515 75.50135)
   - Point(-111.5 75.5)
 located_in_the_administrative_territorial_entity:
-  - '[[_Standards/WikiData/WD~Northwest_Territories,2007]]'
-  - '[[_Standards/WikiData/WD~Nunavut,2023]]'
-instance_of: '[[_Standards/WikiData/WD~island,23442]]'
-country: '[[_Standards/WikiData/WD~Canada,16]]'
-continent: '[[_Standards/WikiData/WD~North_America,49]]'
+  - "[[_Standards/WikiData/WD~Northwest_Territories,2007]]"
+  - "[[_Standards/WikiData/WD~Nunavut,2023]]"
+instance_of: "[[_Standards/WikiData/WD~island,23442]]"
+country: "[[_Standards/WikiData/WD~Canada,16]]"
+continent: "[[_Standards/WikiData/WD~North_America,49]]"
 population: 0
 width: 120
 length: 341
@@ -40,11 +40,14 @@ locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Melville%2
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Wfm%20melville%20island%20canada.jpg
 Commons_category: Melville Island
 native_label: Melvill Island
+dv_is_:
+  same_as: "[[../../../../../../WikiData/WD~Melville_Island,134116]]"
+dv_is_same_as: "[[../../../../../../WikiData/WD~Melville_Island,134116]]"
 ---
 
 # [[Melville_Island]] 
 
-#is_/same_as :: [[WD~Melville_Island,134116]] 
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/map 
 
@@ -82,4 +85,21 @@ minZoom: 2
 > These can be reached by land only from Nunavut.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Melville%20Island%20(Northwest%20Territories%20and%20Nunavut)) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~North/Canada/provinces~Canada/Nunavut/Melville_Island|Melville_Island]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/America~North/Canada/provinces~Canada/Nunavut/Melville_Island.public|Melville_Island.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/America~North/Canada/provinces~Canada/Nunavut/Melville_Island.internal|Melville_Island.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/America~North/Canada/provinces~Canada/Nunavut/Melville_Island.protect|Melville_Island.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/America~North/Canada/provinces~Canada/Nunavut/Melville_Island.private|Melville_Island.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/America~North/Canada/provinces~Canada/Nunavut/Melville_Island.personal|Melville_Island.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/America~North/Canada/provinces~Canada/Nunavut/Melville_Island.secret|Melville_Island.secret]] 
 

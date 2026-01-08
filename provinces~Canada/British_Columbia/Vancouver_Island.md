@@ -46,11 +46,14 @@ subreddit:
   - vancouverisland
   - VancouverIsland
 time_of_discovery_or_invention: 1774-01-01T00:00:00Z
+dv_is_:
+  same_as: "[[../../../../../../WikiData/WD~Vancouver_Island,170479|WD~Vancouver_Island,170479]]"
+dv_is_same_as: "[[../../../../../../WikiData/WD~Vancouver_Island,170479|WD~Vancouver_Island,170479]]"
 ---
 
 # [[Vancouver_Island]] 
 
-#is_/same_as :: [[../../../../../../WikiData/WD~Vancouver_Island,170479|WD~Vancouver_Island,170479]]  
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/text_of_/abstract 
 
@@ -72,4 +75,20 @@ time_of_discovery_or_invention: 1774-01-01T00:00:00Z
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Vancouver%20Island) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~North/Canada/provinces~Canada/British_Columbia/Vancouver_Island|Vancouver_Island]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/America~North/Canada/provinces~Canada/British_Columbia/Vancouver_Island.public|Vancouver_Island.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/America~North/Canada/provinces~Canada/British_Columbia/Vancouver_Island.internal|Vancouver_Island.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/America~North/Canada/provinces~Canada/British_Columbia/Vancouver_Island.protect|Vancouver_Island.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/America~North/Canada/provinces~Canada/British_Columbia/Vancouver_Island.private|Vancouver_Island.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/America~North/Canada/provinces~Canada/British_Columbia/Vancouver_Island.personal|Vancouver_Island.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/America~North/Canada/provinces~Canada/British_Columbia/Vancouver_Island.secret|Vancouver_Island.secret]] 
 

@@ -7,3 +7,20 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Chaudi%C3%A8re-Appalaches) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~North/Canada/provinces~Canada/Quebec,Province/counties~Québec/Chaudière-Appalaches|Chaudière-Appalaches]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/America~North/Canada/provinces~Canada/Quebec,Province/counties~Québec/Chaudière-Appalaches.public|Chaudière-Appalaches.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/America~North/Canada/provinces~Canada/Quebec,Province/counties~Québec/Chaudière-Appalaches.internal|Chaudière-Appalaches.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/America~North/Canada/provinces~Canada/Quebec,Province/counties~Québec/Chaudière-Appalaches.protect|Chaudière-Appalaches.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/America~North/Canada/provinces~Canada/Quebec,Province/counties~Québec/Chaudière-Appalaches.private|Chaudière-Appalaches.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/America~North/Canada/provinces~Canada/Quebec,Province/counties~Québec/Chaudière-Appalaches.personal|Chaudière-Appalaches.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/America~North/Canada/provinces~Canada/Quebec,Province/counties~Québec/Chaudière-Appalaches.secret|Chaudière-Appalaches.secret]] 
+

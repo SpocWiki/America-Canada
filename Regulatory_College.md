@@ -9,11 +9,14 @@ different_from:
   - "[[_Standards/WikiData/WD~professional_society,1391145]]"
 instance_of: "[[_Standards/WikiData/WD~type_of_organization,17197366]]"
 topic_has_template: "[[_Standards/WikiData/WD~Q26004328,26004328]]"
+dv_is_:
+  same_as: "[[../../../../WikiData/WD~Regulatory_college,1110684|WD~Regulatory_college,1110684]]"
+dv_is_same_as: "[[../../../../WikiData/WD~Regulatory_college,1110684|WD~Regulatory_college,1110684]]"
 ---
 
 # [[Regulatory_College]] 
 
-#is_/same_as :: [[../../../../WikiData/WD~Regulatory_college,1110684|WD~Regulatory_college,1110684]]  
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/text_of_/abstract 
 
@@ -34,4 +37,21 @@ topic_has_template: "[[_Standards/WikiData/WD~Q26004328,26004328]]"
 > In addition to investigating misconduct, regulatory colleges have a duty to maintain a public register of members.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Regulatory%20college) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~North/Canada/Regulatory_College|Regulatory_College]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/America~North/Canada/Regulatory_College.public|Regulatory_College.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/America~North/Canada/Regulatory_College.internal|Regulatory_College.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/America~North/Canada/Regulatory_College.protect|Regulatory_College.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/America~North/Canada/Regulatory_College.private|Regulatory_College.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/America~North/Canada/Regulatory_College.personal|Regulatory_College.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/America~North/Canada/Regulatory_College.secret|Regulatory_College.secret]] 
 

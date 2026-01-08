@@ -28,11 +28,14 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Salisbury%20Island%2C%
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Hudson%20Straat.PNG
 Commons_category: Hudson Strait
 native_label: Hudson Strait
+dv_is_:
+  same_as: "[[../../../../../../WikiData/WD~Hudson_Strait,207702]]"
+dv_is_same_as: "[[../../../../../../WikiData/WD~Hudson_Strait,207702]]"
 ---
 
 # [[Hudson_Strait]] 
 
-#is_/same_as :: [[WD~Hudson_Strait,207702]] 
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/text_of_/abstract 
 
@@ -61,4 +64,21 @@ native_label: Hudson Strait
 > The Hudson Strait links the northern seaports of Manitoba and Ontario with the Atlantic Ocean. The Strait could serve as an eastern entrance to the Northwest Passage if it were not for ice in the Fury and Hecla Strait south of western Baffin Island.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Hudson%20Strait) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~North/Canada/provinces~Canada/Nunavut/Hudson_Strait|Hudson_Strait]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/America~North/Canada/provinces~Canada/Nunavut/Hudson_Strait.public|Hudson_Strait.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/America~North/Canada/provinces~Canada/Nunavut/Hudson_Strait.internal|Hudson_Strait.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/America~North/Canada/provinces~Canada/Nunavut/Hudson_Strait.protect|Hudson_Strait.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/America~North/Canada/provinces~Canada/Nunavut/Hudson_Strait.private|Hudson_Strait.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/America~North/Canada/provinces~Canada/Nunavut/Hudson_Strait.personal|Hudson_Strait.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/America~North/Canada/provinces~Canada/Nunavut/Hudson_Strait.secret|Hudson_Strait.secret]] 
 

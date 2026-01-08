@@ -8,4 +8,19 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Saguenay%E2%80%93Lac-Saint-Jean) 
 
 
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~North/Canada/provinces~Canada/Quebec,Province/counties~Québec/Saguenay–Lac-Saint-Jean|Saguenay–Lac-Saint-Jean]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/America~North/Canada/provinces~Canada/Quebec,Province/counties~Québec/Saguenay–Lac-Saint-Jean.public|Saguenay–Lac-Saint-Jean.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/America~North/Canada/provinces~Canada/Quebec,Province/counties~Québec/Saguenay–Lac-Saint-Jean.internal|Saguenay–Lac-Saint-Jean.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/America~North/Canada/provinces~Canada/Quebec,Province/counties~Québec/Saguenay–Lac-Saint-Jean.protect|Saguenay–Lac-Saint-Jean.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/America~North/Canada/provinces~Canada/Quebec,Province/counties~Québec/Saguenay–Lac-Saint-Jean.private|Saguenay–Lac-Saint-Jean.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/America~North/Canada/provinces~Canada/Quebec,Province/counties~Québec/Saguenay–Lac-Saint-Jean.personal|Saguenay–Lac-Saint-Jean.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/America~North/Canada/provinces~Canada/Quebec,Province/counties~Québec/Saguenay–Lac-Saint-Jean.secret|Saguenay–Lac-Saint-Jean.secret]] 
 

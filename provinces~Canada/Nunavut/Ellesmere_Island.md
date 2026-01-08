@@ -7,27 +7,27 @@ aliases:
   - île d'Ellesmere
   - Ellesmere_Island
 has_id_wikidata: Q146841
-part_of: '[[_Standards/WikiData/WD~Canadian_Arctic_Archipelago,85377]]'
-located_in_on_physical_feature: '[[_Standards/WikiData/WD~Queen_Elizabeth_Islands,216533]]'
-capital: '[[_Standards/WikiData/WD~Grise_Fiord,276115]]'
-highest_point: '[[_Standards/WikiData/WD~Barbeau_Peak,807788]]'
+part_of: "[[_Standards/WikiData/WD~Canadian_Arctic_Archipelago,85377]]"
+located_in_on_physical_feature: "[[_Standards/WikiData/WD~Queen_Elizabeth_Islands,216533]]"
+capital: "[[_Standards/WikiData/WD~Grise_Fiord,276115]]"
+highest_point: "[[_Standards/WikiData/WD~Barbeau_Peak,807788]]"
 located_in_time_zone:
-  - '[[_Standards/WikiData/WD~Eastern_Time_Zone,941023]]'
-  - '[[_Standards/WikiData/WD~Central_Time_Zone,2086913]]'
-named_after: '[[_Standards/WikiData/WD~Francis_Egerton,_1st_Earl_of_Ellesmere,1149445]]'
+  - "[[_Standards/WikiData/WD~Eastern_Time_Zone,941023]]"
+  - "[[_Standards/WikiData/WD~Central_Time_Zone,2086913]]"
+named_after: "[[_Standards/WikiData/WD~Francis_Egerton,_1st_Earl_of_Ellesmere,1149445]]"
 located_in_or_next_to_body_of_water:
-  - '[[_Standards/WikiData/WD~Jones_Sound,1703405]]'
-  - '[[_Standards/WikiData/WD~Baffin_Bay,37040]]'
+  - "[[_Standards/WikiData/WD~Jones_Sound,1703405]]"
+  - "[[_Standards/WikiData/WD~Baffin_Bay,37040]]"
 described_by_source:
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-  - '[[_Standards/WikiData/WD~Small_Soviet_Encyclopedia,66386517]]'
+  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+  - "[[_Standards/WikiData/WD~Small_Soviet_Encyclopedia,66386517]]"
 time_of_discovery_or_invention:
   - 1616-01-01T00:00:00Z
   - -2699-01-01T00:00:00Z
-located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~Nunavut,2023]]'
-instance_of: '[[_Standards/WikiData/WD~island,23442]]'
-country: '[[_Standards/WikiData/WD~Canada,16]]'
-continent: '[[_Standards/WikiData/WD~North_America,49]]'
+located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Nunavut,2023]]"
+instance_of: "[[_Standards/WikiData/WD~island,23442]]"
+country: "[[_Standards/WikiData/WD~Canada,16]]"
+continent: "[[_Standards/WikiData/WD~North_America,49]]"
 width: 440
 length: 820
 population: 146
@@ -41,11 +41,14 @@ U_S_National_Archives_Identifier: 10037008
 Commons_gallery: Ellesmere Island
 Commons_category: Ellesmere Island
 Libris_URI: mkz10hb514kvc22
+dv_is_:
+  same_as: "[[../../../../../../WikiData/WD~Ellesmere_Island,146841|WD~Ellesmere_Island,146841]]"
+dv_is_same_as: "[[../../../../../../WikiData/WD~Ellesmere_Island,146841|WD~Ellesmere_Island,146841]]"
 ---
 
 # [[Ellesmere_Island]] 
 
-#is_/same_as :: [[../../../../../../WikiData/WD~Ellesmere_Island,146841|WD~Ellesmere_Island,146841]] 
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/text_of_/abstract 
 
@@ -69,4 +72,21 @@ Libris_URI: mkz10hb514kvc22
 > Ellesmere Island is administered as part of the Qikiqtaaluk Region in the Canadian territory of Nunavut.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Ellesmere%20Island) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~North/Canada/provinces~Canada/Nunavut/Ellesmere_Island|Ellesmere_Island]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/America~North/Canada/provinces~Canada/Nunavut/Ellesmere_Island.public|Ellesmere_Island.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/America~North/Canada/provinces~Canada/Nunavut/Ellesmere_Island.internal|Ellesmere_Island.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/America~North/Canada/provinces~Canada/Nunavut/Ellesmere_Island.protect|Ellesmere_Island.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/America~North/Canada/provinces~Canada/Nunavut/Ellesmere_Island.private|Ellesmere_Island.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/America~North/Canada/provinces~Canada/Nunavut/Ellesmere_Island.personal|Ellesmere_Island.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/America~North/Canada/provinces~Canada/Nunavut/Ellesmere_Island.secret|Ellesmere_Island.secret]] 
 

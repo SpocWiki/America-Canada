@@ -27,4 +27,19 @@ markerFile: [[Fort_Smith]]
 > [Wikipedia](https://en.wikipedia.org/wiki/Fort%20Smith,%20Northwest%20Territories) 
 
 
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~North/Canada/provinces~Canada/Northwest_Territories/counties~Northwest_Territories/Fort_Smith|Fort_Smith]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/America~North/Canada/provinces~Canada/Northwest_Territories/counties~Northwest_Territories/Fort_Smith.public|Fort_Smith.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/America~North/Canada/provinces~Canada/Northwest_Territories/counties~Northwest_Territories/Fort_Smith.internal|Fort_Smith.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/America~North/Canada/provinces~Canada/Northwest_Territories/counties~Northwest_Territories/Fort_Smith.protect|Fort_Smith.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/America~North/Canada/provinces~Canada/Northwest_Territories/counties~Northwest_Territories/Fort_Smith.private|Fort_Smith.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/America~North/Canada/provinces~Canada/Northwest_Territories/counties~Northwest_Territories/Fort_Smith.personal|Fort_Smith.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/America~North/Canada/provinces~Canada/Northwest_Territories/counties~Northwest_Territories/Fort_Smith.secret|Fort_Smith.secret]] 
 

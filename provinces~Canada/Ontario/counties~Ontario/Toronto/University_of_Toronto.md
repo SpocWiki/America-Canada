@@ -1,4 +1,8 @@
-﻿---
+---
+dv_is_:
+  same_as: "[[../../../../../../../../WikiData/WD~University_of_Toronto,180865|WD~University_of_Toronto,180865]]"
+dv_is_same_as: "[[../../../../../../../../WikiData/WD~University_of_Toronto,180865|WD~University_of_Toronto,180865]]"
+
 has_time_started: 1827-03-15 
 aliases:
 has_id_wikidata: Q180865
@@ -146,7 +150,7 @@ subreddit: UofT
 
 # [[University_of_Toronto]] 
 
-#is_/same_as :: [[../../../../../../../../WikiData/WD~University_of_Toronto,180865|WD~University_of_Toronto,180865]] 
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/text_of_/abstract 
 
@@ -174,4 +178,21 @@ subreddit: UofT
 > As of 2024, 13 Nobel laureates, 6 Turing Award winners, 100 Rhodes Scholars, and 1 Fields Medalist have been affiliated with the university. University of Toronto alumni additionally include five prime ministers of Canada (including William Lyon Mackenzie King and Lester B. Pearson), three governors general of Canada, nine foreign leaders, seventeen justices of the Supreme Court of Canada, and eight mayors of Toronto.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/University%20of%20Toronto) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~North/Canada/provinces~Canada/Ontario/counties~Ontario/Toronto/University_of_Toronto|University_of_Toronto]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/America~North/Canada/provinces~Canada/Ontario/counties~Ontario/Toronto/University_of_Toronto.public|University_of_Toronto.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/America~North/Canada/provinces~Canada/Ontario/counties~Ontario/Toronto/University_of_Toronto.internal|University_of_Toronto.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/America~North/Canada/provinces~Canada/Ontario/counties~Ontario/Toronto/University_of_Toronto.protect|University_of_Toronto.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/America~North/Canada/provinces~Canada/Ontario/counties~Ontario/Toronto/University_of_Toronto.private|University_of_Toronto.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/America~North/Canada/provinces~Canada/Ontario/counties~Ontario/Toronto/University_of_Toronto.personal|University_of_Toronto.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/America~North/Canada/provinces~Canada/Ontario/counties~Ontario/Toronto/University_of_Toronto.secret|University_of_Toronto.secret]] 
 

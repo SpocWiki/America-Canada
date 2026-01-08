@@ -14,20 +14,29 @@ tags:
 SpocWebEntityId: 35198
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: -123.12
+dv_has_place_latitude: 49.27
+dv_name: Vancouver
+dv_Country: "[[../../../../../../Canada]]"
+dv_StateId: 36004
+dv_is_:
+  same_as: "[[../../../../../../../../../WikiData/WD~Vancouver,24639|WD~Vancouver,24639]]"
+dv_is_same_as: "[[../../../../../../../../../WikiData/WD~Vancouver,24639|WD~Vancouver,24639]]"
 ---
 
 # [[Vancouver]] 
 
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-123.12] 
-[has_place_latitude::49.27] 
-[name::Vancouver] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[../../../../../../Canada]]  
-[StateId::36004] 
+Country = `=this.dv_Country`
+StateId = `=this.dv_StateId` 
 [Population::] 
-#is_/same_as :: [[../../../../../../../../../WikiData/WD~Vancouver,24639|WD~Vancouver,24639]] 
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/map 
 
@@ -56,17 +65,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Vancouver](/_Standards/Earth/Continent/America~North/Canada/provinces~Canada/British_Columbia/City/Vancouver.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~North/Canada/provinces~Canada/British_Columbia/counties~British_Columbia/Greater_Vancouver/cities~Greater_Vancouver/Vancouver|Vancouver]] 
 
-### [Vancouver.public](/_public/Earth/Continent/America~North/Canada/provinces~Canada/British_Columbia/City/Vancouver.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~North/Canada/provinces~Canada/British_Columbia/counties~British_Columbia/Greater_Vancouver/cities~Greater_Vancouver/Vancouver.public|Vancouver.public]] 
 
-### [Vancouver.internal](/_internal/Earth/Continent/America~North/Canada/provinces~Canada/British_Columbia/City/Vancouver.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~North/Canada/provinces~Canada/British_Columbia/counties~British_Columbia/Greater_Vancouver/cities~Greater_Vancouver/Vancouver.internal|Vancouver.internal]] 
 
-### [Vancouver.protect](/_protect/Earth/Continent/America~North/Canada/provinces~Canada/British_Columbia/City/Vancouver.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~North/Canada/provinces~Canada/British_Columbia/counties~British_Columbia/Greater_Vancouver/cities~Greater_Vancouver/Vancouver.protect|Vancouver.protect]] 
 
-### [Vancouver.private](/_private/Earth/Continent/America~North/Canada/provinces~Canada/British_Columbia/City/Vancouver.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~North/Canada/provinces~Canada/British_Columbia/counties~British_Columbia/Greater_Vancouver/cities~Greater_Vancouver/Vancouver.private|Vancouver.private]] 
 
-### [Vancouver.personal](/_personal/Earth/Continent/America~North/Canada/provinces~Canada/British_Columbia/City/Vancouver.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~North/Canada/provinces~Canada/British_Columbia/counties~British_Columbia/Greater_Vancouver/cities~Greater_Vancouver/Vancouver.personal|Vancouver.personal]] 
 
-### [Vancouver.secret](/_secret/Earth/Continent/America~North/Canada/provinces~Canada/British_Columbia/City/Vancouver.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~North/Canada/provinces~Canada/British_Columbia/counties~British_Columbia/Greater_Vancouver/cities~Greater_Vancouver/Vancouver.secret|Vancouver.secret]] 
 

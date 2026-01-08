@@ -41,11 +41,14 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Newfoundland%20OSE2002
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Newfoundland%20banner.jpg
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Newfoundland%20map.png
 native_label: Ktaqmkuk
+dv_is_:
+  same_as: "[[../../../../../../WikiData/WD~Newfoundland,48335|WD~Newfoundland,48335]]"
+dv_is_same_as: "[[../../../../../../WikiData/WD~Newfoundland,48335|WD~Newfoundland,48335]]"
 ---
 
 # [[Newfoundland]] 
 
-#is_/same_as :: [[../../../../../../WikiData/WD~Newfoundland,48335|WD~Newfoundland,48335]] 
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/map 
 
@@ -73,4 +76,20 @@ maxZoom: 18
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Newfoundland%20and%20Labrador) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~North/Canada/provinces~Canada/Newfoundland-Labrador/Newfoundland|Newfoundland]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/America~North/Canada/provinces~Canada/Newfoundland-Labrador/Newfoundland.public|Newfoundland.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/America~North/Canada/provinces~Canada/Newfoundland-Labrador/Newfoundland.internal|Newfoundland.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/America~North/Canada/provinces~Canada/Newfoundland-Labrador/Newfoundland.protect|Newfoundland.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/America~North/Canada/provinces~Canada/Newfoundland-Labrador/Newfoundland.private|Newfoundland.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/America~North/Canada/provinces~Canada/Newfoundland-Labrador/Newfoundland.personal|Newfoundland.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/America~North/Canada/provinces~Canada/Newfoundland-Labrador/Newfoundland.secret|Newfoundland.secret]] 
 

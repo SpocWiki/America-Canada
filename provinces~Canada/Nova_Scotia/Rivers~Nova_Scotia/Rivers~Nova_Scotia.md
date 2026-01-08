@@ -41,17 +41,17 @@ markerFolder: ./Rivers~Nova_Scotia/
 
 ## Confidential Links & Embeds: 
 
-### [Rivers~Nova_Scotia](/_Standards/Earth/Continent/America~North/Canada/provinces~Canada/Nova_Scotia/_Rivers/Rivers~Nova_Scotia.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~North/Canada/provinces~Canada/Nova_Scotia/Rivers~Nova_Scotia/Rivers~Nova_Scotia|Rivers~Nova_Scotia]] 
 
-### [Rivers~Nova_Scotia.public](/_public/Earth/Continent/America~North/Canada/provinces~Canada/Nova_Scotia/_Rivers/Rivers~Nova_Scotia.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~North/Canada/provinces~Canada/Nova_Scotia/Rivers~Nova_Scotia/Rivers~Nova_Scotia.public|Rivers~Nova_Scotia.public]] 
 
-### [Rivers~Nova_Scotia.internal](/_internal/Earth/Continent/America~North/Canada/provinces~Canada/Nova_Scotia/_Rivers/Rivers~Nova_Scotia.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~North/Canada/provinces~Canada/Nova_Scotia/Rivers~Nova_Scotia/Rivers~Nova_Scotia.internal|Rivers~Nova_Scotia.internal]] 
 
-### [Rivers~Nova_Scotia.protect](/_protect/Earth/Continent/America~North/Canada/provinces~Canada/Nova_Scotia/_Rivers/Rivers~Nova_Scotia.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~North/Canada/provinces~Canada/Nova_Scotia/Rivers~Nova_Scotia/Rivers~Nova_Scotia.protect|Rivers~Nova_Scotia.protect]] 
 
-### [Rivers~Nova_Scotia.private](/_private/Earth/Continent/America~North/Canada/provinces~Canada/Nova_Scotia/_Rivers/Rivers~Nova_Scotia.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~North/Canada/provinces~Canada/Nova_Scotia/Rivers~Nova_Scotia/Rivers~Nova_Scotia.private|Rivers~Nova_Scotia.private]] 
 
-### [Rivers~Nova_Scotia.personal](/_personal/Earth/Continent/America~North/Canada/provinces~Canada/Nova_Scotia/_Rivers/Rivers~Nova_Scotia.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~North/Canada/provinces~Canada/Nova_Scotia/Rivers~Nova_Scotia/Rivers~Nova_Scotia.personal|Rivers~Nova_Scotia.personal]] 
 
-### [Rivers~Nova_Scotia.secret](/_secret/Earth/Continent/America~North/Canada/provinces~Canada/Nova_Scotia/_Rivers/Rivers~Nova_Scotia.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~North/Canada/provinces~Canada/Nova_Scotia/Rivers~Nova_Scotia/Rivers~Nova_Scotia.secret|Rivers~Nova_Scotia.secret]] 
 

@@ -14,11 +14,14 @@ Dewey_Decimal_Classification: "971"
 Basisklassifikation: "15.86"
 Library_of_Congress_Classification: F1001-F1035
 Commons_category: History of Canada
+dv_is_:
+  same_as: "[[../../../../WikiData/WD~History_of_Canada,2945]]"
+dv_is_same_as: "[[../../../../WikiData/WD~History_of_Canada,2945]]"
 ---
 
 # [[History_of_Canada]] 
 
-#is_/same_as :: [[WD~History_of_Canada,2945]] 
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/text_of_/abstract 
 
@@ -39,4 +42,21 @@ Commons_category: History of Canada
 > Over centuries, elements of Indigenous, French, British and more recent immigrant customs have combined to form a Canadian culture that has also been strongly influenced by its linguistic, geographic and economic neighbour, the United States. Since the conclusion of the Second World War, Canada's strong support for multilateralism and internationalism has been closely related to its peacekeeping efforts.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/History%20of%20Canada) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~North/Canada/History_of_Canada|History_of_Canada]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/America~North/Canada/History_of_Canada.public|History_of_Canada.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/America~North/Canada/History_of_Canada.internal|History_of_Canada.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/America~North/Canada/History_of_Canada.protect|History_of_Canada.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/America~North/Canada/History_of_Canada.private|History_of_Canada.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/America~North/Canada/History_of_Canada.personal|History_of_Canada.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/America~North/Canada/History_of_Canada.secret|History_of_Canada.secret]] 
 

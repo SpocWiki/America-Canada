@@ -14,15 +14,21 @@ tags:
 SpocWebEntityId: 36115
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../Geography/Place]]"
+dv_has_place_longitude: -105.6814
+dv_has_place_latitude: 54.5
+dv_name: SAS~Regina
+dv_Country: "[[../../../../Canada]]"
+dv_StateId: 36012
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-105.6814] 
-[has_place_latitude::54.5] 
-[name::SAS~Regina] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[../../../../Canada]]  
-[StateId::36012] 
+Country = `=this.dv_Country`
+StateId = `=this.dv_StateId` 
 [Population::] 
 
 
@@ -38,17 +44,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [SAS~Regina](/_Standards/Earth/Continent/America~North/Canada/provinces~Canada/Saskatchewan/City/SAS~Regina.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~North/Canada/provinces~Canada/Saskatchewan/City/SAS~Regina|SAS~Regina]] 
 
-### [SAS~Regina.public](/_public/Earth/Continent/America~North/Canada/provinces~Canada/Saskatchewan/City/SAS~Regina.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~North/Canada/provinces~Canada/Saskatchewan/City/SAS~Regina.public|SAS~Regina.public]] 
 
-### [SAS~Regina.internal](/_internal/Earth/Continent/America~North/Canada/provinces~Canada/Saskatchewan/City/SAS~Regina.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~North/Canada/provinces~Canada/Saskatchewan/City/SAS~Regina.internal|SAS~Regina.internal]] 
 
-### [SAS~Regina.protect](/_protect/Earth/Continent/America~North/Canada/provinces~Canada/Saskatchewan/City/SAS~Regina.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~North/Canada/provinces~Canada/Saskatchewan/City/SAS~Regina.protect|SAS~Regina.protect]] 
 
-### [SAS~Regina.private](/_private/Earth/Continent/America~North/Canada/provinces~Canada/Saskatchewan/City/SAS~Regina.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~North/Canada/provinces~Canada/Saskatchewan/City/SAS~Regina.private|SAS~Regina.private]] 
 
-### [SAS~Regina.personal](/_personal/Earth/Continent/America~North/Canada/provinces~Canada/Saskatchewan/City/SAS~Regina.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~North/Canada/provinces~Canada/Saskatchewan/City/SAS~Regina.personal|SAS~Regina.personal]] 
 
-### [SAS~Regina.secret](/_secret/Earth/Continent/America~North/Canada/provinces~Canada/Saskatchewan/City/SAS~Regina.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~North/Canada/provinces~Canada/Saskatchewan/City/SAS~Regina.secret|SAS~Regina.secret]] 
 

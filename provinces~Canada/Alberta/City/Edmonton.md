@@ -14,15 +14,21 @@ tags:
 SpocWebEntityId: 36116
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../Geography/Place]]"
+dv_has_place_longitude: -113.5167
+dv_has_place_latitude: 53.56667
+dv_name: Edmonton
+dv_Country: "[[../../../../Canada]]"
+dv_StateId: 36003
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-113.5167] 
-[has_place_latitude::53.56667] 
-[name::Edmonton] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[../../../../Canada]]  
-[StateId::36003] 
+Country = `=this.dv_Country`
+StateId = `=this.dv_StateId` 
 [Population::] 
 
 
@@ -38,17 +44,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Edmonton](/_Standards/Earth/Continent/America~North/Canada/provinces~Canada/Alberta/City/Edmonton.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~North/Canada/provinces~Canada/Alberta/City/Edmonton|Edmonton]] 
 
-### [Edmonton.public](/_public/Earth/Continent/America~North/Canada/provinces~Canada/Alberta/City/Edmonton.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~North/Canada/provinces~Canada/Alberta/City/Edmonton.public|Edmonton.public]] 
 
-### [Edmonton.internal](/_internal/Earth/Continent/America~North/Canada/provinces~Canada/Alberta/City/Edmonton.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~North/Canada/provinces~Canada/Alberta/City/Edmonton.internal|Edmonton.internal]] 
 
-### [Edmonton.protect](/_protect/Earth/Continent/America~North/Canada/provinces~Canada/Alberta/City/Edmonton.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~North/Canada/provinces~Canada/Alberta/City/Edmonton.protect|Edmonton.protect]] 
 
-### [Edmonton.private](/_private/Earth/Continent/America~North/Canada/provinces~Canada/Alberta/City/Edmonton.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~North/Canada/provinces~Canada/Alberta/City/Edmonton.private|Edmonton.private]] 
 
-### [Edmonton.personal](/_personal/Earth/Continent/America~North/Canada/provinces~Canada/Alberta/City/Edmonton.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~North/Canada/provinces~Canada/Alberta/City/Edmonton.personal|Edmonton.personal]] 
 
-### [Edmonton.secret](/_secret/Earth/Continent/America~North/Canada/provinces~Canada/Alberta/City/Edmonton.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~North/Canada/provinces~Canada/Alberta/City/Edmonton.secret|Edmonton.secret]] 
 

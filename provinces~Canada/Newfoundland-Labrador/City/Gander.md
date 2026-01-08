@@ -14,15 +14,21 @@ tags:
 SpocWebEntityId: 30354
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../Geography/Place]]"
+dv_has_place_longitude: -54.6
+dv_has_place_latitude: 49
+dv_name: Gander
+dv_Country: "[[../../../../Canada]]"
+dv_StateId: 36007
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-54.6] 
-[has_place_latitude::49] 
-[name::Gander] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[../../../../Canada]]  
-[StateId::36007] 
+Country = `=this.dv_Country`
+StateId = `=this.dv_StateId` 
 [Population::] 
 
 
@@ -38,17 +44,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Gander](/_Standards/Earth/Continent/America~North/Canada/provinces~Canada/Newfoundland-Labrador/City/Gander.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~North/Canada/provinces~Canada/Newfoundland-Labrador/City/Gander|Gander]] 
 
-### [Gander.public](/_public/Earth/Continent/America~North/Canada/provinces~Canada/Newfoundland-Labrador/City/Gander.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~North/Canada/provinces~Canada/Newfoundland-Labrador/City/Gander.public|Gander.public]] 
 
-### [Gander.internal](/_internal/Earth/Continent/America~North/Canada/provinces~Canada/Newfoundland-Labrador/City/Gander.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~North/Canada/provinces~Canada/Newfoundland-Labrador/City/Gander.internal|Gander.internal]] 
 
-### [Gander.protect](/_protect/Earth/Continent/America~North/Canada/provinces~Canada/Newfoundland-Labrador/City/Gander.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~North/Canada/provinces~Canada/Newfoundland-Labrador/City/Gander.protect|Gander.protect]] 
 
-### [Gander.private](/_private/Earth/Continent/America~North/Canada/provinces~Canada/Newfoundland-Labrador/City/Gander.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~North/Canada/provinces~Canada/Newfoundland-Labrador/City/Gander.private|Gander.private]] 
 
-### [Gander.personal](/_personal/Earth/Continent/America~North/Canada/provinces~Canada/Newfoundland-Labrador/City/Gander.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~North/Canada/provinces~Canada/Newfoundland-Labrador/City/Gander.personal|Gander.personal]] 
 
-### [Gander.secret](/_secret/Earth/Continent/America~North/Canada/provinces~Canada/Newfoundland-Labrador/City/Gander.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~North/Canada/provinces~Canada/Newfoundland-Labrador/City/Gander.secret|Gander.secret]] 
 

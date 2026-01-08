@@ -1,7 +1,12 @@
+---
+dv_is_:
+  same_as: "[[../../../../../../WikiData/WD~Labrador_Sea,184189]]"
+dv_is_same_as: "[[../../../../../../WikiData/WD~Labrador_Sea,184189]]"
+---
 
 # [[Labrador_Sea]] 
 
-#is_/same_as :: [[WD~Labrador_Sea,184189]] 
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/text_of_/abstract 
 
@@ -21,4 +26,21 @@
 > a cold water mass that flows at great depth along the western edge of the North Atlantic.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Labrador%20Sea) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~North/Canada/provinces~Canada/Newfoundland-Labrador/Labrador_Sea|Labrador_Sea]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/America~North/Canada/provinces~Canada/Newfoundland-Labrador/Labrador_Sea.public|Labrador_Sea.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/America~North/Canada/provinces~Canada/Newfoundland-Labrador/Labrador_Sea.internal|Labrador_Sea.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/America~North/Canada/provinces~Canada/Newfoundland-Labrador/Labrador_Sea.protect|Labrador_Sea.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/America~North/Canada/provinces~Canada/Newfoundland-Labrador/Labrador_Sea.private|Labrador_Sea.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/America~North/Canada/provinces~Canada/Newfoundland-Labrador/Labrador_Sea.personal|Labrador_Sea.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/America~North/Canada/provinces~Canada/Newfoundland-Labrador/Labrador_Sea.secret|Labrador_Sea.secret]] 
 

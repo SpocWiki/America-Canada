@@ -7,80 +7,80 @@ aliases:
   - Trudeau,Pierre
 has_id_wikidata: Q8619
 occupation:
-  - '[[_Standards/WikiData/WD~politician,82955]]'
-  - '[[_Standards/WikiData/WD~jurist,185351]]'
-  - '[[_Standards/WikiData/WD~journalist,1930187]]'
-  - '[[_Standards/WikiData/WD~memoirist,11774156]]'
-  - '[[_Standards/WikiData/WD~diarist,18939491]]'
-  - '[[_Standards/WikiData/WD~law_professor,63677188]]'
-  - '[[_Standards/WikiData/WD~judge,16533]]'
-  - '[[_Standards/WikiData/WD~writer,36180]]'
-  - '[[_Standards/WikiData/WD~teacher,37226]]'
-  - '[[_Standards/WikiData/WD~lawyer,40348]]'
+  - "[[_Standards/WikiData/WD~politician,82955]]"
+  - "[[_Standards/WikiData/WD~jurist,185351]]"
+  - "[[_Standards/WikiData/WD~journalist,1930187]]"
+  - "[[_Standards/WikiData/WD~memoirist,11774156]]"
+  - "[[_Standards/WikiData/WD~diarist,18939491]]"
+  - "[[_Standards/WikiData/WD~law_professor,63677188]]"
+  - "[[_Standards/WikiData/WD~judge,16533]]"
+  - "[[_Standards/WikiData/WD~writer,36180]]"
+  - "[[_Standards/WikiData/WD~teacher,37226]]"
+  - "[[_Standards/WikiData/WD~lawyer,40348]]"
 member_of:
-  - '[[_Standards/WikiData/WD~Royal_Society_of_Canada,94301]]'
-  - '[[_Standards/WikiData/WD~Club_of_Rome,107569]]'
-member_of_political_party: '[[_Standards/WikiData/WD~Liberal_Party_of_Canada,138345]]'
+  - "[[_Standards/WikiData/WD~Royal_Society_of_Canada,94301]]"
+  - "[[_Standards/WikiData/WD~Club_of_Rome,107569]]"
+member_of_political_party: "[[_Standards/WikiData/WD~Liberal_Party_of_Canada,138345]]"
 educated_at:
-  - '[[_Standards/WikiData/WD~London_School_of_Economics_and_Political_Science,174570]]'
-  - '[[_Standards/WikiData/WD~Sciences_Po,859363]]'
-  - '[[_Standards/WikiData/WD~Collège_Jean_de_Brébeuf,2983603]]'
+  - "[[_Standards/WikiData/WD~London_School_of_Economics_and_Political_Science,174570]]"
+  - "[[_Standards/WikiData/WD~Sciences_Po,859363]]"
+  - "[[_Standards/WikiData/WD~Collège_Jean_de_Brébeuf,2983603]]"
   - "[[_Standards/WikiData/WD~Faculté_de_droit_de_l'Université_de_Montréal,3064263]]"
-  - '[[_Standards/WikiData/WD~John_F._Kennedy_School_of_Government,49127]]'
+  - "[[_Standards/WikiData/WD~John_F._Kennedy_School_of_Government,49127]]"
 cause_of_death:
-  - '[[_Standards/WikiData/WD~prostate_cancer,181257]]'
-  - '[[_Standards/WikiData/WD~disease,12136]]'
+  - "[[_Standards/WikiData/WD~prostate_cancer,181257]]"
+  - "[[_Standards/WikiData/WD~disease,12136]]"
 family_name:
-  - '[[_Standards/WikiData/WD~Trudeau,420703]]'
-  - '[[_Standards/WikiData/WD~Elliott,21449521]]'
+  - "[[_Standards/WikiData/WD~Trudeau,420703]]"
+  - "[[_Standards/WikiData/WD~Elliott,21449521]]"
 position_held:
-  - '[[_Standards/WikiData/WD~Prime_Minister_of_Canada,839078]]'
-  - '[[_Standards/WikiData/WD~Leader_of_the_Official_Opposition,2506651]]'
+  - "[[_Standards/WikiData/WD~Prime_Minister_of_Canada,839078]]"
+  - "[[_Standards/WikiData/WD~Leader_of_the_Official_Opposition,2506651]]"
   - "[[_Standards/WikiData/WD~President_of_the_King's_Privy_Council_for_Canada,3253693]]"
-  - '[[_Standards/WikiData/WD~Minister_of_Justice_and_Attorney_General_of_Canada,3315120]]'
-  - '[[_Standards/WikiData/WD~Leader_of_the_Liberal_Party_of_Canada,12047953]]'
-  - '[[_Standards/WikiData/WD~member_of_the_House_of_Commons_of_Canada,15964890]]'
+  - "[[_Standards/WikiData/WD~Minister_of_Justice_and_Attorney_General_of_Canada,3315120]]"
+  - "[[_Standards/WikiData/WD~Leader_of_the_Liberal_Party_of_Canada,12047953]]"
+  - "[[_Standards/WikiData/WD~member_of_the_House_of_Commons_of_Canada,15964890]]"
 award_received:
-  - '[[_Standards/WikiData/WD~Albert_Einstein_Peace_Prize,1670676]]'
-  - '[[_Standards/WikiData/WD~Queen_Elizabeth_II_Silver_Jubilee_Medal,2059227]]'
-  - '[[_Standards/WikiData/WD~Person_of_National_Historic_Significance,3253120]]'
-  - '[[_Standards/WikiData/WD~Canadian_Newsmaker_of_the_Year,5030382]]'
-  - '[[_Standards/WikiData/WD~Companion_of_the_Order_of_Canada,15278107]]'
-  - '[[_Standards/WikiData/WD~Companion_of_Honour,16947520]]'
-  - '[[_Standards/WikiData/WD~doctor_honoris_causa_of_Keiō_University,60658956]]'
-  - '[[_Standards/WikiData/WD~Honorary_doctor_of_the_University_of_Ottawa,62592341]]'
-  - '[[_Standards/WikiData/WD~honorary_doctor_of_the_University_of_Poitiers,112134244]]'
+  - "[[_Standards/WikiData/WD~Albert_Einstein_Peace_Prize,1670676]]"
+  - "[[_Standards/WikiData/WD~Queen_Elizabeth_II_Silver_Jubilee_Medal,2059227]]"
+  - "[[_Standards/WikiData/WD~Person_of_National_Historic_Significance,3253120]]"
+  - "[[_Standards/WikiData/WD~Canadian_Newsmaker_of_the_Year,5030382]]"
+  - "[[_Standards/WikiData/WD~Companion_of_the_Order_of_Canada,15278107]]"
+  - "[[_Standards/WikiData/WD~Companion_of_Honour,16947520]]"
+  - "[[_Standards/WikiData/WD~doctor_honoris_causa_of_Keiō_University,60658956]]"
+  - "[[_Standards/WikiData/WD~Honorary_doctor_of_the_University_of_Ottawa,62592341]]"
+  - "[[_Standards/WikiData/WD~honorary_doctor_of_the_University_of_Poitiers,112134244]]"
 given_name:
-  - '[[_Standards/WikiData/WD~Pierre,2093070]]'
-  - '[[_Standards/WikiData/WD~Elliott,19826119]]'
+  - "[[_Standards/WikiData/WD~Pierre,2093070]]"
+  - "[[_Standards/WikiData/WD~Elliott,19826119]]"
 child:
-  - '[[_Standards/WikiData/WD~Justin_Trudeau,3099714]]'
-  - '[[_Standards/WikiData/WD~Alexandre_Trudeau,4720909]]'
-  - '[[_Standards/WikiData/WD~Michel_Trudeau,5232929]]'
-  - '[[_Standards/WikiData/WD~Sarah_Coyne,21191637]]'
-spouse: '[[_Standards/WikiData/WD~Margaret_Trudeau,3290526]]'
-manner_of_death: '[[_Standards/WikiData/WD~natural_causes,3739104]]'
-father: '[[_Standards/WikiData/WD~Charles_Trudeau,5083036]]'
-military_or_police_rank: '[[_Standards/WikiData/WD~officer_cadet,6497929]]'
-sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
-place_of_burial: '[[_Standards/WikiData/WD~St_Rémi_de_Napierville_Cemetery,7586656]]'
-family: '[[_Standards/WikiData/WD~Trudeau_family,30130299]]'
-described_by_source: '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
-sibling: '[[_Standards/WikiData/WD~Charles_Elliott_Trudeau,71286643]]'
-copyright_status_as_a_creator: '[[_Standards/WikiData/WD~works_protected_by_copyrights,73555012]]'
-mother: '[[_Standards/WikiData/WD~Grace_Elliott,96234851]]'
-place_of_death: '[[_Standards/WikiData/WD~Montreal,340]]'
-place_of_birth: '[[_Standards/WikiData/WD~Montreal,340]]'
-religion_or_worldview: '[[_Standards/WikiData/WD~Catholicism,1841]]'
+  - "[[_Standards/WikiData/WD~Justin_Trudeau,3099714]]"
+  - "[[_Standards/WikiData/WD~Alexandre_Trudeau,4720909]]"
+  - "[[_Standards/WikiData/WD~Michel_Trudeau,5232929]]"
+  - "[[_Standards/WikiData/WD~Sarah_Coyne,21191637]]"
+spouse: "[[_Standards/WikiData/WD~Margaret_Trudeau,3290526]]"
+manner_of_death: "[[_Standards/WikiData/WD~natural_causes,3739104]]"
+father: "[[_Standards/WikiData/WD~Charles_Trudeau,5083036]]"
+military_or_police_rank: "[[_Standards/WikiData/WD~officer_cadet,6497929]]"
+sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
+place_of_burial: "[[_Standards/WikiData/WD~St_Rémi_de_Napierville_Cemetery,7586656]]"
+family: "[[_Standards/WikiData/WD~Trudeau_family,30130299]]"
+described_by_source: "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
+sibling: "[[_Standards/WikiData/WD~Charles_Elliott_Trudeau,71286643]]"
+copyright_status_as_a_creator: "[[_Standards/WikiData/WD~works_protected_by_copyrights,73555012]]"
+mother: "[[_Standards/WikiData/WD~Grace_Elliott,96234851]]"
+place_of_death: "[[_Standards/WikiData/WD~Montreal,340]]"
+place_of_birth: "[[_Standards/WikiData/WD~Montreal,340]]"
+religion_or_worldview: "[[_Standards/WikiData/WD~Catholicism,1841]]"
 languages_spoken_written_or_signed:
-  - '[[_Standards/WikiData/WD~English,1860]]'
-  - '[[_Standards/WikiData/WD~French,150]]'
-work_location: '[[_Standards/WikiData/WD~Ottawa,1930]]'
+  - "[[_Standards/WikiData/WD~English,1860]]"
+  - "[[_Standards/WikiData/WD~French,150]]"
+work_location: "[[_Standards/WikiData/WD~Ottawa,1930]]"
 medical_condition: "[[_Standards/WikiData/WD~Parkinson's_disease,11085]]"
 has_works_in_the_collection: "[[_Standards/WikiData/WD~Musée_d'Orsay,23402]]"
-instance_of: '[[_Standards/WikiData/WD~human,5]]'
-country_of_citizenship: '[[_Standards/WikiData/WD~Canada,16]]'
-native_language: '[[_Standards/WikiData/WD~French,150]]'
+instance_of: "[[_Standards/WikiData/WD~human,5]]"
+country_of_citizenship: "[[_Standards/WikiData/WD~Canada,16]]"
+native_language: "[[_Standards/WikiData/WD~French,150]]"
 height: 1.72
 Commons_category: Pierre Elliott Trudeau
 name_in_native_language: Pierre Elliott Trudeau
@@ -92,15 +92,18 @@ spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/En-Pierre%
 signature: http://commons.wikimedia.org/wiki/Special:FilePath/Pierre%20Trudeau%20Signature%202.svg
 audio_recording_of_the_subject_s_spoken_voice: http://commons.wikimedia.org/wiki/Special:FilePath/Pierre%20Trudeau%20voice.ogg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Prime%20Minister%20Pierre%20Trudeau%201975%20%28UPI%20press%20photo%29%20%28cropped%29.jpg
-ISNI: 0000000110214967
+ISNI: 110214967
 Krugosvet_article_archived_: istoriya/TRYUDO_PER_ELLIOT.html
 name_in_kana: トリュドー
 birth_name: Joseph Philippe Pierre Yves Elliott Trudeau
+dv_is_:
+  same_as: "[[../../../../../WikiData/WD~Pierre_Trudeau,8619]]"
+dv_is_same_as: "[[../../../../../WikiData/WD~Pierre_Trudeau,8619]]"
 ---
 
 # [[Trudeau,Pierre]] 
 
-#is_/same_as :: [[WD~Pierre_Trudeau,8619]] 
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/text_of_/abstract 
 
@@ -124,4 +127,21 @@ birth_name: Joseph Philippe Pierre Yves Elliott Trudeau
 > In his retirement, Trudeau practised law at the Montreal law firm of Heenan Blaikie. He also spoke out against the Meech Lake and Charlottetown accords (which proposed granting Quebec certain concessions), arguing they would strengthen Quebec nationalism. Trudeau died in 2000. He is ranked highly among scholars in rankings of Canadian prime ministers, though he remains a divisive figure in Canadian politics. Critics accused him of arrogance, economic mismanagement, and unduly centralizing Canadian decision-making to the detriment of the culture of Quebec and the economy of the Prairies, while admirers praised what they considered to be the force of his intellect and his political acumen which maintained national unity throughout the Quebec sovereignty movement. Trudeau's eldest son, Justin Trudeau, served as the 23rd prime minister of Canada from 2015 to 2025, and was the first prime minister of Canada to be the child of a previous prime minister.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Pierre%20Trudeau) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~North/Canada/History_of_Canada/Trudeau,Pierre|Trudeau,Pierre]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/America~North/Canada/History_of_Canada/Trudeau,Pierre.public|Trudeau,Pierre.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/America~North/Canada/History_of_Canada/Trudeau,Pierre.internal|Trudeau,Pierre.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/America~North/Canada/History_of_Canada/Trudeau,Pierre.protect|Trudeau,Pierre.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/America~North/Canada/History_of_Canada/Trudeau,Pierre.private|Trudeau,Pierre.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/America~North/Canada/History_of_Canada/Trudeau,Pierre.personal|Trudeau,Pierre.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/America~North/Canada/History_of_Canada/Trudeau,Pierre.secret|Trudeau,Pierre.secret]] 
 

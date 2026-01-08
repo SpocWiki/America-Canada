@@ -32,17 +32,17 @@
 
 ## Confidential Links & Embeds: 
 
-### [Calgary](/_Standards/Earth/Continent/America~North/Canada/provinces~Canada/Alberta/City/Calgary.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~North/Canada/provinces~Canada/Alberta/City/Calgary|Calgary]] 
 
-### [Calgary.public](/_public/Earth/Continent/America~North/Canada/provinces~Canada/Alberta/City/Calgary.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~North/Canada/provinces~Canada/Alberta/City/Calgary.public|Calgary.public]] 
 
-### [Calgary.internal](/_internal/Earth/Continent/America~North/Canada/provinces~Canada/Alberta/City/Calgary.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~North/Canada/provinces~Canada/Alberta/City/Calgary.internal|Calgary.internal]] 
 
-### [Calgary.protect](/_protect/Earth/Continent/America~North/Canada/provinces~Canada/Alberta/City/Calgary.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~North/Canada/provinces~Canada/Alberta/City/Calgary.protect|Calgary.protect]] 
 
-### [Calgary.private](/_private/Earth/Continent/America~North/Canada/provinces~Canada/Alberta/City/Calgary.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~North/Canada/provinces~Canada/Alberta/City/Calgary.private|Calgary.private]] 
 
-### [Calgary.personal](/_personal/Earth/Continent/America~North/Canada/provinces~Canada/Alberta/City/Calgary.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~North/Canada/provinces~Canada/Alberta/City/Calgary.personal|Calgary.personal]] 
 
-### [Calgary.secret](/_secret/Earth/Continent/America~North/Canada/provinces~Canada/Alberta/City/Calgary.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~North/Canada/provinces~Canada/Alberta/City/Calgary.secret|Calgary.secret]] 
 

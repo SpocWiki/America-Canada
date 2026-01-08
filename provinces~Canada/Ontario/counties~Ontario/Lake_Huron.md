@@ -68,11 +68,14 @@ locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Great%20La
 bathymetry_image: http://commons.wikimedia.org/wiki/Special:FilePath/Lake%20Huron%20bathymetry%20map.png
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Lake%20Huron%20in%20winter.jpg
 Commons_category: Lake Huron
+dv_is_:
+  same_as: "[[../../../../../../../WikiData/WD~Lake_Huron,1383]]"
+dv_is_same_as: "[[../../../../../../../WikiData/WD~Lake_Huron,1383]]"
 ---
 
 # [[Lake_Huron]] 
 
-#is_/same_as :: [[WD~Lake_Huron,1383]] 
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/map 
 
@@ -100,3 +103,21 @@ markerFile: [[Lake_Huron]]
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Lake%20Huron) 
 > 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~North/Canada/provinces~Canada/Ontario/counties~Ontario/Lake_Huron|Lake_Huron]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/America~North/Canada/provinces~Canada/Ontario/counties~Ontario/Lake_Huron.public|Lake_Huron.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/America~North/Canada/provinces~Canada/Ontario/counties~Ontario/Lake_Huron.internal|Lake_Huron.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/America~North/Canada/provinces~Canada/Ontario/counties~Ontario/Lake_Huron.protect|Lake_Huron.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/America~North/Canada/provinces~Canada/Ontario/counties~Ontario/Lake_Huron.private|Lake_Huron.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/America~North/Canada/provinces~Canada/Ontario/counties~Ontario/Lake_Huron.personal|Lake_Huron.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/America~North/Canada/provinces~Canada/Ontario/counties~Ontario/Lake_Huron.secret|Lake_Huron.secret]] 
+

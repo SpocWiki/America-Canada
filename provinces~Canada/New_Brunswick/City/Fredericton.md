@@ -14,15 +14,21 @@ tags:
 SpocWebEntityId: 36120
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../Geography/Place]]"
+dv_has_place_longitude: -66.66666
+dv_has_place_latitude: 45.95
+dv_name: Fredericton
+dv_Country: "[[../../../../Canada]]"
+dv_StateId: 36006
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-66.66666] 
-[has_place_latitude::45.95] 
-[name::Fredericton] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[../../../../Canada]]  
-[StateId::36006] 
+Country = `=this.dv_Country`
+StateId = `=this.dv_StateId` 
 [Population::] 
 
 
@@ -38,17 +44,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Fredericton](/_Standards/Earth/Continent/America~North/Canada/provinces~Canada/New_Brunswick/City/Fredericton.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~North/Canada/provinces~Canada/New_Brunswick/City/Fredericton|Fredericton]] 
 
-### [Fredericton.public](/_public/Earth/Continent/America~North/Canada/provinces~Canada/New_Brunswick/City/Fredericton.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~North/Canada/provinces~Canada/New_Brunswick/City/Fredericton.public|Fredericton.public]] 
 
-### [Fredericton.internal](/_internal/Earth/Continent/America~North/Canada/provinces~Canada/New_Brunswick/City/Fredericton.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~North/Canada/provinces~Canada/New_Brunswick/City/Fredericton.internal|Fredericton.internal]] 
 
-### [Fredericton.protect](/_protect/Earth/Continent/America~North/Canada/provinces~Canada/New_Brunswick/City/Fredericton.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~North/Canada/provinces~Canada/New_Brunswick/City/Fredericton.protect|Fredericton.protect]] 
 
-### [Fredericton.private](/_private/Earth/Continent/America~North/Canada/provinces~Canada/New_Brunswick/City/Fredericton.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~North/Canada/provinces~Canada/New_Brunswick/City/Fredericton.private|Fredericton.private]] 
 
-### [Fredericton.personal](/_personal/Earth/Continent/America~North/Canada/provinces~Canada/New_Brunswick/City/Fredericton.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~North/Canada/provinces~Canada/New_Brunswick/City/Fredericton.personal|Fredericton.personal]] 
 
-### [Fredericton.secret](/_secret/Earth/Continent/America~North/Canada/provinces~Canada/New_Brunswick/City/Fredericton.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~North/Canada/provinces~Canada/New_Brunswick/City/Fredericton.secret|Fredericton.secret]] 
 

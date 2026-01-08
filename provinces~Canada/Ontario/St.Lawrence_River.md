@@ -228,12 +228,17 @@ native_label:
   - Wepistukujaw Sipo
   - Roiatatokenti
   - Lada8anna
-Wolfram_Language_entity_code: Entity["River", "SaintLawrenceRiver::m24sn"]
+Wolfram_Language_entity_code: Entity"River", "SaintLawrenceRiver = `=this.dv_"River", "SaintLawrenceRiver`
+dv_"River", "SaintLawrenceRiver: m24sn"
+dv_is_:
+  same_as: "[[../../../../../../WikiData/WD~St._Lawrence_River,134750|WD~St._Lawrence_River,134750]]"
+dv_river-saintlawrenceriver: m24sn"
+dv_is_same_as: "[[../../../../../../WikiData/WD~St._Lawrence_River,134750|WD~St._Lawrence_River,134750]]"
 ---
 
 # [[St.Lawrence_River]] 
 
-#is_/same_as :: [[../../../../../../WikiData/WD~St._Lawrence_River,134750|WD~St._Lawrence_River,134750]]  
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/text_of_/abstract 
 
@@ -265,4 +270,21 @@ Wolfram_Language_entity_code: Entity["River", "SaintLawrenceRiver::m24sn"]
 > to access the inland ports of the Great Lakes Waterway.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/St.%20Lawrence%20River) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~North/Canada/provinces~Canada/Ontario/St.Lawrence_River|St.Lawrence_River]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/America~North/Canada/provinces~Canada/Ontario/St.Lawrence_River.public|St.Lawrence_River.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/America~North/Canada/provinces~Canada/Ontario/St.Lawrence_River.internal|St.Lawrence_River.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/America~North/Canada/provinces~Canada/Ontario/St.Lawrence_River.protect|St.Lawrence_River.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/America~North/Canada/provinces~Canada/Ontario/St.Lawrence_River.private|St.Lawrence_River.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/America~North/Canada/provinces~Canada/Ontario/St.Lawrence_River.personal|St.Lawrence_River.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/America~North/Canada/provinces~Canada/Ontario/St.Lawrence_River.secret|St.Lawrence_River.secret]] 
 

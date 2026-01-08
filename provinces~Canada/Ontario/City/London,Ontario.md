@@ -28,17 +28,17 @@
 
 ## Confidential Links & Embeds: 
 
-### [London,Ontario](/_Standards/Earth/Continent/America~North/Canada/provinces~Canada/Ontario/City/London,Ontario.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~North/Canada/provinces~Canada/Ontario/City/London,Ontario|London,Ontario]] 
 
-### [London,Ontario.public](/_public/Earth/Continent/America~North/Canada/provinces~Canada/Ontario/City/London,Ontario.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~North/Canada/provinces~Canada/Ontario/City/London,Ontario.public|London,Ontario.public]] 
 
-### [London,Ontario.internal](/_internal/Earth/Continent/America~North/Canada/provinces~Canada/Ontario/City/London,Ontario.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~North/Canada/provinces~Canada/Ontario/City/London,Ontario.internal|London,Ontario.internal]] 
 
-### [London,Ontario.protect](/_protect/Earth/Continent/America~North/Canada/provinces~Canada/Ontario/City/London,Ontario.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~North/Canada/provinces~Canada/Ontario/City/London,Ontario.protect|London,Ontario.protect]] 
 
-### [London,Ontario.private](/_private/Earth/Continent/America~North/Canada/provinces~Canada/Ontario/City/London,Ontario.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~North/Canada/provinces~Canada/Ontario/City/London,Ontario.private|London,Ontario.private]] 
 
-### [London,Ontario.personal](/_personal/Earth/Continent/America~North/Canada/provinces~Canada/Ontario/City/London,Ontario.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~North/Canada/provinces~Canada/Ontario/City/London,Ontario.personal|London,Ontario.personal]] 
 
-### [London,Ontario.secret](/_secret/Earth/Continent/America~North/Canada/provinces~Canada/Ontario/City/London,Ontario.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~North/Canada/provinces~Canada/Ontario/City/London,Ontario.secret|London,Ontario.secret]] 
 

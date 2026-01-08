@@ -1,7 +1,12 @@
+---
+dv_is_:
+  same_as: "[[../../../../../../WikiData/WD~Wood_Buffalo_National_Park,391338]]"
+dv_is_same_as: "[[../../../../../../WikiData/WD~Wood_Buffalo_National_Park,391338]]"
+---
 
 # [[Wood_Buffalo_National_Park]] 
 
-#is_/same_as :: [[WD~Wood_Buffalo_National_Park,391338]] 
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/text_of_/abstract 
 
@@ -22,4 +27,21 @@
 > On June 28, 2013, the Royal Astronomical Society of Canada designated Wood Buffalo National Park as Canada's newest and the world's largest dark-sky preserve. The designation helps preserve nighttime ecology for the park's large populations of bats, night hawks and owls, as well as providing opportunities for visitors to experience the northern lights.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Wood%20Buffalo%20National%20Park) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~North/Canada/provinces~Canada/Alberta/Wood_Buffalo_National_Park|Wood_Buffalo_National_Park]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/America~North/Canada/provinces~Canada/Alberta/Wood_Buffalo_National_Park.public|Wood_Buffalo_National_Park.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/America~North/Canada/provinces~Canada/Alberta/Wood_Buffalo_National_Park.internal|Wood_Buffalo_National_Park.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/America~North/Canada/provinces~Canada/Alberta/Wood_Buffalo_National_Park.protect|Wood_Buffalo_National_Park.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/America~North/Canada/provinces~Canada/Alberta/Wood_Buffalo_National_Park.private|Wood_Buffalo_National_Park.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/America~North/Canada/provinces~Canada/Alberta/Wood_Buffalo_National_Park.personal|Wood_Buffalo_National_Park.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/America~North/Canada/provinces~Canada/Alberta/Wood_Buffalo_National_Park.secret|Wood_Buffalo_National_Park.secret]] 
 

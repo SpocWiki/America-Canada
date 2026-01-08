@@ -1,4 +1,13 @@
-﻿---
+---
+dv_name: Yukon Territory
+dv_name-abbr: YKT
+dv_is_a_: "[[../../../../Geography/Place]]"
+dv_has_place_longitude: -135.05
+dv_has_place_latitude: 60.7167
+dv_is_:
+  same_as: "[[_Standards/WikiData/WD~Yukon,2009]]"
+dv_is_same_as: "[[_Standards/WikiData/WD~Yukon,2009]]"
+
 has_time_started: 1898-01-01 
 aliases:
   - Yukon
@@ -135,17 +144,17 @@ P8189: 987013003072505171
 
 # [[Yukon_Territory]]
 
-[name::Yukon Territory] 
-[name-abbr::YKT] 
+name = `=this.dv_name` 
+name-abbr = `=this.dv_name-abbr` 
 Country :: [[../../Canada]]  
 Capital :: [[Yukon_Territory/City/Whitehorse]]  
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-135.05] 
-[has_place_latitude::60.7167] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
 [Population::] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Yukon,2009]] 
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/map 
 
@@ -173,19 +182,20 @@ maxZoom: 18
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Yukon 
 
+
 ## Confidential Links & Embeds: 
 
-### [Yukon_Territory](/_Standards/Earth/Continent/America~North/Canada/provinces~Canada/Yukon_Territory.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~North/Canada/provinces~Canada/Yukon_Territory|Yukon_Territory]] 
 
-### [Yukon_Territory.public](/_public/Earth/Continent/America~North/Canada/provinces~Canada/Yukon_Territory.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~North/Canada/provinces~Canada/Yukon_Territory.public|Yukon_Territory.public]] 
 
-### [Yukon_Territory.internal](/_internal/Earth/Continent/America~North/Canada/provinces~Canada/Yukon_Territory.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~North/Canada/provinces~Canada/Yukon_Territory.internal|Yukon_Territory.internal]] 
 
-### [Yukon_Territory.protect](/_protect/Earth/Continent/America~North/Canada/provinces~Canada/Yukon_Territory.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~North/Canada/provinces~Canada/Yukon_Territory.protect|Yukon_Territory.protect]] 
 
-### [Yukon_Territory.private](/_private/Earth/Continent/America~North/Canada/provinces~Canada/Yukon_Territory.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~North/Canada/provinces~Canada/Yukon_Territory.private|Yukon_Territory.private]] 
 
-### [Yukon_Territory.personal](/_personal/Earth/Continent/America~North/Canada/provinces~Canada/Yukon_Territory.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~North/Canada/provinces~Canada/Yukon_Territory.personal|Yukon_Territory.personal]] 
 
-### [Yukon_Territory.secret](/_secret/Earth/Continent/America~North/Canada/provinces~Canada/Yukon_Territory.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~North/Canada/provinces~Canada/Yukon_Territory.secret|Yukon_Territory.secret]] 
 

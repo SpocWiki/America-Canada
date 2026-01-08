@@ -1,4 +1,8 @@
-﻿---
+---
+dv_is_:
+  same_as: "[[_Standards/WikiData/WD~Kelowna,232226]]"
+dv_is_same_as: "[[_Standards/WikiData/WD~Kelowna,232226]]"
+
 has_time_started: 1879-01-01 
 aliases:
 has_id_wikidata: Q232226
@@ -38,7 +42,7 @@ coordinate_location: Point(-119.4436 49.8801)
 
 # [[Kelowna]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Kelowna,232226]] 
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/text_of_/abstract 
 
@@ -53,4 +57,21 @@ coordinate_location: Point(-119.4436 49.8801)
 > Nearby communities include the City of West Kelowna (also referred to as Westbank and Westside) to the west, across Okanagan Lake; Lake Country and Vernon to the north; Peachland to the southwest; and Summerland and Penticton to the south.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Kelowna) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~North/Canada/provinces~Canada/British_Columbia/counties~British_Columbia/Central_Okanagan/cities~Central_Okanagan/Kelowna|Kelowna]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/America~North/Canada/provinces~Canada/British_Columbia/counties~British_Columbia/Central_Okanagan/cities~Central_Okanagan/Kelowna.public|Kelowna.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/America~North/Canada/provinces~Canada/British_Columbia/counties~British_Columbia/Central_Okanagan/cities~Central_Okanagan/Kelowna.internal|Kelowna.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/America~North/Canada/provinces~Canada/British_Columbia/counties~British_Columbia/Central_Okanagan/cities~Central_Okanagan/Kelowna.protect|Kelowna.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/America~North/Canada/provinces~Canada/British_Columbia/counties~British_Columbia/Central_Okanagan/cities~Central_Okanagan/Kelowna.private|Kelowna.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/America~North/Canada/provinces~Canada/British_Columbia/counties~British_Columbia/Central_Okanagan/cities~Central_Okanagan/Kelowna.personal|Kelowna.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/America~North/Canada/provinces~Canada/British_Columbia/counties~British_Columbia/Central_Okanagan/cities~Central_Okanagan/Kelowna.secret|Kelowna.secret]] 
 

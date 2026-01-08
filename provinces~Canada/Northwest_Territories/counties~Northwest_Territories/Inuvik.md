@@ -35,3 +35,20 @@ markerFile: [[Inuvik]]
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Inuvik) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~North/Canada/provinces~Canada/Northwest_Territories/counties~Northwest_Territories/Inuvik|Inuvik]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/America~North/Canada/provinces~Canada/Northwest_Territories/counties~Northwest_Territories/Inuvik.public|Inuvik.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/America~North/Canada/provinces~Canada/Northwest_Territories/counties~Northwest_Territories/Inuvik.internal|Inuvik.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/America~North/Canada/provinces~Canada/Northwest_Territories/counties~Northwest_Territories/Inuvik.protect|Inuvik.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/America~North/Canada/provinces~Canada/Northwest_Territories/counties~Northwest_Territories/Inuvik.private|Inuvik.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/America~North/Canada/provinces~Canada/Northwest_Territories/counties~Northwest_Territories/Inuvik.personal|Inuvik.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/America~North/Canada/provinces~Canada/Northwest_Territories/counties~Northwest_Territories/Inuvik.secret|Inuvik.secret]] 
+

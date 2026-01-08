@@ -1,4 +1,13 @@
-﻿---
+---
+dv_is_a_: "[[../../../../../../Geography/Place]]"
+dv_has_place_longitude: -79.37
+dv_has_place_latitude: 43.32
+dv_name: Toronto
+dv_StateId: 36009
+dv_is_:
+  same_as: "[[../../../../../../../WikiData/WD~Toronto,172|WD~Toronto,172]]"
+dv_is_same_as: "[[../../../../../../../WikiData/WD~Toronto,172|WD~Toronto,172]]"
+
 has_time_started: 1750-01-01 
 aliases:
 has_id_wikidata: Q172
@@ -204,15 +213,15 @@ coordinates_of_easternmost_point: Point(-79.11676 43.794794)
 # [[Toronto]] 
 
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-79.37] 
-[has_place_latitude::43.32] 
-[name::Toronto] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
 Country :: [[../../../../Canada]]  
-[StateId::36009] 
+StateId = `=this.dv_StateId` 
 [Population::] 
-#is_/same_as :: [[../../../../../../../WikiData/WD~Toronto,172|WD~Toronto,172]] 
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/map 
 
@@ -267,21 +276,19 @@ minZoom: 4
 > [Wikipedia](https://en.wikipedia.org/wiki/Toronto) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Toronto](/_Standards/Earth/Continent/America~North/Canada/provinces~Canada/Ontario/City/Toronto.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~North/Canada/provinces~Canada/Ontario/counties~Ontario/Toronto|Toronto]] 
 
-### [Toronto.public](/_public/Earth/Continent/America~North/Canada/provinces~Canada/Ontario/City/Toronto.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~North/Canada/provinces~Canada/Ontario/counties~Ontario/Toronto.public|Toronto.public]] 
 
-### [Toronto.internal](/_internal/Earth/Continent/America~North/Canada/provinces~Canada/Ontario/City/Toronto.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~North/Canada/provinces~Canada/Ontario/counties~Ontario/Toronto.internal|Toronto.internal]] 
 
-### [Toronto.protect](/_protect/Earth/Continent/America~North/Canada/provinces~Canada/Ontario/City/Toronto.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~North/Canada/provinces~Canada/Ontario/counties~Ontario/Toronto.protect|Toronto.protect]] 
 
-### [Toronto.private](/_private/Earth/Continent/America~North/Canada/provinces~Canada/Ontario/City/Toronto.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~North/Canada/provinces~Canada/Ontario/counties~Ontario/Toronto.private|Toronto.private]] 
 
-### [Toronto.personal](/_personal/Earth/Continent/America~North/Canada/provinces~Canada/Ontario/City/Toronto.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~North/Canada/provinces~Canada/Ontario/counties~Ontario/Toronto.personal|Toronto.personal]] 
 
-### [Toronto.secret](/_secret/Earth/Continent/America~North/Canada/provinces~Canada/Ontario/City/Toronto.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~North/Canada/provinces~Canada/Ontario/counties~Ontario/Toronto.secret|Toronto.secret]] 
 

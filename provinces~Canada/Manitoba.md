@@ -1,4 +1,13 @@
-﻿---
+---
+dv_name: Manitoba
+dv_name-abbr: MAN
+dv_is_a_: "[[../../../../Geography/Place]]"
+dv_has_place_longitude: -97.1392
+dv_has_place_latitude: 49.8994
+dv_is_:
+  same_as: "[[_Standards/WikiData/WD~Manitoba,1948]]"
+dv_is_same_as: "[[_Standards/WikiData/WD~Manitoba,1948]]"
+
 has_time_started: 1870-07-15 
 aliases:
   - Manitoba
@@ -178,17 +187,17 @@ coordinates_of_southernmost_point: Point(-99.0 49.0)
 
 # [[Manitoba]] 
 
-[name::Manitoba] 
-[name-abbr::MAN] 
+name = `=this.dv_name` 
+name-abbr = `=this.dv_name-abbr` 
 Country :: [[../../Canada]]  
 Capital :: [[Manitoba/City/Winnipeg]]  
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-97.1392] 
-[has_place_latitude::49.8994] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
 [Population::] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Manitoba,1948]] 
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/map 
 
@@ -212,19 +221,20 @@ maxZoom: 18
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Manitoba) 
 
+
 ## Confidential Links & Embeds: 
 
-### [Manitoba](/_Standards/Earth/Continent/America~North/Canada/provinces~Canada/Manitoba.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~North/Canada/provinces~Canada/Manitoba|Manitoba]] 
 
-### [Manitoba.public](/_public/Earth/Continent/America~North/Canada/provinces~Canada/Manitoba.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~North/Canada/provinces~Canada/Manitoba.public|Manitoba.public]] 
 
-### [Manitoba.internal](/_internal/Earth/Continent/America~North/Canada/provinces~Canada/Manitoba.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~North/Canada/provinces~Canada/Manitoba.internal|Manitoba.internal]] 
 
-### [Manitoba.protect](/_protect/Earth/Continent/America~North/Canada/provinces~Canada/Manitoba.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~North/Canada/provinces~Canada/Manitoba.protect|Manitoba.protect]] 
 
-### [Manitoba.private](/_private/Earth/Continent/America~North/Canada/provinces~Canada/Manitoba.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~North/Canada/provinces~Canada/Manitoba.private|Manitoba.private]] 
 
-### [Manitoba.personal](/_personal/Earth/Continent/America~North/Canada/provinces~Canada/Manitoba.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~North/Canada/provinces~Canada/Manitoba.personal|Manitoba.personal]] 
 
-### [Manitoba.secret](/_secret/Earth/Continent/America~North/Canada/provinces~Canada/Manitoba.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~North/Canada/provinces~Canada/Manitoba.secret|Manitoba.secret]] 
 

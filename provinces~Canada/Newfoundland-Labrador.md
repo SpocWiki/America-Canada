@@ -1,4 +1,13 @@
-﻿---
+---
+dv_name: Newfoundland
+dv_name-abbr: NWF
+dv_is_a_: "[[../../../../Geography/Place]]"
+dv_has_place_longitude: -53.6536
+dv_has_place_latitude: 48.2838
+dv_is_:
+  same_as: "[[_Standards/WikiData/WD~Newfoundland_and_Labrador,2003]]"
+dv_is_same_as: "[[_Standards/WikiData/WD~Newfoundland_and_Labrador,2003]]"
+
 has_time_started: 1949-03-31 
 aliases:
   - Newfoundland-Labrador
@@ -136,17 +145,17 @@ coordinate_location: Point(-60.0 53.0)
 
 # [[Newfoundland-Labrador]] 
 
-[name::Newfoundland] 
-[name-abbr::NWF] 
+name = `=this.dv_name` 
+name-abbr = `=this.dv_name-abbr` 
 Country :: [[../../Canada]]  
 Capital :: [[Newfoundland-Labrador/City/NFD~St._Johns]]  
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-53.6536] 
-[has_place_latitude::48.2838] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
 [Population::] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Newfoundland_and_Labrador,2003]] 
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/map 
 
@@ -174,19 +183,20 @@ maxZoom: 18
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Newfoundland%20and%20Labrador)  
 
+
 ## Confidential Links & Embeds: 
 
-### [Newfoundland-Labrador](/_Standards/Earth/Continent/America~North/Canada/provinces~Canada/Newfoundland-Labrador.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~North/Canada/provinces~Canada/Newfoundland-Labrador|Newfoundland-Labrador]] 
 
-### [Newfoundland-Labrador.public](/_public/Earth/Continent/America~North/Canada/provinces~Canada/Newfoundland-Labrador.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~North/Canada/provinces~Canada/Newfoundland-Labrador.public|Newfoundland-Labrador.public]] 
 
-### [Newfoundland-Labrador.internal](/_internal/Earth/Continent/America~North/Canada/provinces~Canada/Newfoundland-Labrador.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~North/Canada/provinces~Canada/Newfoundland-Labrador.internal|Newfoundland-Labrador.internal]] 
 
-### [Newfoundland-Labrador.protect](/_protect/Earth/Continent/America~North/Canada/provinces~Canada/Newfoundland-Labrador.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~North/Canada/provinces~Canada/Newfoundland-Labrador.protect|Newfoundland-Labrador.protect]] 
 
-### [Newfoundland-Labrador.private](/_private/Earth/Continent/America~North/Canada/provinces~Canada/Newfoundland-Labrador.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~North/Canada/provinces~Canada/Newfoundland-Labrador.private|Newfoundland-Labrador.private]] 
 
-### [Newfoundland-Labrador.personal](/_personal/Earth/Continent/America~North/Canada/provinces~Canada/Newfoundland-Labrador.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~North/Canada/provinces~Canada/Newfoundland-Labrador.personal|Newfoundland-Labrador.personal]] 
 
-### [Newfoundland-Labrador.secret](/_secret/Earth/Continent/America~North/Canada/provinces~Canada/Newfoundland-Labrador.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~North/Canada/provinces~Canada/Newfoundland-Labrador.secret|Newfoundland-Labrador.secret]] 
 

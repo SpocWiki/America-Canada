@@ -1,4 +1,13 @@
-﻿---
+---
+dv_name: Saskatchewan
+dv_name-abbr: SAS
+dv_is_a_: "[[../../../../Geography/Place]]"
+dv_has_place_longitude: -105.681
+dv_has_place_latitude: 54.5
+dv_is_:
+  same_as: "[[_Standards/WikiData/WD~Saskatchewan,1989]]"
+dv_is_same_as: "[[_Standards/WikiData/WD~Saskatchewan,1989]]"
+
 has_time_started: 1905-01-01 
 aliases:
   - Saskatchewan
@@ -138,17 +147,17 @@ inception: 1905-01-01T00:00:00Z
 
 # [[Saskatchewan]] 
 
-[name::Saskatchewan] 
-[name-abbr::SAS] 
+name = `=this.dv_name` 
+name-abbr = `=this.dv_name-abbr` 
 Country :: [[../../Canada]]  
 Capital :: [[Saskatchewan/City/SAS~Regina]]  
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-105.681] 
-[has_place_latitude::54.5] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
 [Population::] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Saskatchewan,1989]] 
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/map 
 
@@ -175,19 +184,20 @@ maxZoom: 18
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Saskatchewan)
 
+
 ## Confidential Links & Embeds: 
 
-### [Saskatchewan](/_Standards/Earth/Continent/America~North/Canada/provinces~Canada/Saskatchewan.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~North/Canada/provinces~Canada/Saskatchewan|Saskatchewan]] 
 
-### [Saskatchewan.public](/_public/Earth/Continent/America~North/Canada/provinces~Canada/Saskatchewan.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~North/Canada/provinces~Canada/Saskatchewan.public|Saskatchewan.public]] 
 
-### [Saskatchewan.internal](/_internal/Earth/Continent/America~North/Canada/provinces~Canada/Saskatchewan.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~North/Canada/provinces~Canada/Saskatchewan.internal|Saskatchewan.internal]] 
 
-### [Saskatchewan.protect](/_protect/Earth/Continent/America~North/Canada/provinces~Canada/Saskatchewan.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~North/Canada/provinces~Canada/Saskatchewan.protect|Saskatchewan.protect]] 
 
-### [Saskatchewan.private](/_private/Earth/Continent/America~North/Canada/provinces~Canada/Saskatchewan.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~North/Canada/provinces~Canada/Saskatchewan.private|Saskatchewan.private]] 
 
-### [Saskatchewan.personal](/_personal/Earth/Continent/America~North/Canada/provinces~Canada/Saskatchewan.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~North/Canada/provinces~Canada/Saskatchewan.personal|Saskatchewan.personal]] 
 
-### [Saskatchewan.secret](/_secret/Earth/Continent/America~North/Canada/provinces~Canada/Saskatchewan.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~North/Canada/provinces~Canada/Saskatchewan.secret|Saskatchewan.secret]] 
 

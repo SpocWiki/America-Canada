@@ -1,4 +1,13 @@
-﻿---
+---
+dv_is_a_: "[[../../../../../../Geography/Place]]"
+dv_has_place_longitude: -75.7
+dv_has_place_latitude: 45.42
+dv_name: Ottawa
+dv_StateId: 36009
+dv_is_:
+  same_as: "[[../../../../../../../WikiData/WD~Ottawa,1930|WD~Ottawa,1930]]"
+dv_is_same_as: "[[../../../../../../../WikiData/WD~Ottawa,1930|WD~Ottawa,1930]]"
+
 has_time_started: 1855-01-01 
 location: "[[_Standards/WikiData/WD~Southern_Ontario,2033752]]"
 mapzoom:
@@ -154,16 +163,16 @@ postal_code:
 # [[Ottawa]] 
 
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-75.7] 
-[has_place_latitude::45.42] 
-[name::Ottawa] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
 Country :: [[../../../../Canada]]  
-[StateId::36009] 
+StateId = `=this.dv_StateId` 
 [Population::] 
 
-#is_/same_as  :: [[../../../../../../../WikiData/WD~Ottawa,1930|WD~Ottawa,1930]] 
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/map 
 
@@ -197,17 +206,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Ottawa](/_Standards/Earth/Continent/America~North/Canada/provinces~Canada/Ontario/City/Ottawa.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~North/Canada/provinces~Canada/Ontario/counties~Ontario/Ottawa|Ottawa]] 
 
-### [Ottawa.public](/_public/Earth/Continent/America~North/Canada/provinces~Canada/Ontario/City/Ottawa.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~North/Canada/provinces~Canada/Ontario/counties~Ontario/Ottawa.public|Ottawa.public]] 
 
-### [Ottawa.internal](/_internal/Earth/Continent/America~North/Canada/provinces~Canada/Ontario/City/Ottawa.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~North/Canada/provinces~Canada/Ontario/counties~Ontario/Ottawa.internal|Ottawa.internal]] 
 
-### [Ottawa.protect](/_protect/Earth/Continent/America~North/Canada/provinces~Canada/Ontario/City/Ottawa.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~North/Canada/provinces~Canada/Ontario/counties~Ontario/Ottawa.protect|Ottawa.protect]] 
 
-### [Ottawa.private](/_private/Earth/Continent/America~North/Canada/provinces~Canada/Ontario/City/Ottawa.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~North/Canada/provinces~Canada/Ontario/counties~Ontario/Ottawa.private|Ottawa.private]] 
 
-### [Ottawa.personal](/_personal/Earth/Continent/America~North/Canada/provinces~Canada/Ontario/City/Ottawa.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~North/Canada/provinces~Canada/Ontario/counties~Ontario/Ottawa.personal|Ottawa.personal]] 
 
-### [Ottawa.secret](/_secret/Earth/Continent/America~North/Canada/provinces~Canada/Ontario/City/Ottawa.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~North/Canada/provinces~Canada/Ontario/counties~Ontario/Ottawa.secret|Ottawa.secret]] 
 

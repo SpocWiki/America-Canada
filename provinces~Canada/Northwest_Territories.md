@@ -1,4 +1,13 @@
-﻿---
+---
+dv_name: Northwest Territories
+dv_name-abbr: NWT
+dv_is_a_: "[[../../../../Geography/Place]]"
+dv_has_place_longitude: -114.397
+dv_has_place_latitude: 62.4422
+dv_is_:
+  same_as: "[[_Standards/WikiData/WD~Northwest_Territories,2007]]"
+dv_is_same_as: "[[_Standards/WikiData/WD~Northwest_Territories,2007]]"
+
 has_time_started: 1870-07-15 
 aliases:
   - Northwest Territories
@@ -157,17 +166,17 @@ coordinates_of_southernmost_point: Point(-113.0 60.0)
 ---
 # [[Northwest_Territories]] 
 
-[name::Northwest Territories] 
-[name-abbr::NWT] 
+name = `=this.dv_name` 
+name-abbr = `=this.dv_name-abbr` 
 Country :: [[../../Canada]]  
 Capital :: [[Northwest_Territories/counties~Northwest_Territories/Fort_Smith/cities~Fort_Smith/Yellowknife]]  
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-114.397] 
-[has_place_latitude::62.4422] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
 [Population::] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Northwest_Territories,2007]] 
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/map 
 
@@ -194,17 +203,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Northwest_Territories](/_Standards/Earth/Continent/America~North/Canada/provinces~Canada/Northwest_Territories.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~North/Canada/provinces~Canada/Northwest_Territories|Northwest_Territories]] 
 
-### [Northwest_Territories.public](/_public/Earth/Continent/America~North/Canada/provinces~Canada/Northwest_Territories.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~North/Canada/provinces~Canada/Northwest_Territories.public|Northwest_Territories.public]] 
 
-### [Northwest_Territories.internal](/_internal/Earth/Continent/America~North/Canada/provinces~Canada/Northwest_Territories.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~North/Canada/provinces~Canada/Northwest_Territories.internal|Northwest_Territories.internal]] 
 
-### [Northwest_Territories.protect](/_protect/Earth/Continent/America~North/Canada/provinces~Canada/Northwest_Territories.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~North/Canada/provinces~Canada/Northwest_Territories.protect|Northwest_Territories.protect]] 
 
-### [Northwest_Territories.private](/_private/Earth/Continent/America~North/Canada/provinces~Canada/Northwest_Territories.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~North/Canada/provinces~Canada/Northwest_Territories.private|Northwest_Territories.private]] 
 
-### [Northwest_Territories.personal](/_personal/Earth/Continent/America~North/Canada/provinces~Canada/Northwest_Territories.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~North/Canada/provinces~Canada/Northwest_Territories.personal|Northwest_Territories.personal]] 
 
-### [Northwest_Territories.secret](/_secret/Earth/Continent/America~North/Canada/provinces~Canada/Northwest_Territories.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~North/Canada/provinces~Canada/Northwest_Territories.secret|Northwest_Territories.secret]] 
 

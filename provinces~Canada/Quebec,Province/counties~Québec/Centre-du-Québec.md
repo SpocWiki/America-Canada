@@ -5,3 +5,20 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Centre-du-Qu%C3%A9bec) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~North/Canada/provinces~Canada/Quebec,Province/counties~Québec/Centre-du-Québec|Centre-du-Québec]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/America~North/Canada/provinces~Canada/Quebec,Province/counties~Québec/Centre-du-Québec.public|Centre-du-Québec.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/America~North/Canada/provinces~Canada/Quebec,Province/counties~Québec/Centre-du-Québec.internal|Centre-du-Québec.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/America~North/Canada/provinces~Canada/Quebec,Province/counties~Québec/Centre-du-Québec.protect|Centre-du-Québec.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/America~North/Canada/provinces~Canada/Quebec,Province/counties~Québec/Centre-du-Québec.private|Centre-du-Québec.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/America~North/Canada/provinces~Canada/Quebec,Province/counties~Québec/Centre-du-Québec.personal|Centre-du-Québec.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/America~North/Canada/provinces~Canada/Quebec,Province/counties~Québec/Centre-du-Québec.secret|Centre-du-Québec.secret]] 
+

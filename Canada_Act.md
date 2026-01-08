@@ -25,17 +25,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### [Canada_Act](/_Standards/Earth/Continent/America~North/Canada/Canada_Act.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~North/Canada/Canada_Act|Canada_Act]] 
 
-### [Canada_Act.public](/_public/Earth/Continent/America~North/Canada/Canada_Act.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~North/Canada/Canada_Act.public|Canada_Act.public]] 
 
-### [Canada_Act.internal](/_internal/Earth/Continent/America~North/Canada/Canada_Act.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~North/Canada/Canada_Act.internal|Canada_Act.internal]] 
 
-### [Canada_Act.protect](/_protect/Earth/Continent/America~North/Canada/Canada_Act.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~North/Canada/Canada_Act.protect|Canada_Act.protect]] 
 
-### [Canada_Act.private](/_private/Earth/Continent/America~North/Canada/Canada_Act.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~North/Canada/Canada_Act.private|Canada_Act.private]] 
 
-### [Canada_Act.personal](/_personal/Earth/Continent/America~North/Canada/Canada_Act.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~North/Canada/Canada_Act.personal|Canada_Act.personal]] 
 
-### [Canada_Act.secret](/_secret/Earth/Continent/America~North/Canada/Canada_Act.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~North/Canada/Canada_Act.secret|Canada_Act.secret]] 
 

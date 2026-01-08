@@ -1,4 +1,8 @@
-﻿---
+---
+dv_is_:
+  same_as: "[[_Standards/WikiData/WD~District_of_Keewatin,603676]]"
+dv_is_same_as: "[[_Standards/WikiData/WD~District_of_Keewatin,603676]]"
+
 has_time_started: 1876-10-07 
 has_time_stopped: 1905-09-01 
 aliases:
@@ -34,7 +38,7 @@ dissolved_abolished_or_demolished_date: 1905-09-01T00:00:00Z
 
 # [[Keewatin]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~District_of_Keewatin,603676]] 
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/text_of_/abstract 
 
@@ -51,4 +55,20 @@ dissolved_abolished_or_demolished_date: 1905-09-01T00:00:00Z
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Keewatin%20Region) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~North/Canada/provinces~Canada/Nunavut/counties~Nunavut/Keewatin|Keewatin]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/America~North/Canada/provinces~Canada/Nunavut/counties~Nunavut/Keewatin.public|Keewatin.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/America~North/Canada/provinces~Canada/Nunavut/counties~Nunavut/Keewatin.internal|Keewatin.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/America~North/Canada/provinces~Canada/Nunavut/counties~Nunavut/Keewatin.protect|Keewatin.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/America~North/Canada/provinces~Canada/Nunavut/counties~Nunavut/Keewatin.private|Keewatin.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/America~North/Canada/provinces~Canada/Nunavut/counties~Nunavut/Keewatin.personal|Keewatin.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/America~North/Canada/provinces~Canada/Nunavut/counties~Nunavut/Keewatin.secret|Keewatin.secret]] 
 
