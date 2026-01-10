@@ -1,6 +1,6 @@
 ---
-dv_has_name_: New Brunswick
-dv_has_name_abbr: NWB
+dv_has_name: New Brunswick
+dv_has_name_abbreviated: NWB
 dv_is_a_: "[[../../../../Geography/Place]]"
 dv_has_place_longitude: -66.6667
 dv_has_place_latitude: 45.95
@@ -163,8 +163,8 @@ Facebook_username: GovNB
 
 # [[New_Brunswick]] 
 
-name = `=this.dv_name` 
-has_name_abbr = `=this.dv_has_name_abbr` 
+name = `=this.dv_has_name` 
+has_name_abbreviated = `=this.dv_has_name_abbreviated` 
 Country :: [[../../Canada]]  
 Capital :: [[New_Brunswick/City/Fredericton]]  
 #is_a_/Place  

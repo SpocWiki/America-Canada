@@ -3,7 +3,7 @@ dv_"Concept", "Montreal: pvr64"
 dv_is_a_: "[[../../../../../../Geography/Place]]"
 dv_has_place_longitude: -73.6
 dv_has_place_latitude: 45.5
-dv_has_name_: Montreal
+dv_has_name: Montreal
 dv_StateId: 36011
 dv_is_:
   same_as: "[[../../../../../../../WikiData/WD~Montreal,340|WD~Montreal,340]]"
@@ -251,7 +251,7 @@ Libris_URI: pm132xt75tscnrl
 is_a_ = `=this.dv_is_a_`
 has_place_longitude = `=this.dv_has_place_longitude` 
 has_place_latitude = `=this.dv_has_place_latitude` 
-name = `=this.dv_name` 
+name = `=this.dv_has_name` 
 State ::  
 Country :: [[../../../../Canada]]  
 StateId = `=this.dv_StateId` 

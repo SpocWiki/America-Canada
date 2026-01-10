@@ -1,6 +1,6 @@
 ---
-dv_has_name_: Quebeck
-dv_has_name_abbr: QUE
+dv_has_name: Quebeck
+dv_has_name_abbreviated: QUE
 dv_is_a_: "[[../../../../Geography/Place]]"
 dv_has_place_longitude: -72.435
 dv_has_place_latitude: 46.15
@@ -214,8 +214,8 @@ IMDb_keyword: quebec
 
 # [[Quebec,Province]] 
 
-name = `=this.dv_name` 
-has_name_abbr = `=this.dv_has_name_abbr` 
+name = `=this.dv_has_name` 
+has_name_abbreviated = `=this.dv_has_name_abbreviated` 
 Country :: [[../../Canada]]  
 Capital :: [[./City/Quebec]]   
 #is_a_/Place  

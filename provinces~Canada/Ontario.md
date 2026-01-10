@@ -1,6 +1,6 @@
 ---
-dv_has_name_: Ontario
-dv_has_name_abbr: ONT
+dv_has_name: Ontario
+dv_has_name_abbreviated: ONT
 dv_is_a_: "[[../../../../Geography/Place]]"
 dv_has_place_longitude: -77.535
 dv_has_place_latitude: 44.37
@@ -184,8 +184,8 @@ GitHub_topic: ontario
 
 # [[Ontario]] 
 
-name = `=this.dv_name` 
-has_name_abbr = `=this.dv_has_name_abbr` 
+name = `=this.dv_has_name` 
+has_name_abbreviated = `=this.dv_has_name_abbreviated` 
 Country :: [[../../Canada]]  
 Capital :: [[Ontario/counties~Ontario/Toronto]]  
 #is_a_/Place  

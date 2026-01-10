@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -123.12
 dv_has_place_latitude: 49.27
-dv_has_name_: Vancouver
+dv_has_name: Vancouver
 dv_Country: "[[../../../../../../Canada]]"
 dv_StateId: 36004
 dv_is_:
@@ -31,7 +31,7 @@ dv_is_same_as: "[[../../../../../../../../../WikiData/WD~Vancouver,24639|WD~Vanc
 is_a_ = `=this.dv_is_a_`
 has_place_longitude = `=this.dv_has_place_longitude` 
 has_place_latitude = `=this.dv_has_place_latitude` 
-name = `=this.dv_name` 
+name = `=this.dv_has_name` 
 State ::  
 Country = `=this.dv_Country`
 StateId = `=this.dv_StateId` 

@@ -1,6 +1,6 @@
 ---
-dv_has_name_: Saskatchewan
-dv_has_name_abbr: SAS
+dv_has_name: Saskatchewan
+dv_has_name_abbreviated: SAS
 dv_is_a_: "[[../../../../Geography/Place]]"
 dv_has_place_longitude: -105.681
 dv_has_place_latitude: 54.5
@@ -147,8 +147,8 @@ inception: 1905-01-01T00:00:00Z
 
 # [[Saskatchewan]] 
 
-name = `=this.dv_name` 
-has_name_abbr = `=this.dv_has_name_abbr` 
+name = `=this.dv_has_name` 
+has_name_abbreviated = `=this.dv_has_name_abbreviated` 
 Country :: [[../../Canada]]  
 Capital :: [[Saskatchewan/City/SAS~Regina]]  
 #is_a_/Place  

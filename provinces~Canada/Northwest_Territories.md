@@ -1,6 +1,6 @@
 ---
-dv_has_name_: Northwest Territories
-dv_has_name_abbr: NWT
+dv_has_name: Northwest Territories
+dv_has_name_abbreviated: NWT
 dv_is_a_: "[[../../../../Geography/Place]]"
 dv_has_place_longitude: -114.397
 dv_has_place_latitude: 62.4422
@@ -166,8 +166,8 @@ coordinates_of_southernmost_point: Point(-113.0 60.0)
 ---
 # [[Northwest_Territories]] 
 
-name = `=this.dv_name` 
-has_name_abbr = `=this.dv_has_name_abbr` 
+name = `=this.dv_has_name` 
+has_name_abbreviated = `=this.dv_has_name_abbreviated` 
 Country :: [[../../Canada]]  
 Capital :: [[Northwest_Territories/counties~Northwest_Territories/Fort_Smith/cities~Fort_Smith/Yellowknife]]  
 #is_a_/Place  

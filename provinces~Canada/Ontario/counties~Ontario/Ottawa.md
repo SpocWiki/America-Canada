@@ -2,7 +2,7 @@
 dv_is_a_: "[[../../../../../../Geography/Place]]"
 dv_has_place_longitude: -75.7
 dv_has_place_latitude: 45.42
-dv_has_name_: Ottawa
+dv_has_name: Ottawa
 dv_StateId: 36009
 dv_is_:
   same_as: "[[../../../../../../../WikiData/WD~Ottawa,1930|WD~Ottawa,1930]]"
@@ -166,7 +166,7 @@ postal_code:
 is_a_ = `=this.dv_is_a_`
 has_place_longitude = `=this.dv_has_place_longitude` 
 has_place_latitude = `=this.dv_has_place_latitude` 
-name = `=this.dv_name` 
+name = `=this.dv_has_name` 
 State ::  
 Country :: [[../../../../Canada]]  
 StateId = `=this.dv_StateId` 

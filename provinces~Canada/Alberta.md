@@ -1,6 +1,6 @@
 ---
-dv_has_name_: Alberta
-dv_has_name_abbr: ALB
+dv_has_name: Alberta
+dv_has_name_abbreviated: ALB
 dv_is_a_: "[[../../../../Geography/Place]]"
 dv_has_place_longitude: -113.517
 dv_has_place_latitude: 53.5667
@@ -208,8 +208,8 @@ inception: 1905-09-01T00:00:00Z
 
 # [[Alberta]] 
 
-name = `=this.dv_name` 
-has_name_abbr = `=this.dv_has_name_abbr` 
+name = `=this.dv_has_name` 
+has_name_abbreviated = `=this.dv_has_name_abbreviated` 
 Country :: [[../../Canada]]  
 Capital :: [[Alberta/City/Edmonton]]  
 #is_a_/Place  

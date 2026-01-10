@@ -1,6 +1,6 @@
 ---
-dv_has_name_: Manitoba
-dv_has_name_abbr: MAN
+dv_has_name: Manitoba
+dv_has_name_abbreviated: MAN
 dv_is_a_: "[[../../../../Geography/Place]]"
 dv_has_place_longitude: -97.1392
 dv_has_place_latitude: 49.8994
@@ -187,8 +187,8 @@ coordinates_of_southernmost_point: Point(-99.0 49.0)
 
 # [[Manitoba]] 
 
-name = `=this.dv_name` 
-has_name_abbr = `=this.dv_has_name_abbr` 
+name = `=this.dv_has_name` 
+has_name_abbreviated = `=this.dv_has_name_abbreviated` 
 Country :: [[../../Canada]]  
 Capital :: [[Manitoba/City/Winnipeg]]  
 #is_a_/Place  
