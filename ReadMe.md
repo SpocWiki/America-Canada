@@ -59,7 +59,7 @@ dv_ISO4217-currency_minor_unit: 2
 dv_ISO4217-currency_country_name: CANADA
 dv_Global: true
 dv_Global_Name: World
-dv_has_name_: Canada
+dv_has_name: Canada
 dv_has_name_es: Canadá
 dv_has_name_fr: Canada
 dv_has_name_cn: 加拿大
@@ -185,7 +185,7 @@ ISO4217-currency_country_name = `=this.dv_ISO4217-currency_country_name`
 Global = `=this.dv_Global` 
 Global_Name = `=this.dv_Global_Name` 
 
-name = `=this.dv_name` 
+name = `=this.dv_has_name` 
 [	has_name_en	 :: Canada ] 
 has_name_es = `=this.dv_has_name_es` 
 has_name_fr = `=this.dv_has_name_fr` 
