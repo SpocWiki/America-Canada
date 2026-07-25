@@ -249,7 +249,7 @@ demonym:
   - 加拿大人
 described_by_source:
   - "[[/_Standards/WikiData/WD~Catholic_Encyclopedia,302556|WD~Catholic_Encyclopedia,302556]]"
-  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[/_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]"
   - "[[/_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]"
   - "[[/_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391|WD~Sytin_Military_Encyclopedia,4114391]]"
@@ -482,7 +482,7 @@ maritime_identification_digits: 316
 maximum_temperature_record: 49.6
 median_income: 70336
 member_of:
-  - "[[../../../WikiData/WD~Organization_for_Security_and_Co-operation_in_Europe,81299|WD~Organization_for_Security_and_Co-operation_in_Europe,81299]]"
+  - "[[../../../../WikiData/WD~Organization_for_Security_and_Co-operation_in_Europe,81299|WD~Organization_for_Security_and_Co-operation_in_Europe,81299]]"
   - "[[/_Standards/WikiData/WD~Organization_of_American_States,123759|WD~Organization_of_American_States,123759]]"
   - "[[/_Standards/WikiData/WD~Organisation_internationale_de_la_Francophonie,134102|WD~Organisation_internationale_de_la_Francophonie,134102]]"
   - "[[/_Standards/WikiData/WD~World_Meteorological_Organization,170424|WD~World_Meteorological_Organization,170424]]"
@@ -637,7 +637,7 @@ dv_ISO2: CA
 dv_ISO3: CAN
 dv_is_:
   same_as:
-    - "[[../../../WikiData/WD~Canada,16|WD~Canada,16]]"
+    - "[[../../../../WikiData/WD~Canada,16|WD~Canada,16]]"
     - "[[/_Standards/Earth/Continent/America~North/Canada|Canada]]"
     - "[[/_public/Earth/Continent/America~North/Canada.public|Canada.public]]"
     - "[[/_internal/Earth/Continent/America~North/Canada.internal|Canada.internal]]"
@@ -647,8 +647,8 @@ dv_is_:
     - "[[/_secret/Earth/Continent/America~North/Canada.secret|Canada.secret]]"
 dv_has_:
   image_for_:
-    flag: "[[./Canada/Flag_of_Canada.svg|Flag_of_Canada.svg|200]]"
-    coat_of_arms: "[[./Canada/Coat_of_arms_of_Canada.svg|Coat_of_arms_of_Canada.svg|250]]"
+    flag: "[[Flag_of_Canada.svg|Flag_of_Canada.svg|200]]"
+    coat_of_arms: "[[Coat_of_arms_of_Canada.svg|Coat_of_arms_of_Canada.svg|250]]"
   name_:
     ab: Канада
     ace: Kanada
@@ -1000,7 +1000,7 @@ dv_has_:
     zh_tw: 加拿大
     zu: IKhanada
   sound_of_:
-    anthem: "[[../../../../_public/xLarge.public/National-Anthem/Anthem-Canada.mp3|Anthem-Canada.mp3]]"
+    anthem: "[[../../../../../_public/xLarge.public/National-Anthem/Anthem-Canada.mp3|Anthem-Canada.mp3]]"
   telephone_:
     Prefix_:
       International: 11
@@ -1056,7 +1056,7 @@ dv_Language-Id: 499
 dv_has_place_longitude: -87.1444
 dv_has_place_latitude: 50.4137
 dv_is_same_as:
-  - "[[../../../WikiData/WD~Canada,16|WD~Canada,16]]"
+  - "[[../../../../WikiData/WD~Canada,16|WD~Canada,16]]"
   - "[[/_Standards/Earth/Continent/America~North/Canada|Canada]]"
   - "[[/_public/Earth/Continent/America~North/Canada.public|Canada.public]]"
   - "[[/_internal/Earth/Continent/America~North/Canada.internal|Canada.internal]]"
@@ -1065,9 +1065,9 @@ dv_is_same_as:
   - "[[/_personal/Earth/Continent/America~North/Canada.personal|Canada.personal]]"
   - "[[/_secret/Earth/Continent/America~North/Canada.secret|Canada.secret]]"
 dv_has_url_for_code_repository: https://github.com/SpocWiki/America-Canada
-dv_has_image_for_flag: "[[./Canada/Flag_of_Canada.svg|Flag_of_Canada.svg|200]]"
-dv_has_image_for_coat_of_arms: "[[./Canada/Coat_of_arms_of_Canada.svg|Coat_of_arms_of_Canada.svg|250]]"
-dv_has_sound_of_anthem: "[[../../../../_public/xLarge.public/National-Anthem/Anthem-Canada.mp3|Anthem-Canada.mp3]]"
+dv_has_image_for_flag: "[[Flag_of_Canada.svg|Flag_of_Canada.svg|200]]"
+dv_has_image_for_coat_of_arms: "[[Coat_of_arms_of_Canada.svg|Coat_of_arms_of_Canada.svg|250]]"
+dv_has_sound_of_anthem: "[[../../../../../_public/xLarge.public/National-Anthem/Anthem-Canada.mp3|Anthem-Canada.mp3]]"
 dv_has_telephone_prefix_international: 11
 dv_has_telephone_prefix_country: 1
 dv_developed_developing_countries: Developed
@@ -1089,11 +1089,11 @@ has_name_de = `=this.dv_has_name_de`
 ISO2 = `=this.dv_ISO2`
 ISO3 = `=this.dv_ISO3`  
 
-#is_/same_as :: [[../../../WikiData/WD~Canada,16|WD~Canada,16]] 
+#is_/same_as :: [[../../../../WikiData/WD~Canada,16|WD~Canada,16]] 
 
 > [!info] This Article is only a Stub. 
 For more Details, check out [this Git-Repository](https://github.com/SpocWiki/Europe-Canada)
-into a Subfolder named `Canada`, so that this Link into the Sub-Repository works: [[Canada/ReadMe|ReadMe]] 
+into a Subfolder named `Canada`, so that this Link into the Sub-Repository works: [[ReadMe|ReadMe]] 
 
 has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
@@ -1111,19 +1111,19 @@ Numbers are of 2022-06
 
 | Province/Territory                                                           | Popl/k | kkm² | GDP/ G$CAD | GDPpP/ k$CAD | HDI   | Notable Properties                                                    |
 | ---------------------------------------------------------------------------- | -----: | ---: | ---------: | -----------: | ----- | --------------------------------------------------------------------- |
-| [[Canada/provinces~Canada/Ontario\|Ontario]]                                 | 15.623 | 1076 |   1119.545 |       71.659 | 0.942 | Canada's most populous province; economic hub with diverse industries |
-| [[../../../City/Quebec\|Quebec]]                                             |  8.848 | 1542 |    579.460 |       65.490 | 0.926 | Predominantly French-speaking; strong cultural identity               |
-| [[Canada/provinces~Canada/British_Columbia\|British Columbia]]               |  5.531 |  944 |    409.881 |       74.099 | 0.935 | Pacific coastline; significant forestry and technology sectors        |
-| [[Canada/provinces~Canada/Alberta\|Alberta]]                                 |  4.684 |  661 |    452.410 |       96.576 | 0.936 | Rich in natural resources; leading oil and gas producer               |
-| [[Canada/provinces~Canada/Manitoba\|Manitoba]]                               |  1.454 |  647 |     91.872 |       63.153 | 0.922 | Agricultural heartland; diverse economy                               |
-| [[Canada/provinces~Canada/Saskatchewan\|Saskatchewan]]                       |  1.209 |  651 |    109.702 |       90.715 | 0.922 | Major producer of potash and wheat                                    |
-| [[Canada/provinces~Canada/Nova_Scotia\|Nova Scotia]]                         |  1.056 |   55 |     59.574 |       56.389 | 0.922 | Maritime province; strong fishing and shipbuilding industries         |
-| [[Canada/provinces~Canada/New_Brunswick\|New Brunswick]]                     |    832 |   72 |     47.035 |       56.520 | 0.922 | Forestry and mining sectors; bilingual population                     |
-| [[Canada/provinces~Canada/Newfoundland-Labrador\|Newfoundland and Labrador]] |    538 |  405 |     38.959 |       72.293 | 0.922 | Offshore oil production; rugged coastline                             |
+| [[provinces~Canada/Ontario/|Ontario]]                                 | 15.623 | 1076 |   1119.545 |       71.659 | 0.942 | Canada's most populous province; economic hub with diverse industries |
+| [[../../../../City/Quebec/|Quebec]]                                             |  8.848 | 1542 |    579.460 |       65.490 | 0.926 | Predominantly French-speaking; strong cultural identity               |
+| [[provinces~Canada/British_Columbia/|British Columbia]]               |  5.531 |  944 |    409.881 |       74.099 | 0.935 | Pacific coastline; significant forestry and technology sectors        |
+| [[provinces~Canada/Alberta/|Alberta]]                                 |  4.684 |  661 |    452.410 |       96.576 | 0.936 | Rich in natural resources; leading oil and gas producer               |
+| [[provinces~Canada/Manitoba/|Manitoba]]                               |  1.454 |  647 |     91.872 |       63.153 | 0.922 | Agricultural heartland; diverse economy                               |
+| [[provinces~Canada/Saskatchewan/|Saskatchewan]]                       |  1.209 |  651 |    109.702 |       90.715 | 0.922 | Major producer of potash and wheat                                    |
+| [[provinces~Canada/Nova_Scotia/|Nova Scotia]]                         |  1.056 |   55 |     59.574 |       56.389 | 0.922 | Maritime province; strong fishing and shipbuilding industries         |
+| [[provinces~Canada/New_Brunswick/|New Brunswick]]                     |    832 |   72 |     47.035 |       56.520 | 0.922 | Forestry and mining sectors; bilingual population                     |
+| [[provinces~Canada/Newfoundland-Labrador/|Newfoundland and Labrador]] |    538 |  405 |     38.959 |       72.293 | 0.922 | Offshore oil production; rugged coastline                             |
 | Prince Edward Island                                                         |    173 |    5 |      9.924 |       57.129 | 0.922 | Smallest province; known for agriculture and tourism                  |
-| [[Canada/provinces~Canada/Northwest_Territories\|Northwest Territories]]     |     44 | 1346 |      5.478 |      122.602 | 0.922 | Rich in minerals; sparse population                                   |
-| [[Canada/provinces~Canada/Yukon_Territory\|Yukon]]                                                                        |     45 |  482 |      4.330 |       95.242 | 0.922 | Mining industry; scenic landscapes                                    |
-| [[Canada/provinces~Canada/Nunavut\|Nunavut]]                                 |     40 | 2093 |      4.825 |      118.550 | 0.922 | Largest territory by area; predominantly Indigenous population        |
+| [[provinces~Canada/Northwest_Territories/|Northwest Territories]]     |     44 | 1346 |      5.478 |      122.602 | 0.922 | Rich in minerals; sparse population                                   |
+| [[provinces~Canada/Yukon_Territory/|Yukon]]                                                                        |     45 |  482 |      4.330 |       95.242 | 0.922 | Mining industry; scenic landscapes                                    |
+| [[provinces~Canada/Nunavut/|Nunavut]]                                 |     40 | 2093 |      4.825 |      118.550 | 0.922 | Largest territory by area; predominantly Indigenous population        |
 
 
 ## #has_/text_of_/abstract  
@@ -1137,7 +1137,7 @@ Numbers are of 2022-06
 > The country is characterized by a wide range of both meteorologic and geological regions. 
 > It is a sparsely inhabited country of 40 million people, 
 > the vast majority residing south of the 55th parallel in urban areas. 
-> Canada's capital is [[Canada/provinces~Canada/Ontario/counties~Ontario/Ottawa|Ottawa]] and its three largest metropolitan areas are [[Canada/provinces~Canada/Ontario/counties~Ontario/Toronto|Toronto]], [[Canada/provinces~Canada/Quebec,Province/counties~Québec/Montréal,Communauté|Montréal,Communauté]], and [[Canada/provinces~Canada/British_Columbia/counties~British_Columbia/Greater_Vancouver/cities~Greater_Vancouver/Vancouver|Vancouver]].
+> Canada's capital is [[provinces~Canada/Ontario/counties~Ontario/Ottawa|Ottawa]] and its three largest metropolitan areas are [[provinces~Canada/Ontario/counties~Ontario/Toronto|Toronto]], [[provinces~Canada/Quebec,Province/counties~Québec/Montréal,Communauté|Montréal,Communauté]], and [[provinces~Canada/British_Columbia/counties~British_Columbia/Greater_Vancouver/cities~Greater_Vancouver/Vancouver|Vancouver]].
 >
 > Indigenous peoples have continuously inhabited what is now Canada for thousands of years. 
 > Beginning in the 16th century, British and French expeditions explored 
@@ -1149,7 +1149,7 @@ Numbers are of 2022-06
 > Canada was formed as a federal dominion of four provinces. 
 > This began an accretion of provinces and territories 
 > and a process of increasing autonomy from the United Kingdom, 
-> highlighted by the Statute of Westminster, 1931, and culminating in the [[Canada/Canada_Act|Canada_Act]] 1982, 
+> highlighted by the Statute of Westminster, 1931, and culminating in the [[Canada_Act|Canada_Act]] 1982, 
 > which severed the vestiges of legal dependence on the Parliament of the United Kingdom.
 >
 > Canada is a parliamentary democracy and a constitutional monarchy in the Westminster tradition. 
@@ -1183,26 +1183,26 @@ Major Cities with Population in 1000s as of @2021
 
 | City                                                                       | Province                                                       | Pop/k |
 | -------------------------------------------------------------------------- | -------------------------------------------------------------- | ----: |
-| [[Canada/provinces~Canada/Ontario/counties~Ontario/Toronto\|Toronto]]                  | [[Canada/provinces~Canada/Ontario\|Ontario]]                   |  2794 |
-| [[Canada/provinces~Canada/Quebec,Province/counties~Québec/Montréal,Communauté\|Montreal]]        | [[Canada/provinces~Canada/Quebec,Province\|Quebec]]            |  1762 |
-| [[Canada/provinces~Canada/Alberta/City/Calgary\|Calgary]]                  | [[Canada/provinces~Canada/Alberta\|Alberta]]                   |  1306 |
-| [[Canada/provinces~Canada/Ontario/counties~Ontario/Ottawa\|Ottawa]]                    | [[Canada/provinces~Canada/Ontario\|Ontario]]                   |  1017 |
-| [[Canada/provinces~Canada/Alberta/City/Edmonton\|Edmonton]]                | [[Canada/provinces~Canada/Alberta\|Alberta]]                   |  1010 |
-| [[Canada/provinces~Canada/Manitoba/City/Winnipeg\|Winnipeg]]               | [[Canada/provinces~Canada/Manitoba\|Manitoba]]                 |   749 |
-| Mississauga                                                                | [[Canada/provinces~Canada/Ontario\|Ontario]]                   |   717 |
-| [[Canada/provinces~Canada/British_Columbia/counties~British_Columbia/Greater_Vancouver/cities~Greater_Vancouver/Vancouver\|Vancouver]]     | [[Canada/provinces~Canada/British_Columbia\|British Columbia]] |   662 |
-| Brampton                                                                   | [[Canada/provinces~Canada/Ontario\|Ontario]]                   |   656 |
-| Hamilton                                                                   | [[Canada/provinces~Canada/Ontario\|Ontario]]                   |   569 |
-| Surrey                                                                     | [[Canada/provinces~Canada/British_Columbia\|British Columbia]] |   568 |
-| [[Canada/provinces~Canada/Quebec,Province/counties~Québec/Québec,Communauté\|Québec City]] | [[Canada/provinces~Canada/Quebec,Province\|Quebec]]            |   549 |
-| Laval                                                                      | [[Canada/provinces~Canada/Quebec,Province\|Quebec]]            |   438 |
-| [[Canada/provinces~Canada/Ontario/City/London,Ontario\|London,Ontario]]    | [[Canada/provinces~Canada/Ontario\|Ontario]]                   |   422 |
-| Halifax                                                                    | [[Canada/provinces~Canada/Nova_Scotia\|Nova Scotia]]           |   348 |
-| Markham                                                                    | [[Canada/provinces~Canada/Ontario\|Ontario]]                   |   338 |
-| Vaughan                                                                    | [[Canada/provinces~Canada/Ontario\|Ontario]]                   |   323 |
-| Gatineau                                                                   | [[Canada/provinces~Canada/Quebec,Province\|Quebec]]            |   291 |
-| Saskatoon                                                                  | [[Canada/provinces~Canada/Saskatchewan\|Saskatchewan]]         |   266 |
-| Kitchener                                                                  | [[Canada/provinces~Canada/Ontario\|Ontario]]                   |   256 |
+| [[provinces~Canada/Ontario/counties~Ontario/Toronto/|Toronto]]                  | [[provinces~Canada/Ontario/|Ontario]]                   |  2794 |
+| [[provinces~Canada/Quebec,Province/counties~Québec/Montréal,Communauté/|Montreal]]        | [[provinces~Canada/Quebec,Province/|Quebec]]            |  1762 |
+| [[provinces~Canada/Alberta/City/Calgary/|Calgary]]                  | [[provinces~Canada/Alberta/|Alberta]]                   |  1306 |
+| [[provinces~Canada/Ontario/counties~Ontario/Ottawa/|Ottawa]]                    | [[provinces~Canada/Ontario/|Ontario]]                   |  1017 |
+| [[provinces~Canada/Alberta/City/Edmonton/|Edmonton]]                | [[provinces~Canada/Alberta/|Alberta]]                   |  1010 |
+| [[provinces~Canada/Manitoba/City/Winnipeg/|Winnipeg]]               | [[provinces~Canada/Manitoba/|Manitoba]]                 |   749 |
+| Mississauga                                                                | [[provinces~Canada/Ontario/|Ontario]]                   |   717 |
+| [[provinces~Canada/British_Columbia/counties~British_Columbia/Greater_Vancouver/cities~Greater_Vancouver/Vancouver/|Vancouver]]     | [[provinces~Canada/British_Columbia/|British Columbia]] |   662 |
+| Brampton                                                                   | [[provinces~Canada/Ontario/|Ontario]]                   |   656 |
+| Hamilton                                                                   | [[provinces~Canada/Ontario/|Ontario]]                   |   569 |
+| Surrey                                                                     | [[provinces~Canada/British_Columbia/|British Columbia]] |   568 |
+| [[provinces~Canada/Quebec,Province/counties~Québec/Québec,Communauté/|Québec City]] | [[provinces~Canada/Quebec,Province/|Quebec]]            |   549 |
+| Laval                                                                      | [[provinces~Canada/Quebec,Province/|Quebec]]            |   438 |
+| [[provinces~Canada/Ontario/City/London,Ontario/|London,Ontario]]    | [[provinces~Canada/Ontario/|Ontario]]                   |   422 |
+| Halifax                                                                    | [[provinces~Canada/Nova_Scotia/|Nova Scotia]]           |   348 |
+| Markham                                                                    | [[provinces~Canada/Ontario/|Ontario]]                   |   338 |
+| Vaughan                                                                    | [[provinces~Canada/Ontario/|Ontario]]                   |   323 |
+| Gatineau                                                                   | [[provinces~Canada/Quebec,Province/|Quebec]]            |   291 |
+| Saskatoon                                                                  | [[provinces~Canada/Saskatchewan/|Saskatchewan]]         |   266 |
+| Kitchener                                                                  | [[provinces~Canada/Ontario/|Ontario]]                   |   256 |
 
 
 ## Maps and Flags 
@@ -1232,7 +1232,7 @@ markerFile: [[Canada]]
 
 ```leaflet
 id: Canada_Topological
-image: [[../../../../../_public/xLarge.public/Earth/Earth-Topological.png|Earth-Topological.png]]
+image: [[../../../../../../_public/xLarge.public/Earth/Earth-Topological.png|Earth-Topological.png]]
 bounds:
   - [-90, -180]
   - [90, 180]
@@ -1313,7 +1313,7 @@ Area-Total = `=this.dv_Area-Total`
 Area-Land = `=this.dv_Area-Land`
 has_place_continent = `=this.dv_has_place_continent`
 VehicleCode = `=this.dv_VehicleCode`
-Capital :: [[Canada/State/State~Ontario/City/Ottawa|Ottawa]]  
+Capital :: [[State/State~Ontario/City/Ottawa|Ottawa]]  
 Alcohol-l = `=this.dv_Alcohol-l`
 Language-Id = `=this.dv_Language-Id`
 has_place_longitude = `=this.dv_has_place_longitude`
